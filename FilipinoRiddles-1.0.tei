@@ -1,0 +1,4655 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN">
+<TEI.2 lang=en-US>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>A Little Book of Filipino Riddles</title>
+<author key="Starr, Frederick" ref="https://viaf.org/viaf/45085839/">Frederick Starr (1858&ndash;1933)</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Project Gutenberg</publisher>
+<pubPlace>Urbana, Illinois, <hi rend=sc>Usa</hi>.</pubPlace>
+<idno type=LCCN>09031038</idno>
+<idno type=OLN>OL7013809M</idno>
+<idno type=OLW>OL1149027W</idno>
+<idno type=OCLC>5955822</idno>
+<idno type=LibThing>#####</idno>
+<idno type=epub-id>urn:uuid:a6a033bb-5e23-4503-bd03-d4814d1f3628</idno>
+<idno type=PGclearance>gbn0406200830</idno>
+<idno type=PGDPProjectId>projectID40ddf26788e9d</idno>
+<idno type=PGSrc>14358-Starr-A-Little-Book-of-Filipino-Riddles</idno>
+<idno type=PGnum>14358</idno>
+<date>2004-12-15</date>
+<availability>
+<p>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at <xref url="https://www.gutenberg.org/">www.gutenberg.org</xref>.
+
+<p>This eBook is produced by Jeroen Hellingman and the Online Distributed Proofreading Team at <xref url="http://www.pgdp.net/">www.pgdp.net</xref>.
+
+<p>Scans for this book are available from the Internet Archive (copy <xref url="https://archive.org/details/littlebookoffili00star">1</xref>, <xref url="https://archive.org/details/alittlebookfili00unkngoog">2</xref>, <xref url="https://archive.org/details/aeh3478.0001.001.umich.edu">3</xref>).
+
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Frederick Starr</author>
+<title>A Little Book of Filipino Riddles</title>
+<pubPlace>New York</pubPlace>
+<date>1909</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+
+</encodingDesc>
+<profileDesc>
+    <langUsage>
+        <language id=en-US>U.S. English</language>
+        <language id=es>Spanish</language>
+        <language id=de>German</language>
+        <language id=tl>Tagalog</language>
+        <language id=ilo>Ilocano, Iloko or Ilokano</language>
+        <language id=pag>Pangasin&aacute;n</language>
+        <language id=pam>Kapampangan</language>
+        <language id=bis>Bisayan (unspecified, in this case mostly Hiligaynon)</language>
+        <language id=gad>Gaddang</language>
+    </langUsage>
+</profileDesc>
+<revisionDesc>
+<list>
+    <item>2004-10-04 Added TEI tagging and header.
+    <item>2010-05-13 Prepared ePub version.
+    <item>2013-08-11 Added newly designed cover and original title-page scan.
+</list>
+</revisionDesc>
+</teiHeader>
+<text>
+<front id=frontmatter>
+<div1 id=cover type=Cover>
+
+
+<p><figure id=cover-image rend="image(images/new-cover.jpg)">
+<figDesc>Newly Designed Front Cover.</figDesc>
+</figure>
+
+
+<pb>
+<div1 id=titlepage type=TitlePage>
+
+
+<p><figure id=titlepage-image rend="image(images/titlepage.png)">
+<figDesc>Original Title Page.</figDesc>
+</figure>
+
+
+<titlePage>
+    <docTitle>
+        <titlePart type=sub>Philippine Studies</titlePart>
+        <lb><titlePart type=sub>I</titlePart>
+        <lb><titlePart type=main>A Little Book of Filipino Riddles</titlePart>
+    </docTitle>
+
+    <byline>
+    Collected and Edited
+    <lb>by
+    <docAuthor>Frederick Starr</docAuthor>
+    </byline>
+
+    <docImprint>
+    World Book Co.
+    <lb>Yonkers, New York
+    <lb>1909
+    </docImprint>
+</titlePage>
+<pb>
+<div1 id=copy type=Copyright>
+
+<p rend="align(center)">Copyrighted 1909 by Frederick Starr
+
+<p rend="align(center)">The Torch Press Cedar Rapids, Iowa
+
+<pb>
+<div1 id=dedi type=Dedication>
+
+<p rend="align(center)"><hi rend=sc>This Little Book of
+<lb>Filipino Riddles
+<lb>Is Dedicated To
+<lb>Gelacio Caburian
+<lb>Casimiro Verceles
+<lb>Rufino Dungan
+<lb>of
+<lb>Agoo, Union Province</hi>
+
+
+<pb id=pb5 n=5>
+<div1 id=intro type=Introduction>
+<head>Introduction</head>
+
+
+<p>Although I had already inquired for them from Ilocano boys, my first actual knowledge of Filipino riddles was due to Mr. George T. Shoens, American teacher among the Bisayans. He had made a collection of some fifty Bisayan riddles and presented a brief paper regarding them at the Anthropological Conference held at Baguio, under my direction, on May 12&ndash;14, 1908. My own collection was begun among Ilocano of Union Province from whom about two hundred examples were secured. Others were later secured from Pangasinan, Gaddang, Pampangan, Bisayan and Tagal sources. My informants have chiefly been school-boys, who spoke a little English; they wrote the text of riddle and answer in their native tongue and then we went over them carefully together to make an English translation and to get at the meaning. Many Filipinos know how to read and write their native language, although few have had actual instruction in doing so. There is no question that errors and inconsistencies <pb id=pb6 n=6>exist in the spelling of these riddles, due to this lack of instruction and to the fact that the texts have been written by many different persons. I am myself not acquainted with any Malay language. I have tried to secure uniformity in spelling within the limits of each language but have no doubt overlooked many inconsistencies. The indulgence of competent critics is asked. It has been our intention throughout to adhere to the <hi>old</hi> orthography. Thus the initial <hi>qu</hi> and the final <hi>ao</hi> have been preferred.
+
+<p>The <hi>word</hi> for riddle varies with the population. In Ilocano it is <hi lang=ilo>burburtia</hi>, in Pangasinan <hi lang=pag>boniqueo</hi>, in Tagal <hi lang=tl>bugtong</hi>, in Gaddang &mdash;&mdash;, in Pampangan <hi lang=pam>bugtong</hi>, in Bisayan <hi lang=bis>tugmahanon</hi>.
+
+<p>Riddles are common to all mankind. They delighted the old Aryans and the ancient Greeks as they do the modern Hindu and the Bantu peoples of darkest Africa. Many writers have defined the riddle. Friedreich in his <hi lang=de>Geschichte des R&auml;thsels</hi>, says: &ldquo;The riddle is an indirect presentation of an unknown object, in order that the ingenuity of the hearer or reader may be exercised in finding it out.... Wolf has given the following definition: the riddle is a play of wit, which endeavors to so present <pb id=pb7 n=7>an object, by stating its characteristic features and peculiarities, as to adequately call it before the mind, without, however, actually naming it.&rdquo;
+
+<p>The riddles of various Oriental peoples have already been collected and more or less adequately discussed by authors. Hebrew riddles occur in the Bible, the best known certainly being Samson&apos;s:
+
+
+<lg type=Group>
+    <l>&ldquo;Out of the eater came forth meat,
+    <l>And out of the strong came forth sweetness.&rdquo;
+</lg>
+
+
+<p>Arabic riddles are many and have been considerably studied; Persian riddles are well known; of Indian riddles at least one collection has been printed separately under the name <hi>Lakshminatha upasaru</hi>, a series of Kolarian riddles from Chota Nagpur has been printed as, also, an interesting article upon Behar riddles; Sanskrit riddles are numerous and have called for some attention from scholars; a few Gypsy riddles are known; two recent papers deal with Corean riddles. We know of but two references to Malayan riddles; one is Rizal, <hi>Specimens of Tagal Folk-Lore</hi>, the other is Sibree&apos;s paper upon the <hi>Oratory, Songs, Legends, and Folk-Tales of the Malagasy</hi>. This is no doubt an incomplete bibliography but the field has been sadly neglected and even to secure <pb id=pb8 n=8>this list has demanded much labor. It suffices to show how deeply the riddle is rooted in Oriental thought and indicates the probability that riddles were used in Malaysia long before European contact.
+
+<p>To what degree Filipino riddles are indigenous and original is an interesting but difficult question. So far as they are of European origin or influenced by European thought, they have come from or been influenced by Spain. Whatever comparison is made should chiefly, and primarily, be with Spanish riddles. But our available sources of information regarding Spanish riddles are not numerous. We have only Demofilo&apos;s <hi lang=es>Collecion de enigmas y adivinanzas</hi>, printed at Seville in 1880, and a series of five chap-books from Mexico, entitled <hi lang=es>Del Pegue&ntilde;o Adivinadorcito</hi>, and containing a total of three hundred and seven riddles. Filipino riddles deal largely with animals, plants and objects of local character; such must have been made in the Islands even if influenced by Spanish models and ideas. Some depend upon purely local customs and conditions&mdash;thus numbers <ref target=r170>170</ref>, <ref target=r237>237</ref>, etc., could only originate locally. Some, to which the answers are such words as egg, needle and thread, etc., (answers <pb id=pb9 n=9>common to riddles in all European lands), may be due to outside influence and may still have some local or native touch or flavor, in their metaphors; thus No. <ref target=r102>102</ref> is actually our &ldquo;Humpty Dumpty sat on a wall;&rdquo; the Mexican form runs:
+
+
+<lg lang=es>
+    <l>&ldquo;Una arquita muy chiquita
+    <l>tan blanca como la cal
+    <l>todo lo saben abrir
+    <l>pero ninguno cerrar.&rdquo;
+</lg>
+
+
+<p>But the metaphor &ldquo;the King&apos;s limebox&rdquo; could only occur in a district of betel-chewing and is a native touch. Many of the Filipino riddles introduce the names of saints and, to that degree, evidence foreign influence; but even in such cases there may be local coloring; thus, calling rain-drops falling &ldquo;rods,&rdquo; &ldquo;St. Joseph&apos;s rods cannot be counted,&rdquo; could hardly be found outside of the tropics. Religious riddles, relating to beads, bells, church, crucifixes, are common enough and are necessarily due to outside influence, but even such sometimes show a non-European attitude of mind, metaphorical expression or form of thought.
+
+<p>Everywhere riddles vary in quality and value. Many are stupid things, crudely conceived and badly expressed. Only the exceptional is fine. Examine any page of one of our own riddle books <pb id=pb10 n=10>and you may criticize almost every riddle upon it for view-point, or form, or flavor. We must not demand more from Filipino riddles than from our own. Some knowledge of local products, customs, conditions, is necessary for the understanding of their meaning; when understood, they are fully equal to ours in shrewdness, wit and expression. Krauss emphasizes the fact that everywhere riddles tend to coarseness and even to obscenity and discusses the reasons. What is true elsewhere is true here; a considerable number of Filipino riddles are coarse; we have introduced them but emphasize the fact that any scientifically formed collection of German or English riddles would contain some quite as bad.
+
+<p>Probably few of our readers have considered the taxonomy of riddles. Friedreich offers a loose and unscientific classification as follows:
+
+
+<list>
+    <item>I. The Question Riddle.
+    <item>II. The Simple Word Riddle (with seven sub-divisions).
+    <item>III. The Syllable Riddle or Charade.
+    <item>IV. The Letter Riddle.
+    <list>
+        <item><ab type=itemNum>1.</ab> With reference to sound.
+        <item><ab type=itemNum>2.</ab> With reference to form.
+    </list>
+    <item>V. Punctuation Riddles.
+    <item>VI. The Rebus.
+    <item>VII. Complex Riddles; combination of two or more simple types.
+    <item>VIII. Number Riddles.
+</list>
+
+
+<pb id=pb11 n=11><p>Several of these forms occur in our collection.
+
+<p>More scientific than Friedreich&apos;s work is Petsch&apos;s <hi lang=de>Studien &uuml;ber das Volksr&auml;tsel</hi>. His analysis and dissection of riddle forms best enable us to test the indigenous content of our Filipino riddles. He recognizes two fundamental riddle types. He says: &ldquo;Two groups of riddles have long been distinguished in the collections, the true rhymed riddles and the short &lsquo;catch-questions&rsquo; expressed in prose. The difference is not only in form but in content. &lsquo;True riddles&rsquo; have as purpose the describing of an object in veiled, thought-arousing, perhaps misleading, poetical clothing, which, from this presentation of its appearance, its source, its utility, etc., shall be recognized by the intelligence, i.e., can and shall be guessed. &lsquo;Catch-questions,&rsquo; on the contrary, are not to be guessed, the questioner intending himself to give the solution; at their best they are intended to trick the hearer, and since their solution is impossible to the uninitiated are not &lsquo;true riddles&rsquo; but false ones. Since I propose to divide the total riddle material of each single nation between these <pb id=pb12 n=12>two great chief groups, may I not somewhat extend the scope of the latter, including some things which are rejected from most collections as having little to do with actual riddles&mdash;those questions which are generally insoluble and such tests of wisdom as appeal not to wit and understanding, but to knowledge&mdash;which are certainly not true riddles. Thus, in the group here characterized as &lsquo;false&rsquo; different classes of things are brought together, the characteristics of which I shall investigate later.&rdquo; It would be interesting to quote the author&apos;s discussion further. We can, however, only state that he recognizes three classes of &ldquo;false riddles,&rdquo; to which he gives the names &ldquo;wisdom tests,&rdquo; &ldquo;life-ransoming riddles,&rdquo; and &ldquo;catch-questions.&rdquo;
+
+<p>Of &ldquo;true riddles&rdquo; there is a vast variety of form and content. Most typical is the descriptive riddle of a single object to be guessed. In its complete and normal form Petsch claims that such a riddle consists of five elements or parts. 1 Introduction; 2 denominative; 3 descriptive; 4 restraint or contrast; 5 conclusion. 1 and 5 are merely formal, trimmings; 2 and 3 are inherent and essential; 4 is common and adds vigor and interest. Such complete and &ldquo;normal&rdquo; <pb id=pb13 n=13>riddles are rare in any language. Usually one or more of the five elements are lacking. It is only by such an analysis of riddle forms that a comparative study of riddles can be made. Any single riddle is best understood, by the constant holding before the mind this pattern framework and noting the degree of development of the case in hand.
+
+<p>The Filipinos themselves recognize several classes of riddles. An old Tagal lady told us there were three kinds:
+
+
+<list>
+    <item><ab type=itemNum>1.</ab> <hi>Alo-divino</hi>: concerning God and divine things
+    <item><ab type=itemNum>2.</ab> <hi>Alo-humano</hi>: concerning persons
+    <item><ab type=itemNum>3.</ab> <hi>Parabula</hi>: all others
+</list>
+
+
+<p>There is no science in this classification, which embodies considerable corrupted Spanish. Another informant recognizes six classes:
+
+<list>
+    <item><ab type=itemNum>1.</ab> <hi>Alo-divino</hi>
+    <item><ab type=itemNum>2.</ab> <hi>Historia-vino:</hi> history of God and saints
+    <item><ab type=itemNum>3.</ab> <hi>Alo-humano</hi>
+    <item><ab type=itemNum>4.</ab> <hi>Historia-mano</hi>: history of persons.
+    <item><ab type=itemNum>5.</ab> <hi>Karle-mano</hi>: God and saints and persons together.
+    <item><ab type=itemNum>6.</ab> <hi>Parabula</hi> or <hi>biniyabas</hi>.
+</list>
+
+<p>These names call for little comment and the classification they embody is of the loosest. The word <hi lang=es>parabula</hi> is <pb id=pb14 n=14>Spanish in source and equivalent to our parable; <hi lang=tl>biniyabas</hi> is Tagal.
+
+<p>Some features of our riddles call for comment. Filipino riddles, in whatever language, are likely to be in poetical form. The commonest type is in two well-balanced, rhyming lines. Filipino versification is less exacting in its demand in rhyme than our own; it is sufficient if the final syllables contain the same vowel; thus Rizal says&mdash;<hi>ayup</hi> and <hi>pagud</hi>, <hi>aval</hi> and <hi>alam</hi>, rhyme. The commonest riddle verse contains five or seven, or six, syllables, thus:
+
+<lg lang=tl>
+    <l>Daluang balon
+    <l>hindi malingon
+</lg>
+
+<p>or
+
+<lg lang=tl>
+    <l>Bahay ni San Gabriel
+    <l>punong puno nang barel.
+</lg>
+
+<p>Just as in European riddles certain set phrases or sentences are found frequently at the beginning or end of the riddle. In Ilocano and Pangasinan a common introductory form is &ldquo;What creature of God&rdquo; or &ldquo;What thing made by Lord God,&rdquo; the expression in reality being equivalent to a simple &ldquo;what.&rdquo; These pious forms do not at all necessarily refer either to animals or natural objects; thus, a boat or a house is just as good a &ldquo;creature of God&rdquo; as a fowl is. A common form of ending <pb id=pb15 n=15>is &ldquo;Tell it and I am yours,&rdquo; &ldquo;Guess it and I am your man.&rdquo;
+
+<p>Quite analogous to calling inanimate or artificial things &ldquo;creatures of God&rdquo; is the personification of all sorts of things, animate and inanimate; thus, a rat is &ldquo;an old man,&rdquo; a dipper is &ldquo;a boy.&rdquo; Not infrequently the object or idea thus personified is given a title of respect; thus, &ldquo;Corporal Black&rdquo; is the night. Akin to personification is bold metaphor and association. In this there may or may not be some evident analogy; thus a crawfish is &ldquo;a bird,&rdquo; the banca or canoe is &ldquo;rung&rdquo; (like a bell.) Not uncommonly the word &ldquo;house&rdquo; is used of anything thought of as containing something; thus &ldquo;Santa Ana&apos;s house,&rdquo; &ldquo;San Gabriel&apos;s house;&rdquo; this use is particularly used in speaking of fruits. &ldquo;Santa Ana&apos;s house is full of bullets&rdquo; is rather pretty description for the papaya. The word &ldquo;work&rdquo; is often used for a thing made, or a manufactured article.
+
+<p>Saints&apos; names are constantly introduced, generally in the possessive case; examples are &ldquo;Santa Ana&apos;s house,&rdquo; &ldquo;Santa Maria&apos;s umbrella,&rdquo; &ldquo;San Jose&apos;s canes.&rdquo; Less commonly the names of other Bible worthies occur; thus &ldquo;Adam&apos;s hair.&rdquo; There is not always any <pb id=pb16 n=16>evident fitness in the selection of the Saint in the connection established. San Jose&apos;s connection with rain is suitable enough. One would need to know a good deal regarding local and popular hagiography in order to see to what degree the selections are appropriate.
+
+<p>Sometimes words without meaning, or with no significance in the connection where they occur are used. These may serve merely to fill out a line or to meet the demands of metre. Such often appear to be names of the style of &ldquo;Humpty Dumpty;&rdquo; these may be phonetically happy, as similar ones often are in European riddles, fitting well with the word or idea to be called up. <hi>Marabotania</hi> is probably meaningless, merely for euphony. Place names with no real connection with the thought are frequently introduced, as Pantaleon, Mariveles. &ldquo;<hi>Guering-guering</hi>&rdquo; and &ldquo;<hi>Minimin</hi>&rdquo; are merely for sound.
+
+<p>Particularly interesting and curious are the <hi>historia-vino</hi> given in numbers <ref target=r312>312</ref>&ndash;<ref target=r317>317</ref>. No doubt there are many such. Those here given were secured from one boy at Malolos. When first examined, I believed the boy had not understood what I was after. He assured me that they were <hi>bugtong</hi> and <hi>bugtong</hi> of the best and finest class. The idea in these <pb id=pb17 n=17>is to propound a statement in a paradoxical form, which calls for some reference to a bible story or teaching; the answer is not immediately clear and demands a commentary which is quite often subtle and ingenious. Friedreich gives examples of similar expository religious riddles from Europe.
+
+<p>A curious group are the relationship riddles, numbers <ref target=r286>286</ref>&ndash;<ref target=r289>289</ref>, which closely resemble trick questions among ourselves. The evidence of outside influence is here conclusive in the fact that the ideas and terms of relationship in them are purely European, in nowise reflecting the characteristic Malayan system and nomenclature.
+
+<p>Some of the riddles are distinctly stupid. &ldquo;I let the sun shine on your father&apos;s back&rdquo; seems to mean no more than that the house roof is exposed to the solar rays. It is doubtful whether this means much even in the original Tagal. Of course many of the riddles demand for their adequate understanding a knowledge of native customs, which the outsider rarely has. Thus, until one knows a common method of punishing naughty children, the riddle &ldquo;I have a friend; I do not like to face him&rdquo; means nothing. Perhaps the most difficult to adequately present are some plays <pb id=pb18 n=18>on words. These frequently need a considerable explanation. In some of these the parts of the word to guess are concealed in or are suggested by the form of the statement and one must extract them and combine them; such are &ldquo;<hi>iscopidor</hi>&rdquo; and &ldquo;<hi>sampaloc</hi>.&rdquo; In others the play depends upon homophony, the same sound or word have different meanings. In yet a third class the answer is a smart Aleck sort of an affair, &ldquo;How do you take a deer without net, dogs, spear, or other things for catching?&rdquo; &ldquo;Cooked.&rdquo; Most inane of all, but with plenty of analogues among ourselves, are those where the answer itself is introduced into the question with the intention to mislead; &ldquo;Its skin is green and its flesh is red like a watermelon.&rdquo; &ldquo;Watermelon.&rdquo;
+
+<p>Filipino riddles are mostly given out by young people. When several are gathered together they will question and answer; they are much in vogue when a young gentleman calls upon his sweetheart; among Tagals and Pampangans at least the chief occasion for giving <hi lang=tl>bugtong</hi> is when a little group are watching at night beside a corpse. In propounding a riddle it is not uncommon to challenge attention by repeating as witty a rhyme, which is quite as often <pb id=pb19 n=19>coarse as witty. One Tagal example runs:
+
+
+<lg><lg lang=tl>
+    <l>Bugtong co ka Piro!
+    <l>Turan mo ka Baldo!
+    <l>Pag hindi mo naturan
+    <l>Hindi ca nang iwang;
+    <l>Pag maturan mo
+    <l>May tae ang puit mo.
+</lg>
+
+<lg>
+    <l>I have a bugtong compadre P!
+    <l>Guess it compadre B!
+    <l>If you cannot guess it
+    <l>You have not cleaned yourself;
+    <l>If you do not guess it
+    <l>You are dirty.
+</lg></lg>
+
+
+<p>We have mentioned two references to Malay riddles. Of the eight given in Rizal&apos;s paper five have been given us by our informants. As Rizal&apos;s entire paper will be reprinted in another volume of this series we have not copied the other three. Sibree&apos;s paper is important for comparison, since it presents matter drawn from the uttermost point of Malaysia, Madagascar, which has been unaffected by Spanish influence. Sibree&apos;s article is translated from a little book by another missionary, the Rev. Louis Dahle. Dahle&apos;s book is entitled <hi>Specimens of Malayasy Folklore</hi> and its material is presented in Malagasy <pb id=pb20 n=20>only. Mr. Sibree translates twenty of his riddles. They are in character and flavor like many of the Filipino riddles. As Sibree does not give the native text and I have not seen <corr sic="Dahl&apos;s">Dahle&apos;s</corr> book, I cannot know whether they are rhymed. They are all of the type of true riddles to be guessed, descriptions wherein one or two characteristics or striking features are presented, either directly or figuratively. Examination of this little series deepens an impression already made by study of our own collection, namely, that the true riddles in our series are largely original Filipino while the insoluble riddles, the catches, the plays on words, are those where foreign influence is most evident. Although Sibree&apos;s article is easily accessible, we quote a few of <corr sic=thees>these</corr> Malagasy examples for comparison.
+
+<p>&ldquo;Cut and no wound seen?&rdquo; &ldquo;Water,&rdquo; is our number <ref target=r231>231</ref>.
+
+<p>&ldquo;The mother says let us stand up, but the children say let us lie across?&rdquo; &ldquo;A ladder.&rdquo; and &ldquo;At night they come without being fetched and by day they are lost, without being stolen?&rdquo; &ldquo;The stars.&rdquo; are quite in the style and spirit of Filipino riddles. Compare &ldquo;Coarse rafia cloth outside and white robe inside?&rdquo; &ldquo;Manioc root&rdquo; with the &ldquo;Poor <pb id=pb21 n=21>outside; rich within,&rdquo; &ldquo;Langca&rdquo; of the Ilocano.
+
+<p>The order of presentation of these riddles has been a considerable problem. To arrange them rigidly in Petsch&apos;s order of development might have been fairly satisfactory but would have rendered the finding of any desired riddle difficult. We have struck out a crude arrangement in alphabetical order of the English answers, with subdivisions under some general headings. The arrangement is not scientific nor completely developed, but it will perhaps work fairly well in practice. The original text is first given for riddle and answer; the English translation of both follows; then are given such explanation and comment as are necessary. When a riddle occurs in different languages, the text of the question is given in one, but the fact of its occurrence in others is indicated.
+
+<p>We are indebted to many for assistance. The list is too long for individual acknowledgment. To our original Ilocano helpers this little book is dedicated. To Messrs. George T. Shoens, Francisco A. Santos (Calumpit), Rufino Santos (Arayat) and Conrado Benitez (Pagsanghan), we are so deeply indebted that their names must be mentioned. To <pb id=pb22 n=22>school boys in Agoo, San Fernando (Union), Malolos, Manila and Tayug, we owe many thanks. Would that the publication of this imperfect collection might lead to their greater interest in a neglected section of their folklore. Some Malay worker ought to perfect and complete the work here begun.
+
+<p>This volume is the first number of a series of little books which the undersigned plans to bring out under the general title of <hi rend=sc>Philippine Studies</hi>. Each number will treat of a distinct and separate subject; each will be independent. The extent to which the series will be developed, will depend upon the reception given to it and the degree in which it appears to respond to a real need. Two numbers at any rate are already arranged and the second should appear within a year.
+
+
+<p rend="class(signed)"><hi rend=sc>Frederick Starr</hi>.
+
+<p rend="class(signed)">September, 1909.
+
+
+<pb id=pb23 n=23>
+<div1 id=bibl type=Bibliography>
+<head>Bibliography of Works Mentioned in the Introduction</head>
+
+<!-- JH: Added formatting: quoted article titles and italized book and magazine titles -->
+
+<p>Bernheisel, K. &ldquo;Korean Conundrums.&rdquo; <hi>Korean Review</hi>. 1905, pp. 81&ndash;86.
+
+<p>Bloomfield, M. <hi>Religion of the Veda</hi>, pp. 215&ndash;218.
+
+<p>(Sanskrit Riddles.) <hi>Journal American Oriental Society</hi>, Vol. X, p. 172.
+
+<p>Dahle, L. <hi>Specimens of Malagasy Folk-Lore</hi>. Atananarivo, 1877, 8vo, pp. 457.
+
+<p lang=es><hi>Del pequeno Adivinadorcito</hi>. Mexico. Five chap-books, 16mo each, 16 pp.
+
+<p lang=es>Demofilo. <hi>Colleccion de enigmas y adivinanzas</hi>. Sevilla, 1880. 8vo, pp. 495.
+
+<p lang=de>Friedreich, J. B. <hi>Geschichte des R&auml;tsels</hi>. Dresden, 1860. 8vo, pp. viii, 248.
+
+<p lang=de>F&uuml;hrer, A. &ldquo;Sanskritische R&auml;tsel.&rdquo; <hi>Zeitschrift der Deutsch. Morgenl&auml;nder Gesel.</hi> 1885. pp. 99&ndash;102.
+
+<p lang=de>Haug. &ldquo;Vedische R&auml;tselfragen und R&auml;tselspruche.&rdquo; <hi>Trans. Munich Academy</hi>, 1875.
+
+<p lang=de>Krauss, F. S. <hi>Allegemeine Methodik d. Volkskunde</hi> 1891&ndash;97, p. 112.
+
+<pb id=pb24 n=24><p>&ldquo;Korean Conundrums.&rdquo; <hi>Korean Review</hi>. Seoul; 1906. pp. 59&ndash;60.
+
+<p>Lakshminatha upasaru. <hi>Collection of Riddles</hi>. Patna, 1888. 32mo, pp. 32.
+
+<p lang=de>Ludwig. <hi>Der Rig Veda</hi>. iii. pp. 390.
+
+<p>Mitra. Sarat Chandra. &ldquo;Riddles current in Bihar.&rdquo; <hi><corr sic=Jouranl>Journal</corr> Asiatic Society</hi>, 1901, 8vo, pp. 33&ndash;58.
+
+<p lang=de>Petsch, R. <hi>Studien &uuml;ber das Volksr&auml;tsel</hi>. Berlin. 1898, 8vo, pp. 139.
+
+<p>Phillott, D. C. &ldquo;Persian Riddles.&rdquo; Calcutta, 1906. <hi>Journal Asiatic Society of Bengal</hi>, pp. 86&ndash;94.
+
+<p>Rizal, J. &ldquo;Specimens of Tagal Folk-Lore.&rdquo; London, 1889, <hi>Trubner&apos;s Record</hi>, pp. 45&ndash;46.
+
+<p>Sibree, Jr., J. &ldquo;The Oratory, Songs, Legends and Folk-Tales of the Malagasy.&rdquo; London, 1883, <hi>Folk-Lore Journal</hi>, pp. 38&ndash;40.
+
+<p>&ldquo;Two Gypsy Riddles.&rdquo; <hi>Journal Gypsy Folk-Lore Society</hi>, 1907, pp. 92.
+
+<p>Wagner, P. &ldquo;Some Kolarian Riddles.&rdquo; Calcutta, 1904. <hi>Journal Asiatic Society of Bengal</hi>, pp. 62&ndash;79.
+
+
+<pb id=pb25 n=25>
+</front>
+<body>
+<div1 id=riddles>
+<head>Filipino Riddles</head>
+
+<div2 type=Section>
+<head>Animals: mammals.</head>
+
+
+<p rend="class(number)" id=r1>1.
+
+<p rend="class(question)" lang=ilo n=1>Ania iti pinarsua iti Dios a balin suec a maturog?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Panniqui
+
+<p rend="class(question)">What thing that God made sleeps with its head down?
+        <p rend="class(answer)">Bat
+
+
+<p rend="class(number)" id=r2>2.
+
+<p rend="class(question)" lang=tl n=2>Pantas ca man, at marunong bumasa at sumulat, aling ibon dito sa mundo ang lumilipad ay sumususo ang anak?
+        <p rend="class(answer)" lang=tl>(Tag.) Kabag
+
+<p rend="class(question)">Although you are wise and know how to read and write, which bird in this world flies and yet suckles its young?
+        <p rend="class(answer)">Bat
+
+
+<p rend="class(number)" id=r3>3.
+
+<p rend="class(question)" lang=ilo n=3>Uppat iti adiguina, maysa iti baotna, dua iti paypayna, dua iti boneng.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Carabao
+
+<p rend="class(question)">Four posts, one whip, two fans, and two bolos.
+        <p rend="class(answer)">Carabao
+
+
+<pb id=pb26 n=26>
+<p rend="class(number)" id=r4>4.
+
+<p rend="class(question)" lang=tl n=4>Apat na tukod langit at isang pang hagupit.
+        <p rend="class(answer)" lang=tl>(Tag.) Kalabao
+
+<p rend="class(question)">Four earth posts, two air posts and whip.
+        <p rend="class(answer)">Carabao
+
+
+<p rend="class(number)" id=r5>5.
+
+<p rend="class(question)" lang=pag n=5>Saquey so torutoro duaray quepay-quepay a patiray mansobsoblay.
+        <p rend="class(answer)" lang=pag>(Pang.) Dueg
+
+<p rend="class(question)">One pointing, two moving, four changing.
+        <p rend="class(answer)">Carabao
+
+    <p rend="class(explanation)">The head points, the ears move, the legs change position.
+
+
+<p rend="class(number)" id=r6>6.
+
+<p rend="class(question)" lang=gad n=6>Nu mat-tut-lud ay atanang udde; nu mat-tadag ay ibbafa.
+        <p rend="class(answer)" lang=gad>(Gad.) Atu
+
+<p rend="class(question)">If he sits down he is high; if he stands up he is low.
+        <p rend="class(answer)">Dog
+
+
+<p rend="class(number)" id=r7>7.
+
+<p rend="class(question)" lang=ilo n=7>Adda maysa nga parsua ni Apo Dios nga adda uppat a sacana, ipusna quen maysa nga ulona nga aoan ti imana.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Caballo
+
+<p rend="class(question)">There is one creature of our Lord God which has four legs and a tail and one head; but it has no arms.
+        <p rend="class(answer)">Horse
+
+
+<pb id=pb27 n=27>
+<p rend="class(number)" id=r8>8.
+
+<p rend="class(question)" lang=tl n=8>Carga nang carga ay ualang upa.
+        <p rend="class(answer)" lang=tl>(Tag.) Babuy
+
+<p rend="class(question)">Always working and no pay.
+        <p rend="class(answer)">The pig
+
+    <p rend="class(explanation)">He is ever eating garbage and waste.
+
+
+<p rend="class(number)" id=r9>9.
+
+<p rend="class(question)" lang=tl n=9>Eto na si &ldquo;Nuno,&rdquo; may sunong na <corr sic=quinto>guinto</corr>.
+        <p rend="class(answer)" lang=tl>(Tag.) Babuy
+
+<p rend="class(question)">Here comes &ldquo;Nuno&rdquo; with gold on his head.
+        <p rend="class(answer)">Pig
+
+    <p rend="class(explanation)">The pig is a constant scavenger and frequents the space below latrines and privies; it is a common thing that his snout is yellow as result of his search.
+
+
+<p rend="class(number)" id=r10>10.
+
+<p rend="class(question)" lang=ilo n=10>Magmagna ni inam sangsangitam.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Burias
+
+<p rend="class(question)">While the mother is walking the child is crying.
+        <p rend="class(answer)">A little pig
+
+
+<p rend="class(number)" id=r11>11.
+
+<p rend="class(question)" lang=ilo n=11>Adda maysa nga lacay gomogoyod ti oay.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Bao
+
+<p rend="class(question)">There is an old man, who always drags rattan.
+        <p rend="class(answer)">Rat
+
+    <p rend="class(explanation)">i.e. his tail.
+
+
+<pb id=pb28 n=28>
+<p rend="class(number)" id=r12>12.
+
+<p rend="class(question)" lang=tl n=12>Kahoy cong Marigundong, na sangay ualang dahon.
+        <p rend="class(answer)" lang=tl>(Tag.) Sungay
+
+<p rend="class(question)">My tree in Marigundong (town in Cavite) has branches but no leaves.
+        <p rend="class(answer)">Horn
+
+    <p rend="class(explanation)">The branching horn of a deer.
+
+
+<p rend="class(number)" id=r13>13.
+
+<p rend="class(question)" lang=pam n=13>Maco ca quian, yacu naman ing quian.
+        <p rend="class(answer)" lang=pam>(Pamp.) Ding bitis daring animal a tiapat a bitis nung lalacad ya.
+
+<p rend="class(question)">Away! let me have your place.
+        <p rend="class(answer)">The forward legs of an animal
+
+    <p rend="class(explanation)">The hind feet tread in the prints of the forefeet.
+
+
+<div2>
+<head>Bell.</head>
+
+
+<p rend="class(number)" id=r14>14.
+
+<p rend="class(question)" lang=tl n=14>Nang hataken co ang baging nagkagulo ang matsing.
+        <p rend="class(answer)" lang=tl>(Tag.) Batingao
+
+<p rend="class(question)">When I pulled the vine the monkeys came around.
+        <p rend="class(answer)">Bell
+
+
+<p rend="class(number)" id=r15>15.
+
+<p rend="class(question)" lang=tl n=15>Tinugtog co ang bangca nagsilapit ang isda.
+        <p rend="class(answer)" lang=tl>(Tag.) Campana sa misa
+
+<pb id=pb29 n=29>
+<p rend="class(question)">I rang the banca and the fishes came.
+        <p rend="class(answer)">Bell
+
+    <p rend="class(explanation)">Banca is the canoe or boat; to strike it as with the pole is to ring it. People called to mass by the ringing bell are likened to fishes.
+
+
+<p rend="class(number)" id=r16>16.
+
+<p rend="class(question)" lang=ilo n=16>Togtoquec ti teppang agarayat ti bagsang
+        <p rend="class(answer)" lang=ilo>(Iloc.) Campana
+
+<p rend="class(question)">I strike upon the washout and the <hi lang=ilo>bagsang</hi> come for help.
+<!-- CHECK -->        <p rend="class(answer)">Bell
+
+    <p rend="class(explanation)">The curved side of the bell is compared to a washed out slope or curve of the bank; the <hi lang=ilo>bagsang</hi> are small fishes; the bell is the church bell&mdash;the little fishes are the people.
+
+
+<p rend="class(number)" id=r17>17.
+
+<p rend="class(question)" lang=pag n=17>Otin nen laquic Tapal ni baleuet ed corral manaquis, ya agnaecal.
+        <p rend="class(answer)" lang=pag>(Pang.) Campana
+
+<p rend="class(question)">Tapal&apos;s <abbr expan=penis>&mdash;&mdash;</abbr> hanging within the corral is crying to get out.
+        <p rend="class(answer)">Bell
+
+    <p rend="class(explanation)">Tapal is a nickname for an old man.
+
+
+<div2>
+<head>Betel.</head>
+
+
+<p rend="class(number)" id=r18>18.
+
+<p rend="class(question)" lang=ilo n=18>Adda tallo nga babbalasang quet no mapanda maquimisa; iti caoes ti maysa ata berde, quet dadiay maysa <pb id=pb30 n=30>ata porao, quen dadiay maysa ata lomabaga; quet norommuardan ata malabaga amin iti caoesdan.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Mamabuyo
+
+<p rend="class(question)">There are three ladies who went to mass; the dress of one was green, of another white, of the other red; when they came out together the dresses of all were red.
+        <p rend="class(answer)">Betel
+
+
+<p rend="class(number)" id=r19>19.
+
+<p rend="class(question)" lang=tl n=19>Nasatiyan pa nang kanyang ina, kinuha at pinapagasawa.
+        <p rend="class(answer)" lang=tl>(Tag.) Ang bungang isinasama sa <sic>itso</sic>
+
+<p rend="class(question)">Still in his mother&apos;s body was taken and made to marry.
+        <p rend="class(answer)">Betel
+
+    <p rend="class(explanation)">The areca nut is first taken out of its covering before being united with the betel leaf and lime.
+
+
+<p rend="class(number)" id=r20>20.
+
+<p rend="class(question)" lang=ilo n=20>Bulong tiptipparo; puso balasang baro.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Mama
+
+<p rend="class(question)">A <hi>tiptipparo</hi> leaf; the heart, a young man and a young woman.
+        <p rend="class(answer)">Betel
+
+
+<p rend="class(number)" id=r21>21.
+
+<p rend="class(question)" lang=ilo n=21>Papel a berde sinoratac ti purao <pb id=pb31 n=31>quet intedco iti sangaili dina insubli.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Gaoed
+
+<p rend="class(question)">I wrote a green paper with white: I gave it to my visitor and he did not return it.
+        <p rend="class(answer)">Betel-leaf
+
+    <p rend="class(explanation)">White lime is smeared upon the green leaf, which is then used to enwrap a bit of areca nut for chewing.
+
+
+<div2>
+<head>Birds.</head>
+
+
+<p rend="class(number)" id=r22>22.
+
+<p rend="class(question)" lang=ilo n=22>Nagcapa dimet nagpadi; Nagcorona dimet nagari.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Manoc
+
+<p rend="class(question)">Gown but not priest; crown but not king.
+        <p rend="class(answer)">Cock
+
+
+<p rend="class(number)" id=r23>23.
+
+<p rend="class(question)" lang=pag n=23>Nancorona agimiet ari; nan capa agmuet pari.
+        <p rend="class(answer)" lang=pag>(Pang.) Manoc
+
+<p rend="class(question)">The king&apos;s crown but not king; the priest&apos;s cope, but not priest.
+        <p rend="class(answer)">Cock
+
+
+<p rend="class(number)" id=r24>24.
+
+<p rend="class(question)" lang=ilo n=24>Ania ti pinarsua ni Apo Dios nga ag-gungon ti maquimbaba quet agpidot ti maquin ngato?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Manoc
+
+<p rend="class(question)">What thing that Lord God made <pb id=pb32 n=32>sifts below and picks up above?
+        <p rend="class(answer)">Fowl
+
+
+<p rend="class(number)" id=r25>25.
+
+<p rend="class(question)" lang=pag n=25>Dinay pinalsay Dios ya managtay carne?
+        <p rend="class(answer)" lang=pag>(Pang.) Manoc
+
+<p rend="class(question)">What creature of God is with meat on its head?
+        <p rend="class(answer)">Cock
+
+
+<p rend="class(number)" id=r26>26.
+
+<p rend="class(question)" lang=ilo n=26>Ania a parsuo ni Apo Dios ti nagsusoon ti carne nga aoan ti imana?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Tapingar
+
+<p rend="class(question)">What creature of our Lord God carries meat but has no hands?
+        <p rend="class(answer)">Cock
+
+<p rend="class(question)">The meat is the cock&apos;s comb.
+
+
+<p rend="class(number)" id=r27>27.
+
+<p rend="class(question)" lang=pam n=27>Uyana-uyana mamuntuk yang baya!
+        <p rend="class(answer)" lang=pam>(Pamp.) Manuc
+
+<p rend="class(question)">Here he comes with glowing charcoal on his head!
+        <p rend="class(answer)">A cock
+
+
+<p rend="class(number)" id=r28>28.
+
+<p rend="class(question)" lang=ilo n=28>No umayac idiay balayo agtuptupuaccayo.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Manoc
+
+<p rend="class(question)">If I come to your house you will jump away.
+        <p rend="class(answer)">Fowl
+
+
+<div2>
+<head>Boats.</head>
+
+
+<p rend="class(number)" id=r29>29.
+
+<p rend="class(question)" lang=ilo n=29>Ania ti pinarsua ni Apo Dios nga <pb id=pb33 n=33>ipagnana ti bocotna?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Baloto
+
+<p rend="class(question)">What creature made by Lord God walks on its back?
+        <p rend="class(answer)">Boat
+
+
+<p rend="class(number)" id=r30>30.
+
+<p rend="class(question)" lang=pag n=30>Oalay asoc ya quisquis no onbatic tirakiang.
+        <p rend="class(answer)" lang=pag>(Pang.) Baloto
+
+<p rend="class(question)">I have a hairless dog, who goes belly upward.
+        <p rend="class(answer)">Boat
+
+
+<p rend="class(number)" id=r31>31.
+
+<p rend="class(question)" lang=tl n=31>Naligo ang capitan hindi nabasa ang tian.
+        <p rend="class(answer)" lang=tl>(Tag.) Banca
+
+<p rend="class(question)">The captain took a bath without his belly getting wet.
+        <p rend="class(answer)">Banca
+
+
+<p rend="class(number)" id=r32>32.
+
+<p rend="class(question)" lang=ilo n=32>Adda impatacderco a caoayan no agbolong intan.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Parao
+
+<p rend="class(question)">I set up a bambu; if it leafs out we shall go.
+        <p rend="class(answer)">Prao
+
+    <p rend="class(explanation)">The bambu set up is the mast; the leaf is the sail.
+
+
+<p rend="class(number)" id=r33>33.
+
+<p rend="class(question)" lang=bis n=33>Nano nga cahoy nga con may dahon may gamut, pero eon ua-ay gani dahon ua-ay man sing gamut?
+        <p rend="class(answer)" lang=bis>(Bis.) Parao
+
+<p rend="class(question)">What tree is it, that when it has <pb id=pb34 n=34>leaves it also has roots, but when it has no leaves it also has no roots?
+        <p rend="class(answer)">Parao
+
+    <p rend="class(explanation)">Sail, rudder and oars.
+
+
+<p rend="class(number)" id=r34>34.
+
+<p rend="class(question)" lang=bis n=34>Nagalacat nagahayang.
+        <p rend="class(answer)" lang=bis>(Bis.) Sacayan
+
+<p rend="class(question)">He walks with his back.
+        <p rend="class(answer)">A ship
+
+
+<p rend="class(number)" id=r35>35.
+
+<p rend="class(question)" lang=pam n=35>Manica maco tana,
+<lb>tipa ca queti tana.
+        <p rend="class(answer)" lang=pam>(Pamp.) Ancla
+
+<p rend="class(question)">Come up and let us go, go down and here we stay.
+        <p rend="class(answer)">Anchor
+
+
+<div2>
+<head>Body: parts.</head>
+
+
+<p rend="class(number)" id=r36>36.
+
+<p rend="class(question)" lang=ilo n=36>Ania ti pinarsua ti Dios a masicog ti licudan?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Botoy
+
+<p rend="class(question)">What thing created by God has the fullness of pregnancy (<hi lang=ilo>masicog</hi>) behind?
+        <p rend="class(answer)">The calf of the leg
+
+    <p rend="class(explanation)">Masicog is the swollen abdomen of the pregnant woman.
+
+
+<p rend="class(number)" id=r37>37.
+
+<p rend="class(question)" lang=ilo n=37>Bulong ti cappa-cappa nagtalicud nagpada.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Lapayag
+
+<p rend="class(question)"><hi>Cappa-cappa</hi> leaves placed back to back.
+        <p rend="class(answer)">Ears
+
+
+<pb id=pb35 n=35>
+<p rend="class(number)" id=r38>38.
+
+<p rend="class(question)" lang=tl n=38>Daluang balon hindi malingon.
+        <p rend="class(answer)" lang=tl>(Tag.) Tainga
+
+<p rend="class(question)">Two wells, of which you cannot catch sight.
+        <p rend="class(answer)">(Your) ears
+
+
+<p rend="class(number)" id=r39>39.
+
+<p rend="class(question)" lang=ilo n=39>Pito iti taoana; taltallo iti requepna.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Lapayag, agong, mata, ngioat
+
+<p rend="class(question)">There are seven windows; only three shut.
+        <p rend="class(answer)">Ears, nostrils, eyes, mouth
+
+
+<p rend="class(number)" id=r40>40.
+
+<p rend="class(question)" lang=ilo n=40>Sipac nga sipac, saan nga mangeg ti caaroba.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Mata
+
+<p rend="class(question)">Claps and claps, but the neighbors do not hear.
+        <p rend="class(answer)">Eyes
+
+
+<p rend="class(number)" id=r41>41.
+
+<p rend="class(question)" lang=pag n=41>Tepac cac tan tepac agnereguel na ybac.
+        <p rend="class(answer)" lang=pag>(Pang.) Mata
+
+<p rend="class(question)">Clapping and clapping but my companions cannot hear me.
+        <p rend="class(answer)">Eyes
+
+
+<p rend="class(number)" id=r42>42.
+
+<p rend="class(question)" lang=tl n=42><corr sic=Dalana>Dalaua</corr> cong cahon bucsan ualang ugong.
+        <p rend="class(answer)" lang=tl>(Tag.) Mata
+
+<p rend="class(question)">I open my two boxes noiselessly.
+        <p rend="class(answer)">Eyes
+
+
+<pb id=pb36 n=36>
+<p rend="class(number)" id=r43>43.
+
+<p rend="class(question)" lang=tl n=43><sic>Dalawang</sic> batong maitim malayo ang dinarating.
+        <p rend="class(answer)" lang=tl>(Tag.) Mata
+
+<p rend="class(question)">Two black stones which reach far.
+        <p rend="class(answer)">Eyes
+
+
+<p rend="class(number)" id=r44>44.
+
+<p rend="class(question)" lang=tl n=44><sic>Dalawang</sic> tindahan sabay na binubucsan.
+        <p rend="class(answer)" lang=tl>(Tag.) Mata
+
+<p rend="class(question)">Two stores are open at the same time.
+        <p rend="class(answer)">Eyes
+
+
+<p rend="class(number)" id=r45>45.
+
+<p rend="class(question)" lang=ilo n=45>Adda dua nga Princesas quet nagseng nga tan da iti dua nga bantay; no agsangit iti maysa agsangit danga dua.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Mata
+
+<p rend="class(question)">There are two princesses, who live on the two sides of a mountain; when one cries both cry.
+        <p rend="class(answer)">The eyes
+
+
+<p rend="class(number)" id=r46>46.
+
+<p rend="class(question)" lang=ilo n=46>Adda dua nga pisi agtongpal idiay langit.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Mata
+
+<p rend="class(question)">There are two halves; they go toward the sky.
+        <p rend="class(answer)">Eyes
+
+
+<p rend="class(number)" id=r47>47.
+
+<p rend="class(question)" lang=tl n=47>Malaon nang patay hindi maibaon at buhay ang capit bahay.
+        <p rend="class(answer)" lang=tl>(Tag.) Bulag ang isang mata
+
+<pb id=pb37 n=37>
+<p rend="class(question)">It is a long time since it died, yet it can not be buried for its neighbor is still alive.
+        <p rend="class(answer)">One blind eye
+
+
+<p rend="class(number)" id=r48>48.
+
+<p rend="class(question)" lang=ilo n=48>Se&ntilde;ora a samsamping addai ti uneg ti sarming.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Taotao ti mata
+
+<p rend="class(question)">A <hi lang=ilo>samsamping</hi> is in the middle of the mirror.
+        <p rend="class(answer)">The pupil of the eye
+
+
+<p rend="class(number)" id=r49>49.
+
+<p rend="class(question)" lang=tl n=49>Daluang balahibuhen masarap pag daiten.
+        <p rend="class(answer)" lang=tl>(Tag.) Mata at kilay
+
+<p rend="class(question)">Two hairy things, it&apos;s pleasant to have them meet.
+        <p rend="class(answer)">Eyelids
+
+
+<p rend="class(number)" id=r50>50.
+
+<p rend="class(question)" lang=ilo n=50>Adda dua nga Princesa quet nagbaetanda ti maysa nga bantay quet daytoy a bantay adda met dua nga oaig quet no agsangit daguitoy a Princesa agayos met daytoy nga oaig ngem no saanda nga agsangit mamagaan daguitoy nga oaig.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Mata quen agung
+
+<p rend="class(question)">There are two princesses with a mountain between them. In this mountain are two brooks and when the princesses cry these brooks <pb id=pb38 n=38>flow and when the princesses do not cry the brooks dry up.
+        <p rend="class(answer)">Eyes and nose
+
+
+<p rend="class(number)" id=r51>51.
+
+<p rend="class(question)" lang=tl n=51>Isang biyabas pito ang butas.
+        <p rend="class(answer)" lang=tl>(Tag.) Mukha
+
+<p rend="class(question)">One guava with seven holes.
+        <p rend="class(answer)">Face
+
+
+<p rend="class(number)" id=r52>52.
+
+<p rend="class(question)" lang=tl n=52>Limang puno nang niog; isay matayog.
+        <p rend="class(answer)" lang=tl>(Tag.) Dalire
+
+<p rend="class(question)">Five cocoanut palms; one is higher.
+        <p rend="class(answer)">Fingers
+
+
+<p rend="class(number)" id=r53>53.
+
+<p rend="class(question)" lang=ilo n=53>Adda lima nga Principes nagcallogongda amin ti pisi.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Ramay
+
+<p rend="class(question)">There are five princes and their hat is one half.
+        <p rend="class(answer)">Fingers
+
+    <p rend="class(explanation)">The nails are the hats.
+
+
+<p rend="class(number)" id=r54>54.
+
+<p rend="class(question)" lang=ilo n=54>Adda maysa nga ealapati nga nagna ti tinga ti ili manocayo cona ti ari no adda mainayon nga pisi justo nga dua polo cami.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Ramay
+
+<p rend="class(question)">There is a dove that walked in the middle of the town. How many are you said the king. If there is a <pb id=pb39 n=39>half added we shall be twenty.
+        <p rend="class(answer)">Fingers
+
+
+<p rend="class(number)" id=r55>55.
+
+<p rend="class(question)" lang=ilo n=55>Ni ni conconana aoan ti matana
+        <p rend="class(answer)" lang=ilo>(Iloc.) Tammodo
+
+<p rend="class(question)">Here, here, he says, but has no eyes.
+        <p rend="class(answer)">Forefinger
+
+    <p rend="class(explanation)">It points here and there, touching the things in question, but it cannot see.
+
+
+<p rend="class(number)" id=r56>56.
+
+<p rend="class(question)" lang=gad n=56>Tata baculud ay ain-mena maita na ut-tunna si catanang-nga.
+        <p rend="class(answer)" lang=gad>(Gad.) Quiray
+
+<p rend="class(question)">A mountain the summit of which cannot be seen, being very high.
+        <p rend="class(answer)">Forehead
+
+
+<p rend="class(number)" id=r57>57.
+
+<p rend="class(question)" lang=tl n=57>Tubo sa punso, ualang buko.
+        <p rend="class(answer)" lang=tl>(Tag.) Buhoc
+
+<p rend="class(question)">Sugar-cane on clay, with no joints (knots).
+        <p rend="class(answer)">Hair
+
+
+<p rend="class(number)" id=r58>58.
+
+<p rend="class(question)" lang=bis n=58>Cahoy nga tambalisa, tapson indi malaya.
+        <p rend="class(answer)" lang=bis>(Bis.) Buhoc
+
+<p rend="class(question)">A plant which does not fade when cut down.
+        <p rend="class(answer)">Hair
+
+
+<p rend="class(number)" id=r59>59.
+
+<p rend="class(question)" lang=ilo n=59>Iclog iti calao bolig iti lima.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Ima
+
+<pb id=pb40 n=40>
+<p rend="class(question)">The calao&apos;s egg is five-parted.
+        <p rend="class(answer)">Hand
+
+    <p rend="class(explanation)">The <hi>calao</hi> is the hornbill; the egg here in question is perhaps his strange head-excrescence.
+
+
+<p rend="class(number)" id=r60>60.
+
+<p rend="class(question)" lang=tl n=60>Isang bayabas peto ang butas.
+        <p rend="class(answer)" lang=tl>(Tag.) Ulo
+
+<p rend="class(question)">One guava with seven holes.
+        <p rend="class(answer)">Head
+
+
+<p rend="class(number)" id=r61>61.
+
+<p rend="class(question)" lang=bis n=61>Isa ca bungsud nga pito ang iya buho.
+        <p rend="class(answer)" lang=bis>(Bis.) Olo
+
+<p rend="class(question)">A small hill having seven holes.
+        <p rend="class(answer)">Head
+
+
+<p rend="class(number)" id=r62>62.
+
+<p rend="class(question)" lang=ilo n=62>Sica a tao ti yan ti minuterum.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Puso
+
+<p rend="class(question)">You are the man who has the minute-beater.
+        <p rend="class(answer)">Heart
+
+    <p rend="class(explanation)"><hi>Minuterum</hi> the pendulum beating.
+
+
+<p rend="class(number)" id=r63>63.
+
+<p rend="class(question)" lang=ilo n=63>No agtacderac ania ngata ti omona a ipagnae?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Mocod
+
+<p rend="class(question)">If I stand, what will be the first that steps?
+        <p rend="class(answer)">Heel
+
+
+<p rend="class(number)" id=r64>64.
+
+<p rend="class(question)" lang=tl n=64>Daluang <sic>bangiasan</sic> nag hahagaran.
+        <p rend="class(answer)" lang=tl>(Tag.) Binte
+
+<pb id=pb41 n=41>
+<p rend="class(question)">Two fence stakes chasing each other.
+        <p rend="class(answer)">Legs
+
+
+<p rend="class(number)" id=r65>65.
+
+<p rend="class(question)" lang=pam n=65>Atian na ing gulut; ing gulut na ya ing atian.
+        <p rend="class(answer)" lang=pam>(Pamp.) Bitis
+
+<p rend="class(question)">Its front is the back, and its back is the front.
+        <p rend="class(answer)">The lower leg (below the knee)
+
+
+<p rend="class(number)" id=r66>66.
+
+<p rend="class(question)" lang=ilo n=66>Adda oaig a bassit napnut bucbucaig.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Ngioat
+
+<p rend="class(question)">There is a small brook filled with shells.
+        <p rend="class(answer)">Mouth
+
+
+<p rend="class(number)" id=r67>67.
+
+<p rend="class(question)" lang=tl n=67>Isang balong malalem, punong <corr sic=puon>puno</corr> nang patalem.
+        <p rend="class(answer)" lang=tl>(Tag.) Bibig
+
+<p rend="class(question)">A deep well is filled with chisels.
+        <p rend="class(answer)">Mouth
+
+
+<p rend="class(number)" id=r68>68.
+
+<p rend="class(question)" lang=bis n=68>Isa ca cahon-cahon nga punu sang tiguib.
+        <p rend="class(answer)" lang=bis>(Bis.) Baba
+
+<p rend="class(question)">A box full of chisels.
+        <p rend="class(answer)">Mouth
+
+
+<p rend="class(number)" id=r69>69.
+
+<p rend="class(question)" lang=ilo n=69>Dua nga bobon napnot allid quen dagum.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Agung
+
+<pb id=pb42 n=42>
+<p rend="class(question)">Two wells filled with wax and needles.
+        <p rend="class(answer)">Nose
+
+
+<p rend="class(number)" id=r70>70.
+
+<p rend="class(question)" lang=ilo n=70>Baston ti Ygorot dica maparot
+        <p rend="class(answer)" lang=ilo>(Iloc.) Bato
+
+<p rend="class(question)">The cane of the Igorot, you cannot pull up.
+        <p rend="class(answer)">Penis
+
+
+<p rend="class(number)" id=r71>71.
+
+<p rend="class(question)" lang=pag n=71>Mapatar ya dalin tinoboay garing.
+        <p rend="class(answer)" lang=pag>(Pang.) Ngipuen
+
+<p rend="class(question)">Plain earth has grown ivory.
+        <p rend="class(answer)">Teeth
+
+
+<p rend="class(number)" id=r72>72.
+
+<p rend="class(question)" lang=ilo n=72>Umona nga aglaguis sa agdareedec.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Ngipen
+
+<p rend="class(question)">First place the bars and then the posts.
+        <p rend="class(answer)">The teeth
+
+    <p rend="class(explanation)">The comparison is with fence-building. Here the posts are first set, and then the cross-pieces. The babe has first smooth, horizontal gums; then the upright teeth appear.
+
+
+<p rend="class(number)" id=r73>73.
+
+<p rend="class(question)" lang=bis n=73>Nagapanilong apang basa.
+        <p rend="class(answer)" lang=bis>(Bis.) Dila
+
+<p rend="class(question)">He is under the shed but is always wet.
+        <p rend="class(answer)">Tongue
+
+
+<pb id=pb43 n=43>
+<p rend="class(number)" id=r74>74.
+
+<p rend="class(question)" lang=pag n=74>Enlongon empantion onbangon mansermon.
+        <p rend="class(answer)" lang=pag>(Pang.) Dila
+
+<p rend="class(question)">Coffin in graveyard wakes up sermon.
+        <p rend="class(answer)">Tongue
+
+
+<p rend="class(number)" id=r75>75.
+
+<p rend="class(question)" lang=gad n=75>Na manantang ay maccatua udde na mannam ay malussao.
+        <p rend="class(answer)" lang=gad>(Gad.) Attut
+
+<p rend="class(question)">He who loses it rejoices, but he who finds it gets mad at it.
+        <p rend="class(answer)">Bad odor; breaking wind
+
+
+<p rend="class(number)" id=r76>76.
+
+<p rend="class(question)" lang=ilo n=76>Iti nacapocao agayayat quet iti nacabiroc agong onget
+        <p rend="class(answer)" lang=ilo>(Iloc.) ottot
+
+<p rend="class(question)">Who loses it is glad; who finds it is mad.
+        <p rend="class(answer)">Bad odor; Breaking of wind
+
+<p rend="class(number)" id=r77>77.
+
+<p rend="class(question)" lang=ilo n=77>Magna sirirquep no nacalucat madi met.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Mucat
+
+<p rend="class(question)">It walks while it is shut; when it is open it does not care to walk.
+        <p rend="class(answer)">Secretion from eye corner
+
+
+<p rend="class(number)" id=r78>78.
+
+<p rend="class(question)" lang=tl n=78>Aso cong pute inutusan co, ay hindi na umue.
+        <p rend="class(answer)" lang=tl>(Tag.) Lura
+
+<pb id=pb44 n=44>
+<p rend="class(question)">I sent out my white dog and he did not return.
+        <p rend="class(answer)">Spittle
+
+    <p rend="class(explanation)">The practice of spitting, even unrelated to betel-chewing or tobacco-chewing, is far commoner among the Filipinos than among ourselves.
+
+
+<div2>
+<head>Book.</head>
+
+
+<p rend="class(number)" id=r79>79.
+
+<p rend="class(question)" lang=ilo n=79>Tinadtad a root insenpen a panonot.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Libro
+
+<p rend="class(question)">Chopped grass hidden in the mind.
+        <p rend="class(answer)">Book
+
+    <p rend="class(explanation)">Fodder or &ldquo;food for thought.&rdquo;
+
+
+<p rend="class(number)" id=r80>80.
+
+<p rend="class(question)" lang=ilo n=80>Nagbulong nagbunga nanganac diay nangala.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Pagbasan
+
+<p rend="class(question)">It has leaves and fruits, Godfather took it.
+        <p rend="class(answer)">Book
+
+
+<div2>
+<head>Candle.</head>
+
+
+<p rend="class(number)" id=r81>81.
+
+<p rend="class(question)" lang=ilo n=81>Ania iti anac a pooranna iti baguis ni inana?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Candela
+
+<p rend="class(question)">What son burns his mother&apos;s intestines?
+        <p rend="class(answer)">Candle
+
+
+<p rend="class(number)" id=r82>82.
+
+<p rend="class(question)" lang=tl n=82>Tite nang pare, mapute.
+        <p rend="class(answer)" lang=tl>(Tag.) Candela
+
+<pb id=pb45 n=45>
+<p rend="class(question)">The priest&apos;s <abbr expan=penis>&mdash;&mdash;</abbr> is white.
+        <p rend="class(answer)">Candle
+
+
+<p rend="class(number)" id=r83>83.
+
+<p rend="class(question)" lang=tl n=83>Kung babayaan mong ako ay mabuhay yaong kamatayay dagli kong kakamtan, ngungit kung <sic>akoy</sic> pataing paminsan ay lalong lalawig ang ingat kong buhay.
+        <p rend="class(answer)" lang=tl>(Tag.) Kandilang may sindi
+
+<p rend="class(question)">If you let me live I shall soon die; if you kill me I shall live long.
+        <p rend="class(answer)">A lighted candle
+
+
+<p rend="class(number)" id=r84>84.
+
+<p rend="class(question)" lang=gad n=84>Masondug a cayu talaque na donna.
+        <p rend="class(answer)" lang=gad>(Gad.) Candela
+
+<p rend="class(question)">A slender tree which bears only one leaf.
+        <p rend="class(answer)">Lighted candle
+
+
+<p rend="class(number)" id=r85>85.
+
+<p rend="class(question)" lang=tl n=85>Isang butel na palay punong puno ang bahay.
+        <p rend="class(answer)" lang=tl>(Tag.) Ilao
+
+<p rend="class(question)">A grain of rice fills the whole house.
+        <p rend="class(answer)">Light
+
+    <p rend="class(explanation)">The flame of a candle is a little thing, comparable to a rice grain; yet it gives light to the whole house.
+
+
+<div2>
+<head>Cardinal Points.</head>
+
+
+<p rend="class(number)" id=r86>86.
+
+<p rend="class(question)" lang=ilo n=86>Adda uppat a nga amigos; idi naparsua toy lubong inda naisigud.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Uppat aturong
+
+<pb id=pb46 n=46>
+<p rend="class(question)">There are four friends; they have existed since the beginning.
+        <p rend="class(answer)">The four directions
+
+
+<div2>
+<head>Clock: Watch.</head>
+
+
+<p rend="class(number)" id=r87>87.
+
+<p rend="class(question)" lang=ilo n=87>Aldao rabii agririaoac.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Reloj
+
+<p rend="class(question)">Day and night I cry.
+        <p rend="class(answer)">Clock
+
+
+<p rend="class(number)" id=r88>88.
+
+<p rend="class(question)" lang=pag n=88>Amanu na mararamdam, dapot masaquit yang intindian, nung ing lupa na ing quecang lauan a usta mu ing qucang sasabian.
+        <p rend="class(answer)" lang=pag>(Pang.) Relos
+
+<p rend="class(question)">His words are audible but difficult to understand; when you look at his face you will understand what he says.
+        <p rend="class(answer)">Clock
+
+
+<p rend="class(number)" id=r89>89.
+
+<p rend="class(question)" lang=ilo n=89>Ania ti parsua ni apo Dios nga aoan ti imana nga aoan ti sacana quet ammona ti agsao?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Leros = reloj
+
+<p rend="class(question)">What creature of God has no arms and legs, but can talk?
+        <p rend="class(answer)">Clock
+
+
+<div2>
+<head>Coffin.</head>
+
+
+<p rend="class(number)" id=r90>90.
+
+<p rend="class(question)" lang=bis n=90>Ang nagapahimo nagahibi; ang nagahimo indi iya; ang tag-iya uala <pb id=pb47 n=47>sing calibutan.
+        <p rend="class(answer)" lang=bis>(Bis.) Longon
+
+<p rend="class(question)">The one who orders it made is crying; the one who has it, it is not his to give; the one who owns it does not care anything about it.
+        <p rend="class(answer)">Coffin
+
+
+<div2>
+<head>Disease.</head>
+
+
+<p rend="class(number)" id=r91>91.
+
+<p rend="class(question)" lang=tl n=91>Taong buhay inaanay.
+        <p rend="class(answer)" lang=tl>(Tag.) Bulutong
+
+<p rend="class(question)">A living person being eaten up by &ldquo;anay.&rdquo;
+        <p rend="class(answer)">Smallpox
+
+    <p rend="class(explanation)">Anay, termites or white ants.
+
+
+<p rend="class(number)" id=r92>92.
+
+<p rend="class(question)" lang=ilo n=92>Ania ti pagayatan na a mabalud.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Ti masaquit
+
+<p rend="class(question)">Why does he wish to be in prison?
+        <p rend="class(answer)">Pain
+
+
+<div2>
+<head>Dress.</head>
+
+
+<p rend="class(number)" id=r93>93.
+
+<p rend="class(question)" lang=ilo n=93>Dadiay adalem agassiquet; dadiay ababao agatengngned.
+        <p rend="class(answer)" lang=ilo>(Iloc.&mdash;also Pang., Bis.) Calzon; bado
+
+<p rend="class(question)">What is deep reaches only to the waist; what is shallow comes to the neck.
+        <p rend="class(answer)">Drawers; jacket
+
+
+<pb id=pb48 n=48>
+<p rend="class(number)" id=r94>94.
+
+<p rend="class(question)" lang=tl n=94>Daluang pipit nag titimbangan sa isang siit.
+        <p rend="class(answer)" lang=tl>(Tag.) Hicao
+
+<p rend="class(question)">Two <hi>pipits</hi> balancing on a bambu stick.
+        <p rend="class(answer)">Earrings
+
+    <p rend="class(explanation)">The <hi>pipit</hi> is a small bird.
+
+
+<p rend="class(number)" id=r95>95.
+
+<p rend="class(question)" lang=tl n=95>Bumili ako nang alipin mataas pa sa akin.
+        <p rend="class(answer)" lang=tl>(Tag.) Sambalilo
+
+<p rend="class(question)">I bought a slave, taller than myself.
+        <p rend="class(answer)">Hat
+
+
+<p rend="class(number)" id=r96>96.
+
+<p rend="class(question)" lang=ilo n=96>Aniat aramid a canennaca,
+        <p rend="class(answer)" lang=ilo>(Iloc.) Bado
+
+<p rend="class(question)">What work devours you.
+        <p rend="class(answer)">Camisa
+
+    <p rend="class(explanation)">The word work is used in several of these riddles with the meaning of a thing made, a manufactured article. The camisa is a shirt.
+
+
+<p rend="class(number)" id=r97>97.
+
+<p rend="class(question)" lang=ilo n=97>Nacaquitaac iti dua a sasacayan; maymaysat naglugan.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Zapatos
+
+<p rend="class(question)">I saw two boats; only one person was on board.
+        <p rend="class(answer)">Shoes
+
+
+<p rend="class(number)" id=r98>98.
+
+<p rend="class(question)" lang=tl n=98>Dala mo siya, dala ca niya.
+        <p rend="class(answer)" lang=tl>(Tag.) Bakia
+
+<pb id=pb49 n=49>
+<p rend="class(question)">You carry it it carries you.
+        <p rend="class(answer)">Shoe
+
+
+<p rend="class(number)" id=r99>99.
+
+<p rend="class(question)" lang=pam n=09>Dalan mucu, dalan da ca, mipa quinabang cata.
+        <p rend="class(answer)" lang=pam>(Pamp.) Sapin
+
+<p rend="class(question)">Carry me, I will carry you; let us share alike.
+        <p rend="class(answer)">Shoes
+
+
+<div2>
+<head>Drinks.</head>
+
+
+<p rend="class(number)" id=r100>100.
+
+<p rend="class(question)" lang=bis n=100>Con aga naga lapta, pero con hapon naga tipon.
+        <p rend="class(answer)" lang=bis>(Bis.) Tuba
+
+<p rend="class(question)">In the morning it is scattered in many places, but in the evening it is united into one place.
+        <p rend="class(answer)">Tuba
+
+    <p rend="class(explanation)">An intoxicating drink made from cocoapalm sap; it is gathered daily. In the morning it is at the trees which yield; at evening it is brought in and stored.
+
+
+<p rend="class(number)" id=r101>101.
+
+<p rend="class(question)" lang=ilo n=101>Adda maysa a balasang conana toy maysa a baro no ayatennac dacquel ti pagdacsam.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Arac
+
+<p rend="class(question)">There was a lady said to a gentleman &ldquo;If you love me it will harm you.&rdquo;
+        <p rend="class(answer)">Wine
+
+
+<div2>
+<head>Egg.</head>
+
+
+<p rend="class(number)" id=r102>102.
+
+<p rend="class(question)" lang=ilo n=102>Yti pagapugan ti Ari; <pb id=pb50 n=50>no maluctan saan nga maisubli.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Itlog
+
+<p rend="class(question)">The limebox of the king; if you open it you cannot restore it.
+        <p rend="class(answer)">An egg
+
+
+<p rend="class(number)" id=r103>103.
+
+<p rend="class(question)" lang=ilo n=103>Adda bayabasco idiay Manila aoan ti pamorosanna.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Itlog
+
+<p rend="class(question)">I have a guava in Manila that has no stem.
+        <p rend="class(answer)">Egg
+
+
+<p rend="class(number)" id=r104>104.
+
+<p rend="class(question)" lang=bis n=104>Ang balay sang encantadora ua-ay ventana ua-ay puerta.
+        <p rend="class(answer)" lang=bis>(Bis.) Itlog
+
+<p rend="class(question)">The house of an enchantress which has neither window nor door.
+        <p rend="class(answer)">Egg
+
+
+<div2>
+<head>Fishes.</head>
+
+
+<p rend="class(number)" id=r105>105.
+
+<p rend="class(question)" lang=pam n=105>Lindus ne enetiran, dapot king asbuk ya milulan.
+        <p rend="class(answer)" lang=pam>(Pamp.) Balulingi
+
+<p rend="class(question)">Harpooning at it he missed it, but it went into his mouth.
+        <p rend="class(answer)">Balulungi
+
+    <p rend="class(explanation)">The shovel-nosed shark. In aiming at food, if it really enters his mouth which <pb id=pb51 n=51>is below the long and projecting snout, he must seem to miss it.
+
+
+<p rend="class(number)" id=r106>106.
+
+<p rend="class(question)" lang=ilo n=106>Adda maysa nga lacay; puqiiis nga oacray.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Corita
+
+<p rend="class(question)">There is an old man; his hair cut short, the hair hangs.
+        <p rend="class(answer)">Corita
+
+    <p rend="class(explanation)">It is a fish, with slender, pendent, feelers.
+
+
+<p rend="class(number)" id=r107>107.
+
+<p rend="class(question)" lang=ilo n=107>Asino ti nabiag a togtogaoanna ti ngeoatna?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Corita
+
+<p rend="class(question)">What living thing sits on its mouth?
+        <p rend="class(answer)">Corita
+
+
+<p rend="class(number)" id=r108>108.
+
+<p rend="class(question)" lang=ilo n=108>Ania iti parsua ni Apo Dios nga pispisi iti baguina?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Dadali
+
+<p rend="class(question)">What creature of our Lord God is but a half-body?
+        <p rend="class(answer)">Flounder
+
+
+<p rend="class(number)" id=r109>109.
+
+<p rend="class(question)" lang=tl n=109>Nag saeng si pusong, sa ibabao ang gatong.
+        <p rend="class(answer)" lang=tl>(Tag.) Bibingca
+
+<p rend="class(question)">The clown cooked rice with the fire above.
+        <p rend="class(answer)">Cake
+
+
+<p rend="class(number)" id=r110>110.
+
+<p rend="class(question)" lang=tl n=110>Tignan, tignan, bago <sic>ngiuitan</sic>.
+        <p rend="class(answer)" lang=tl>(Tag.) Mais
+
+<pb id=pb52 n=52>
+<p rend="class(question)">Look at it first, before making a face at it.
+        <p rend="class(answer)">Corn
+
+    <p rend="class(explanation)">Refers to eating it from the cob.
+
+
+<p rend="class(number)" id=r111>111.
+
+<p rend="class(question)" lang=ilo n=111>Pi&ntilde;a pi&ntilde;a marabotinia
+<lb>no aoan dayta matayca.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Bagas
+
+<p rend="class(question)"><hi>Pi&ntilde;a pi&ntilde;a marabotinia</hi>,
+<lb>If there is none you will die.
+        <p rend="class(answer)">Rice
+
+
+<p rend="class(number)" id=r112>112.
+
+<p rend="class(question)" lang=ilo n=112>Siasino ngata ti nagbuniag a daga?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Asin
+
+<p rend="class(question)">What earth has been baptised?
+        <p rend="class(answer)">Salt
+
+
+<p rend="class(number)" id=r113>113.
+
+<p rend="class(question)" lang=ilo n=113>Aniat cangatoan a recado?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Asin
+
+<p rend="class(question)">What is the best spice?
+        <p rend="class(answer)">Salt
+
+
+<p rend="class(number)" id=r114>114.
+
+<p rend="class(question)" lang=pam n=114>Perlas yang maningning a ibat qung mina, nung mibalic ya qung penibatana matda ing ningning na.
+        <p rend="class(answer)" lang=pam>(Pamp.) Asin
+
+<p rend="class(question)">A sparkling pearl that came from the mine, in going to its source loses its brilliancy.
+        <p rend="class(answer)">Salt
+
+    <p rend="class(explanation)">The original source was the sea; but in water salt dissolves.
+
+<pb id=pb53 n=53>
+
+<div2>
+<head>Fruit.</head>
+
+
+<p rend="class(number)" id=r115>115.
+
+<p rend="class(question)" lang=pag n=115>Matebtibonec malimtimbocol bagobagooay tapuco anbalbalangay dalem.
+        <p rend="class(answer)" lang=pag>(Pang.) Atsuete
+
+<p rend="class(question)">Round, plump; hairy outside; red inside.
+        <p rend="class(answer)">Atsuete
+
+    <p rend="class(explanation)">A red fruit used for seasoning fish.
+
+
+<p rend="class(number)" id=r116>116.
+
+<p rend="class(question)" lang=tl n=116>Ulo ng principe tinadtad ng ispile.
+        <p rend="class(answer)" lang=tl>(Tag.) Bunga ng bangcol
+
+<p rend="class(question)">Head of a prince stuck full of pins.
+        <p rend="class(answer)">Bangcol
+
+    <p rend="class(explanation)">It is like a round ball stuck with pins.
+
+
+<p rend="class(number)" id=r117>117.
+
+<p rend="class(question)" lang=pag n=117>Dinan yan penalsay Dios ya loab tod tabla it say paoay toel equet.
+        <p rend="class(answer)" lang=pag>(Pang.) Cabatite
+
+<p rend="class(question)">What creature of God is smooth inside but like a net outside?
+        <p rend="class(answer)">A fruit. Cabatite
+
+
+<p rend="class(number)" id=r118>118.
+
+<p rend="class(question)" lang=ilo n=118>Agbibitin a sinanlagangan.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Damortis
+
+<p rend="class(question)">Hanging like a pot-rest.
+        <p rend="class(answer)">Camachilis (fruit)
+
+
+<p rend="class(number)" id=r119>119.
+
+<p rend="class(question)" lang=ilo n=119>Balay ni Santa Ana nalicmut ti caramba.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Niog
+
+<pb id=pb54 n=54>
+<p rend="class(question)">Santa Ana&apos;s house is surrounded by a jar.
+        <p rend="class(answer)">Cocoanut
+
+
+<p rend="class(number)" id=r120>120.
+
+<p rend="class(question)" lang=ilo n=120>Langit ngato, langit baba, danom ti tengana.
+        <p rend="class(answer)" lang=ilo>(Iloc.&mdash;also Pang., Tag.) Niog
+
+<p rend="class(question)">Sky above, sky below, water in the middle.
+        <p rend="class(answer)">Cocoanut
+
+
+<p rend="class(number)" id=r121>121.
+
+<p rend="class(question)" lang=ilo n=121>Danum sadi Minimin, di mastrec ti angin.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Niog
+
+<p rend="class(question)">The water of Minimin, the wind cannot reach it.
+        <p rend="class(answer)">Cocoanut
+
+
+<p rend="class(number)" id=r122>122.
+
+<p rend="class(question)" lang=bis n=122>Sang bata pa maniuang, anay sang tigulang na matamboc.
+        <p rend="class(answer)" lang=bis>(Bis.) Lubi
+
+<p rend="class(question)">When young he is lean, but when he becomes old he is fat.
+        <p rend="class(answer)">Cocoanut
+
+    <p rend="class(explanation)">The meat of the cocoanut grows in thickness.
+
+
+<p rend="class(number)" id=r123>123.
+
+<p rend="class(question)" lang=tl n=123>Tatlong bundok ang tinibag bago dumating nang dagat.
+        <p rend="class(answer)" lang=tl>(Tag.) Niog
+
+<p rend="class(question)">Three mountains were blown down before they reached the sea.
+        <p rend="class(answer)">Cocoanut
+
+<pb id=pb55 n=55>
+    <p rend="class(explanation)">The husk, the shell, and the meat are passed to reach the water within.
+
+
+<p rend="class(number)" id=r124>124.
+
+<p rend="class(question)" lang=ilo n=124>Pispisi a dalayap nagcatlo nagcapat.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Buquel ti capas
+
+<p rend="class(question)">A half-lemon divides into three or four.
+        <p rend="class(answer)">Fruit of cotton
+
+
+<p rend="class(number)" id=r125>125.
+
+<p rend="class(question)" lang=ilo n=125>Adda maysa nga banga nga bassit; Napno ti bato nga babassit.
+        <p rend="class(answer)" lang=ilo>(Iloc.&mdash;also Pang.) Bayabas
+
+<p rend="class(question)">Here is a little pot; it is full of small stones.
+        <p rend="class(answer)">Guava
+
+
+<p rend="class(number)" id=r126>126.
+
+<p rend="class(question)" lang=tl n=126>Aling cacania dito sa mundo ang nacalabas ang buto?
+        <p rend="class(answer)" lang=tl>(Tag.) Kasoy
+
+<p rend="class(question)">Which of his brothers in this world has his bones outside?
+        <p rend="class(answer)">Kasoy
+
+    <p rend="class(explanation)">A fruit, the hard seed of which projects entirely beyond its outer surface.
+
+
+<p rend="class(number)" id=r127>127.
+
+<p rend="class(question)" lang=tl n=127>Isang ungoy <corr sic=nakanpo>nakaupo</corr> sa lusong.
+        <p rend="class(answer)" lang=tl>(Tag.) Kasoy
+
+<p rend="class(question)">One monkey sitting on a mortar.
+        <p rend="class(answer)">Kasoy
+
+    <p rend="class(explanation)">The seed of the <hi lang=tl>balubad</hi> or Kasoy suggests the figure.
+
+<pb id=pb56 n=56>
+
+
+<p rend="class(number)" id=r128>128.
+
+<p rend="class(question)" lang=tl n=128>Babuy sa pulo, ang balahibu ay paco.
+        <p rend="class(answer)" lang=tl>(Tag.) Langca
+
+<p rend="class(question)">Wild hog, whose hairs are nails.
+        <p rend="class(answer)">Langca
+
+
+<p rend="class(number)" id=r129>129.
+
+<p rend="class(question)" lang=ilo n=129>Pobre ti rabaona mayaman ti onegna.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Langca
+
+<p rend="class(question)">Poor outside, rich within.
+        <p rend="class(answer)">Langca
+
+
+<p rend="class(number)" id=r130>130.
+
+<p rend="class(question)" lang=ilo n=130>Tinadtad ti rabaona, lauya ti onegna.
+        <p rend="class(answer)" lang=ilo>(Iloc.,&mdash;also Pang.) Langca
+
+<p rend="class(question)">Minced outside; <hi>lauya</hi> within.
+        <p rend="class(answer)">Langca
+
+    <p rend="class(explanation)"><hi>Lauya</hi>; meat on bones, thoroughly cooked in water with vinegar and spices. Langca is a large sort of breadfruit.
+
+
+<p rend="class(number)" id=r131>131.
+
+<p rend="class(question)" lang=ilo n=131>Agbibitin nga oging.
+        <p rend="class(answer)" lang=ilo>(Iloc.,&mdash;also Pang.) Longboy
+
+<p rend="class(question)">Charcoal hanging.
+        <p rend="class(answer)">Longboy
+
+    <p rend="class(explanation)">A plum-like fruit.
+
+
+<p rend="class(number)" id=r132>132.
+
+<p rend="class(question)" lang=ilo n=132>Adda inbitin co nga langdet tangtangaden ti baboaquet.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Longboy
+
+<p rend="class(question)">I hang up a chopping-block: the old women look up at it.
+        <p rend="class(answer)">Longboy
+
+
+<pb id=pb57 n=57>
+<p rend="class(number)" id=r133>133.
+
+<p rend="class(question)" lang=tl n=133>Hindi hayop, hindi tao,
+<lb>Nag dadamit ng de pano.
+        <p rend="class(answer)" lang=tl>(Tag.) Mabalo
+
+<p rend="class(question)">Not an animal, not a man,
+<lb>Yet it is clad in velvet.
+        <p rend="class(answer)">Mabalo
+
+    <p rend="class(explanation)">A fruit somewhat like a peach.
+
+
+<p rend="class(number)" id=r134>134.
+
+<p rend="class(question)" lang=ilo n=134>Agbibiten a puso.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Manga
+
+<p rend="class(question)">A heart hanging.
+        <p rend="class(answer)">Mango
+
+
+<p rend="class(number)" id=r135>135.
+
+<p rend="class(question)" lang=tl n=135>Isang cabang se&ntilde;orito, <sic>pulus</sic> may sombrero.
+        <p rend="class(answer)" lang=tl>(Tag.) Bunga
+
+<p rend="class(question)">A group of little gentlemen, all with their hats.
+        <p rend="class(answer)">Palmnuts
+
+
+<p rend="class(number)" id=r136>136.
+
+<p rend="class(question)" lang=tl n=136>Bahay ni <corr sic="sta, ana">Santa Ana</corr> <corr sic=pumong>punong</corr> <corr sic=punu>puno</corr> nang bala.
+        <p rend="class(answer)" lang=tl>(Tag.) Papaya
+
+<p rend="class(question)">Santa Ana&apos;s house is full of bullets.
+        <p rend="class(answer)">Papaya
+
+    <p rend="class(explanation)">The papaya contains abundance of round, shining, black seeds the size of buckshot or larger.
+
+
+<p rend="class(number)" id=r137>137.
+
+<p rend="class(question)" lang=pam n=137>Metung a bulsa mitmu yang paminta.
+        <p rend="class(answer)" lang=pam>(Pamp.) Kapaya
+
+<pb id=pb58 n=58>
+<p rend="class(question)">A pocket full of peppercorns.
+        <p rend="class(answer)">Papaya
+
+    <p rend="class(explanation)">The round black seeds of the papaya are the peppercorns.
+
+
+<p rend="class(number)" id=r138>138.
+
+<p rend="class(question)" lang=pag n=138>Abongnin Do&ntilde;a Maria alictob na botilla.
+        <p rend="class(answer)" lang=pag>(Pang.) Apayas
+
+<p rend="class(question)">Do&ntilde;a Maria&apos;s house is surrounded by a bottle.
+        <p rend="class(answer)">Papaya
+
+
+<p rend="class(number)" id=r139>139.
+
+<p rend="class(question)" lang=ilo n=139>Balay ni Santa Maria nalicmut ti espada.
+        <p rend="class(answer)" lang=ilo>(Iloc.,&mdash;also Pang., Gad., Bis.) Pi&ntilde;a
+
+<p rend="class(question)">Santa Maria&apos;s house is surrounded by swords.
+        <p rend="class(answer)">Pineapple
+
+
+<p rend="class(number)" id=r140>140.
+
+<p rend="class(question)" lang=ilo n=140>Se&ntilde;ora a nasam-sam-it addat oneg ti siit.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Pi&ntilde;a
+
+<p rend="class(question)">A sweet lady among the thorns.
+        <p rend="class(answer)">Pineapple
+
+
+<p rend="class(number)" id=r141>141.
+
+<p rend="class(question)" lang=tl n=141>Isang dalagang may corona at caloob saan ay may mata.
+        <p rend="class(answer)" lang=tl>(Tag.) Pi&ntilde;a
+
+<p rend="class(question)">The lady with a crown has eyes everywhere.
+        <p rend="class(answer)">Pineapple
+
+
+<pb id=pb59 n=59>
+<p rend="class(number)" id=r142>142.
+
+<p rend="class(question)" lang=ilo n=142>Agbibiten a danog.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Santol
+
+<p rend="class(question)">A fist hanging.
+        <p rend="class(answer)">Santol
+
+
+<p rend="class(number)" id=r143>143.
+
+<p rend="class(question)" lang=tl n=143>Bahay ni Sang Gabriel, punong puno nang barel.
+        <p rend="class(answer)" lang=tl>(Tag.) Lucban
+
+<p rend="class(question)">San Gabriel&apos;s house is full of guns.
+        <p rend="class(answer)">Shaddock
+
+
+
+<div2>
+<head>Furniture.</head>
+
+
+<p rend="class(number)" id=r144>144.
+
+<p rend="class(question)" lang=bis n=144>Con adlao naga uba, pero con gabi naga saya.
+        <p rend="class(answer)" lang=bis>(Bis.) Catre; mosquitero
+
+<p rend="class(question)">During the day she is naked, but at night she puts on her skirt.
+        <p rend="class(answer)">Bed; mosquito bar
+
+
+
+<div2>
+<head>Games.</head>
+
+
+<p rend="class(number)" id=r145>145.
+
+<p rend="class(question)" lang=tl n=145>Aso co sa pantalan, lumucso nang pitong balon, umuli nang pitong gubat, bago nag tanao dagat.
+        <p rend="class(answer)" lang=tl>(Tag.) Sungkahan
+
+<p rend="class(question)">My dog from the wharf jumped over seven wells, jumped again over seven forests, before it saw the sea.
+        <p rend="class(answer)">Mancala
+
+    <p rend="class(explanation)">This well-known game is played upon a <pb id=pb60 n=60>board in which a number of round pits are scooped out; two lines of seven of these are placed side by side.
+
+
+<div2>
+<head>Greeting.</head>
+
+
+<p rend="class(number)" id=r146>146.
+
+<p rend="class(question)" lang=tl n=146>Bumile ako nang bigas, bigas din ang ibinayad.
+        <p rend="class(answer)" lang=tl>(Tag.) Ang pagbibigay nang magandang arao o gabi sa kanino man.
+
+<p rend="class(question)">I bought rice with rice.
+        <p rend="class(answer)">The exchange of greeting&mdash;good morning or good night.
+
+
+<div2>
+<head>Hammock.</head>
+
+
+<p rend="class(number)" id=r147>147.
+
+<p rend="class(question)" lang=ilo n=147>Taray nga taray di met macaalis.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Indayon
+
+<p rend="class(question)">Running and running, but it cannot go away.
+        <p rend="class(answer)">Hammock
+
+
+<p rend="class(number)" id=r148>148.
+
+<p rend="class(question)" lang=ilo n=148>Adda caballoc a labang agsinanpontol panalian.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Indayon
+
+<p rend="class(question)">I have a gray horse; I can halter him at both ends.
+        <p rend="class(answer)">Hammock
+
+
+<div2>
+<head>Heavenly bodies.</head>
+
+
+<p rend="class(number)" id=r149>149.
+
+<p rend="class(question)" lang=tl n=149>Kabac na niog magdamag na kinayod.
+        <p rend="class(answer)" lang=tl>(Tag.) Buan
+
+<pb id=pb61 n=61>
+
+<p rend="class(question)">Half-a-cocoanut, retreating slowly all night.
+        <p rend="class(answer)">Moon
+
+
+<p rend="class(number)" id=r150>150.
+
+<p rend="class(question)" lang=tl n=150><corr sic=Kabaac>Kabiac</corr> na niog, magdamag na ipod nang ipod.
+        <p rend="class(answer)" lang=tl>(Tag.) Buan
+
+<p rend="class(question)">A half-cocoanut, scraped the whole night.
+        <p rend="class(answer)">Moon
+
+    <p rend="class(explanation)">The moon keeps freshly white, like cocoanut meat just scraped.
+
+
+<p rend="class(number)" id=r151>151.
+
+<p rend="class(question)" lang=ilo n=151>Sancagalip a rabong sila oanna amin a lobong.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Bulan
+
+<p rend="class(question)">A half section of a bambu shoot illuminates the whole world.
+        <p rend="class(answer)">Moon
+
+
+<p rend="class(number)" id=r152>152.
+
+<p rend="class(question)" lang=ilo n=152>Adda pisi a dalayap nga incalic; tal-lo a papadi dina macali.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Bulan
+
+<p rend="class(question)">I planted a half-lemon; three priests cannot dig it up.
+        <p rend="class(answer)">Moon
+
+
+<p rend="class(number)" id=r153>153.
+
+<p rend="class(question)" lang=pam n=153>Letrang C a maging O, O maging C.
+        <p rend="class(answer)" lang=pam>(Pamp.,&mdash;also Tag.) Bulan
+
+<p rend="class(question)">The letter C becomes O, O becomes C.
+        <p rend="class(answer)">The Moon
+
+
+<pb id=pb62 n=62>
+<p rend="class(number)" id=r154>154.
+
+<p rend="class(question)" lang=ilo n=154>Sim-migpatac ti tanobong silaoco a nagodong; sim-migpatac ti alodig, silaoco nga nagaoid.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Bulan quen bituen
+
+<p rend="class(question)">I chop a <hi>tanobong</hi> for light when I go to town; I chop an <hi>alodig</hi> for light when I go home.
+        <p rend="class(answer)">Moon and stars
+
+    <p rend="class(explanation)">A <hi>tanobong</hi> is a sort of bambu; <hi>alodig</hi> is a small bush.
+
+
+<p rend="class(number)" id=r155>155.
+
+<p rend="class(question)" lang=ilo n=155>Adda maysa nga dalayap imporoac co idiay tayac no may bagam cucuanac.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Bulan
+
+<p rend="class(question)">There was a lemon which I threw out into the wide plain. Guess it and I shall be yours.
+        <p rend="class(answer)">Moon
+
+
+<p rend="class(number)" id=r156>156.
+
+<p rend="class(question)" lang=tl n=156>Ako ay naghasik nang mais, pagka umaga ay palis.
+        <p rend="class(answer)" lang=tl>(Tag.) Bituin
+
+<p rend="class(question)">I sowed maize grains; in the morning they were swept away.
+    <p rend="class(explanation)">Stars
+
+<p rend="class(question)">The stars, grains of maize, disappear with the dawn.
+
+
+<pb id=pb63 n=63>
+<p rend="class(number)" id=r157>157.
+
+<p rend="class(question)" lang=ilo n=157>Sangaplato nga busi maoarasanna amin ti inilinili.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Bituen
+
+<p rend="class(question)">A plate of roasted rice can be spread all over the town.
+        <p rend="class(answer)">Stars
+
+
+<p rend="class(number)" id=r158>158.
+
+<p rend="class(question)" lang=pam n=158>Mayaquit alila nung ing sumbu macaslag ya, dapot nung capilan milaco ya carin la paquit.
+        <p rend="class(answer)" lang=pam>(Pamp.) Batuin at aldo
+
+<p rend="class(question)">When the lamp is shining they can scarcely be seen, but when it is taken away they become visible.
+        <p rend="class(answer)">Stars and sun
+
+
+<p rend="class(number)" id=r159>159.
+
+<p rend="class(question)" lang=pag n=159>Abong nen Don Juan agnalocasan.
+        <p rend="class(answer)" lang=pag>(Pang.) Aguco
+
+<p rend="class(question)">Don Juan&apos;s house, you cannot open.
+        <p rend="class(answer)">Sun
+
+
+<p rend="class(number)" id=r160>160.
+
+<p rend="class(question)" lang=pag n=160>Caoayan queling agnataquiling.
+        <p rend="class(answer)" lang=pag>(Pang.) Agueo
+
+<p rend="class(question)">You cannot look directly at <hi>caoayan queling.</hi>
+        <p rend="class(answer)">Sun
+
+    <p rend="class(explanation)">A sort of bambu, of great diameter.
+
+
+<p rend="class(number)" id=r161>161.
+
+<p rend="class(question)" lang=ilo n=161>Isbu ti andidit di masirip.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Ynit
+
+<p rend="class(question)"><hi>Andidit&apos;s</hi> urine cannot be looked at.
+        <p rend="class(answer)">Sun
+
+    <p rend="class(explanation)">The <hi>andidit</hi> is a cricket.
+
+
+<pb id=pb64 n=64>
+<p rend="class(number)" id=r162>162.
+
+<p rend="class(question)" lang=tl n=162>Kung ako ay iyong pakatitigan pagkita sa akiy di mapapalaran.
+        <p rend="class(answer)" lang=tl>(Tag.) Arao
+
+<p rend="class(question)">If you look at me, you cannot see me.
+        <p rend="class(answer)">Sun
+
+
+<p rend="class(number)" id=r163>163.
+
+<p rend="class(question)" lang=ilo n=163>Nagmulaac iti saba idiay daya saan a nagbunga ta naabac ti cuenta, nagmulaac iti niog idiay laud saan a nagugut ta naabac iti panonotna.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Ynit quen bulan
+
+<p rend="class(question)">I planted a banana in the east and it did not fruit for it lost the count and I planted a cocoanut in the west and it did not sprout because it lost its mind.
+        <p rend="class(answer)">Sun and moon
+
+
+
+<div2>
+<head>Hole.</head>
+
+
+<p rend="class(number)" id=r164>164.
+
+<p rend="class(question)" lang=bis n=164>Tapat nga guindadugangan tapat nga nagamag-an.
+        <p rend="class(answer)" lang=bis>(Bis.) Buho
+
+<p rend="class(question)">The larger it grows, the lighter it becomes.
+        <p rend="class(answer)">A hole
+
+
+
+<div2>
+<head>House: and parts.</head>
+
+
+<p rend="class(number)" id=r165>165.
+
+<p rend="class(question)" lang=pag n=165>Dinan yan penalsay Dios ya say quenantoit maengal?
+        <p rend="class(answer)" lang=pag>(Pang.) Abong
+
+<p rend="class(question)">What creature of God, having eaten makes a noise?
+        <p rend="class(answer)">House
+
+
+<pb id=pb65 n=65>
+<p rend="class(number)" id=r166>166.
+
+<p rend="class(question)" lang=ilo n=166>Ama iti pinarsua ni Apo Dios nga agtagtagari ti quin nanna?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Balay
+
+<p rend="class(question)">What creature of Lord God has talking its food?
+        <p rend="class(answer)">House
+
+
+<p rend="class(number)" id=r167>167.
+
+<p rend="class(question)" lang=ilo n=167>Ama iti parsua ni Apo Dios nga umona nga agsilia sa agap-ap.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Balay
+
+<p rend="class(question)">What creature of Lord God puts the saddle first and then the blanket?
+        <p rend="class(answer)">House
+
+    <p rend="class(explanation)">The roof of a house is built before the walls.
+
+
+<p rend="class(number)" id=r168>168.
+
+<p rend="class(question)" lang=tl n=168>Naligo ang Kapitan hindi binasa ang tiyan.
+        <p rend="class(answer)" lang=tl>(Tag.) Sahig
+
+<p rend="class(question)">The Captain took a bath, but did not wet his belly.
+        <p rend="class(answer)">Floor
+
+    <p rend="class(explanation)">When being scrubbed with water, the bambu is as promptly dry as a duck&apos;s back.
+
+
+<p rend="class(number)" id=r168b>168.
+
+<p rend="class(question)" lang=tl n=168>Hindi <corr sic=tayop>hayop</corr>, hindi tao nag ngangalan nang Tranquilino.
+        <p rend="class(answer)" lang=tl>(Tag.) Trangk&apos;a nang pinto
+
+<p rend="class(question)">Not animal, not man; its name is Tranquilino.
+        <p rend="class(answer)">Lock of door
+
+    <p rend="class(explanation)">Mere resemblance in sound between <pb id=pb66 n=66>Tranquilino, a personal name, and Trangka&mdash;a lock.
+
+
+<p rend="class(number)" id=r169>169.
+
+<p rend="class(question)" lang=tl n=169><corr sic=Ang>Kung</corr> sino ang naunang umakiat siyang nahuli sa lahat.
+        <p rend="class(answer)" lang=tl>(Tag.) Pagaatip
+
+<p rend="class(question)">He who climbed first became the last.
+        <p rend="class(answer)">Nipa thatching
+
+    <p rend="class(explanation)">In roofing the work begins at the lower part and ends at the ridge.
+
+
+<p rend="class(number)" id=r170>170.
+
+<p rend="class(question)" lang=ilo n=170>Adda ay ayatec nga gayyem (amigo) ngem saanco a cayat a casango.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Adigi
+
+<p rend="class(question)">I have a loving friend but I do not wish to face him.
+        <p rend="class(answer)">Post
+
+    <p rend="class(explanation)">A post in the house construction. Mothers punish naughty children by standing them in the corner facing the post.
+
+
+<p rend="class(number)" id=r171>171.
+
+<p rend="class(question)" lang=ilo n=171>Quimmali siramari quimmagat.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Adigi
+
+<p rend="class(question)">Set into the ground, breaks through, and bites.
+        <p rend="class(answer)">Post
+
+    <p rend="class(explanation)">A post in house construction meets the requirement. It is firmly planted, penetrates flooring, and clutches and holds a rafter or other pole.
+
+
+<pb id=pb67 n=67>
+<p rend="class(number)" id=r172>172.
+
+<p rend="class(question)" lang=pam n=172>Atin cung metung a caballero pabanua yang makakabayo, dapot eya mamako.
+        <p rend="class(answer)" lang=pam>(Pamp.) Pakabayu ning bubungan
+
+<p rend="class(question)">I have a horseman who has been riding for a year but has not gone a bit.
+        <p rend="class(answer)">Rider of bambu, over the ridge to keep the nipa from being blown away.
+
+
+<p rend="class(number)" id=r173>173.
+
+<p rend="class(question)" lang=tl n=173>Balubog nang ama mo, pina <corr sic="arawanco">arawan co</corr>.
+        <p rend="class(answer)" lang=tl>(Tag.) Palupo nang babay
+
+<p rend="class(question)">I let the sunshine on your father&apos;s back; i.e. the sun shines on your father&apos;s back.
+        <p rend="class(answer)">The long poles at the roof crest of the house.
+
+    <p rend="class(explanation)">These poles are the &ldquo;father&apos;s back;&rdquo; they are directly exposed to the sun&apos;s rays.
+
+
+<p rend="class(number)" id=r174>174.
+
+<p rend="class(question)" lang=ilo n=174>No omoli baro, no omolog balo.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Atep
+
+<p rend="class(question)">When it ascends it is new (young); When it goes down it is a widow.
+        <p rend="class(answer)">Roof
+
+
+<pb id=pb68 n=68>
+<p rend="class(number)" id=r175>175.
+
+<p rend="class(question)" lang=ilo n=175>Minalemae nga agtacop binigatac met nga agpiguis.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Tandoc
+
+<p rend="class(question)">I mend it every evening, I tear it every morning.
+        <p rend="class(answer)">Window
+
+
+<p rend="class(number)" id=r176>176.
+
+<p rend="class(question)" lang=pag n=176>Na labi mansacabac; no agueo manpilatae.
+        <p rend="class(answer)" lang=pag>(Pang.) Ventana
+
+<p rend="class(question)">At night closed; in day open.
+        <p rend="class(answer)">Window
+
+
+<p rend="class(number)" id=r177>177.
+
+<p rend="class(question)" lang=ilo n=177>Abosta kippit, Comalcalipkip.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Riquep
+
+<p rend="class(question)">Although thin, it can slide.
+        <p rend="class(answer)">Window shutter
+
+<div2>
+<head>Implements.</head>
+
+
+<p rend="class(number)" id=r178>178.
+
+<p rend="class(question)" lang=ilo n=178>Ypacapetco toy colisipeo dita bocotmo maimbagan ta nasaquitmo.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Tandec
+
+<p rend="class(question)">I place my <hi>colisipco</hi> upon your back and it cures your illness.
+        <p rend="class(answer)">Cupping-horn
+
+    <p rend="class(explanation)"><hi>Colisipco</hi> is a slender bambu sucking tube. <hi>Tandoc</hi> is a piece of horn for blood-letting.
+
+
+<pb id=pb69 n=69>
+<p rend="class(number)" id=r179>179.
+
+<p rend="class(question)" lang=ilo n=179>Adda maysa nga amigoc no icaraed cod toy olic, maornos datoy booc.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Sagaysay
+
+<p rend="class(question)">I have a friend and when I arrange my head, my hair is in order.
+        <p rend="class(answer)">Comb
+
+
+<p rend="class(number)" id=r180>180.
+
+<p rend="class(question)" lang=ilo n=180>Aniat ina ni saba?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Ni daga
+
+<p rend="class(question)">Quet ania met ti amana?
+        <p rend="class(answer)">Barrita
+
+<p rend="class(question)">What is the mother of the banana?
+        <p rend="class(answer)">The earth
+
+<p rend="class(question)">And what its father?
+        <p rend="class(answer)">Digging-stick
+
+
+<p rend="class(number)" id=r181>181.
+
+<p rend="class(question)" lang=pag n=181>Tombong con tombong manpilicay gustum.
+        <p rend="class(answer)" lang=pag>(Pang.) Agniob
+
+<p rend="class(question)">Intestine (gut) choose what you want.
+        <p rend="class(answer)">Fire-blower
+
+    <p rend="class(explanation)">It is a simple tube of bambu.
+
+
+<p rend="class(number)" id=r182>182.
+
+<p rend="class(question)" lang=pam n=182>Magdala ya laman mete, mamita yang laman mabie.
+        <p rend="class(answer)" lang=pam>(Pamp.) Mamaduas ing apana ating asan a dumamit.
+
+<p rend="class(question)">He carries the flesh of the dead, but seeks the flesh of the living.
+        <p rend="class(answer)">Fishline
+
+
+<pb id=pb70 n=70>
+<p rend="class(number)" id=r183>183.
+
+<p rend="class(question)" lang=ilo n=183>Banga sadi Sinait, naapinan ti nangisit.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Tintiroan
+
+<p rend="class(question)">A pot from Sinait, lined with black.
+        <p rend="class(answer)">Ink bottle
+
+
+<p rend="class(number)" id=r184>184.
+
+<p rend="class(question)" lang=ilo n=184>Adda bassit nga quita nga casla tisa ngem mabalinna nga ayoanan ti maysa nga balasang nga casla mangayoan a cas maysa nga leon.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Tulbec
+
+<p rend="class(question)">There is a little thing like a piece of crayon, but it can guard a lady like a lion.
+        <p rend="class(answer)">Key
+
+
+<p rend="class(number)" id=r185>185.
+
+<p rend="class(question)" lang=tl n=185>Hindi madangkal, hindi madipa, pinag-tutuangan nang lima.
+        <p rend="class(answer)" lang=tl>(Tag.) Carayom
+
+<p rend="class(question)">You can not span it, you cannot measure it by your outstretched arms, and it is being carried by five.
+        <p rend="class(answer)">Needle
+
+
+<p rend="class(number)" id=r186>186.
+
+<p rend="class(question)" lang=pam n=186>Begut nc ing andang tinuki ya ing ubingan.
+        <p rend="class(answer)" lang=pam>(Pamp.) Carayum ampong sinulad.
+
+<p rend="class(question)">He pulled out a stick and it was followed by a snake.
+        <p rend="class(answer)">Needle and thread
+
+
+<pb id=pb71 n=71>
+<p rend="class(number)" id=r187>187.
+
+<p rend="class(question)" lang=tl n=187>Na una ang trozo sa manghihila.
+        <p rend="class(answer)" lang=tl>(Tag.,&mdash;also Bis., Pang.) Carayom
+
+<p rend="class(question)">The log comes first, then the hauling cable.
+        <p rend="class(answer)">Needle (and thread)
+
+
+<p rend="class(number)" id=r188>188.
+
+<p rend="class(question)" lang=ilo n=188>Tinoduc ni ampalocneng ti obet ni ampatang quen.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Dagum
+
+<p rend="class(question)">The soft one is thrust through the anus of the hard one.
+        <p rend="class(answer)">Needle and thread
+
+
+<p rend="class(number)" id=r189>189.
+
+<p rend="class(question)" lang=ilo n=189>Ania nga abut iti tacopan iti iapadana nga abut?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Iquet
+
+<p rend="class(question)">What hole do you mend with holes?
+        <p rend="class(answer)">Net
+
+
+<p rend="class(number)" id=r190>190.
+
+<p rend="class(question)" lang=ilo n=190>Magmagnaac mangibatbatiac ti magnaac agbalbalicas.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Pluma
+
+<p rend="class(question)">I am walking leaving tracks where I walk.
+        <p rend="class(answer)">Pen
+
+
+<p rend="class(number)" id=r191>191.
+
+<p rend="class(question)" lang=ilo n=191>Mangipatacderac ti adigi madomadoma a corte.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Pluma
+
+<p rend="class(question)">I set up a post variously cut (fashioned).
+        <p rend="class(answer)">Pen
+
+<pb id=pb72 n=72>
+    <p rend="class(explanation)">The pen of this riddle is the old-time quill pen.
+
+
+<p rend="class(number)" id=r192>192.
+
+<p rend="class(question)" lang=bis n=192>Con uyatan naga lacat; con buhi-an naga liguid.
+        <p rend="class(answer)" lang=bis>(Bis.) Pluma
+
+<p rend="class(question)">When held it goes; When let loose it lies down.
+        <p rend="class(answer)">Pen
+
+
+<p rend="class(number)" id=r193>193.
+
+<p rend="class(question)" lang=pag n=193>Bolong na unas mancancanioas.
+        <p rend="class(answer)" lang=pag>(Pang.) Catli
+
+<p rend="class(question)">Sugarcane leaves moving crisscross.
+        <p rend="class(answer)">Scissors
+
+
+<p rend="class(number)" id=r194>194.
+
+<p rend="class(question)" lang=tl n=194>Pukeng payat nangangagat.
+        <p rend="class(answer)" lang=tl>(Tag.) Gunteng
+
+<p rend="class(question)">A narrow vagina bites.
+        <p rend="class(answer)">Scissors
+
+
+<p rend="class(number)" id=r195>195.
+
+<p rend="class(question)" lang=ilo n=195>Maysa nga colibangbang tinaoentaoen nga mangan.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Raquem
+
+<p rend="class(question)">There is a butterfly which is eating every year.
+        <p rend="class(answer)">Rice knife
+
+    <p rend="class(explanation)">The small knife used to cut rice. Its shape suggests that of a butterfly.
+
+
+<p rend="class(number)" id=r196>196.
+
+<p rend="class(question)" lang=ilo n=196>Diac maquita nacamolagatac; no abbongac maquitac.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Anteojos
+
+<p rend="class(question)">I cannot see although my eyes are <pb id=pb73 n=73>wide open; if I cover, I can see.
+        <p rend="class(answer)">Spectacles
+
+
+
+<div2>
+<head>Insects: and other invertebrates.</head>
+
+
+<p rend="class(number)" id=r197>197.
+
+<p rend="class(question)" lang=bis n=197>Diotay pa si compare cahibalo na mag saca sa lubu.
+        <p rend="class(answer)" lang=bis>(Bis.) Subay
+
+<p rend="class(question)">My <hi>compadre</hi> is tiny, yet he knows how to climb up a cocoanut tree.
+        <p rend="class(answer)">Ant
+
+
+<p rend="class(number)" id=r198>198.
+
+<p rend="class(question)" lang=tl n=198>Bahay ni Man Tute haligue ay bali-bali.
+        <p rend="class(answer)" lang=tl>(Tag.) Alimango
+
+<p rend="class(question)">House of Mr. Tute, whose rafters are twisted.
+        <p rend="class(answer)">Crab
+
+
+<p rend="class(number)" id=r199>199.
+
+<p rend="class(question)" lang=bis n=199>Nano nga pispis nga ua-ay pag lupad, may pac-pac cag may bala-hibu, cag naga butu.
+        <p rend="class(answer)" lang=bis>(Bis.) Ulang
+
+<p rend="class(question)">What bird is it, having wings cannot fly, which makes its nest and hatches its young under its wings?
+        <p rend="class(answer)">Crayfish
+
+
+<p rend="class(number)" id=r200>200.
+
+<p rend="class(question)" lang=ilo n=200>No umolog maturog; no umoli tomacqui.
+        <p rend="class(answer)" lang=ilo>(Iloc.&mdash;also Pang.) Alinta
+
+<p rend="class(question)">When it goes down, it sleeps; when <pb id=pb74 n=74>it goes up it drops waste matter.
+        <p rend="class(answer)">Earthworm
+
+
+<p rend="class(number)" id=r201>201.
+
+<p rend="class(question)" lang=ilo n=201>Magmagna mamingpingqui.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Colalanti
+
+<p rend="class(question)">Walking, it strikes fire. Makes a spark.
+        <p rend="class(answer)">Fireflies
+
+
+<p rend="class(number)" id=r202>202.
+
+<p rend="class(question)" lang=bis n=202>Con sa latagon palanacal; con sa balay magansal; pero con sa mesa in a ugdang.
+        <p rend="class(answer)" lang=bis>(Bis.) Lango
+
+<p rend="class(question)">Out in the field she talks too much; In the house she makes much noise; But when at table she is quiet.
+        <p rend="class(answer)">Fly
+
+
+<p rend="class(number)" id=r203>203.
+
+<p rend="class(question)" lang=bis n=203>Ang patay nag bata sing buhi, ang buhi nag bata cag ang iya bata iya guin bilin sa patay, cag ang patay amo ang nag buhi sang bata sang buhi.
+        <p rend="class(answer)" lang=bis>(Bis.) Langao, uhid, carne
+
+<p rend="class(question)">A living thing left its young to a dead thing; this dead thing gave nourishment to the young of the living thing.
+        <p rend="class(answer)">Fly, maggots, meat
+
+
+<p rend="class(number)" id=r204>204.
+
+<p rend="class(question)" lang=ilo n=204>Siasino iti parsua ni apotayo nga Dios nga casla agropropa a caballo <pb id=pb75 n=75>quet iti payacna casla bulong iti caoayan?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Dudon
+
+<p rend="class(question)">What creature of our Lord God has a face like a horse and wings like bambu leaves?
+        <p rend="class(answer)">Grasshopper
+
+
+<p rend="class(number)" id=r205>205.
+
+<p rend="class(question)" lang=ilo n=205>Adda maysa nga tumatayal yanna amin nga lugar uray no tayac quen cabaquiran, quet iti rupana rupa iti baca, iti tengnguedna tengngued iti caballo, iti barocongna barocong iti tao, iti payacna casla bolong iti caoayan iti ipusna casla uleg, iti sacana casla saca iti tocling.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Oasay-oasay
+
+<p rend="class(question)">There is a flying thing, which stays anywhere,&mdash;even in the forest and tayac; its face is the face of a cow, its neck the neck of a horse, the breast the breast of a man, the wing is like the leaf of a bambu, his tail resembles a snake, and his feet look like the feet of a bird.
+        <p rend="class(answer)">Grasshopper
+
+
+<pb id=pb76 n=76>
+<p rend="class(number)" id=r206>206.
+
+<p rend="class(question)" lang=tl n=206>Madilim na bundoc hayop na walan buto.
+        <p rend="class(answer)" lang=tl>(Tag.) Cutu
+
+<p rend="class(question)">Dark mountain&mdash;boneless animal.
+        <p rend="class(answer)">Louse
+
+
+<p rend="class(number)" id=r207>207.
+
+<p rend="class(question)" lang=bis n=207>Atimon sa cagulangan ua-ay alipopo-an.
+        <p rend="class(answer)" lang=bis>(Bis.) Lusa
+
+<p rend="class(question)">Melon of the wilderness without a stem.
+        <p rend="class(answer)">Nit
+
+
+<p rend="class(number)" id=r208>208.
+
+<p rend="class(question)" lang=pam n=208>Ating metung a cacanan ing queang pengan marayu ya qung atian.
+        <p rend="class(answer)" lang=pam>(Pamp.) Paro
+
+<p rend="class(question)">There is a certain thing to eat; its fleshiness is far from its belly.
+        <p rend="class(answer)">Shrimp
+
+
+<p rend="class(number)" id=r209>209.
+
+<p rend="class(question)" lang=pam n=209>Ing labuad nang quebaitan yang ena na buring balicad, uling ing hie na carin mipalamang.
+        <p rend="class(answer)" lang=pam>(Pamp.) Yamuc
+
+<p rend="class(question)">He does not like to return to the land where he was born for there he will meet his fate.
+        <p rend="class(answer)">Mosquito
+
+    <p rend="class(explanation)">Born of water; he drowns in water.
+
+<pb id=pb77 n=77>
+
+
+<p rend="class(number)" id=r210>210.
+
+<p rend="class(question)" lang=tl n=210>Aling hayop dito sa mundo, ang inilalakad ay ulo?
+        <p rend="class(answer)" lang=tl>(Tag.) Suso
+
+<p rend="class(question)">What animal in this world walks with his head?
+        <p rend="class(answer)">Snail
+
+
+<p rend="class(number)" id=r211>211.
+
+<p rend="class(question)" lang=ilo n=211>Maysa a naparato ti catayna pagsilona.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Laoalaoa
+
+<p rend="class(question)">A joker uses his spittle for a snare.
+        <p rend="class(answer)">Spider
+
+
+<p rend="class(number)" id=r212>212.
+
+<p rend="class(question)" lang=pam n=212>Ating palacio mitmu yang cuartu, balang metung a cuartu maqui metung yang curatu.
+        <p rend="class(answer)" lang=pam>(Pamp.) Calaba ning tainumu, o panilan.
+
+<p rend="class(question)">There is a palace full of rooms, each containing a priest.
+        <p rend="class(answer)">Honeycomb
+
+
+<p rend="class(number)" id=r213>213.
+
+<p rend="class(question)" lang=tl n=213><sic>Aroi</sic> Dom Pedro, hindi macolabas sa carcel?
+        <p rend="class(answer)" lang=tl>(Tag.) Tinik
+
+<p rend="class(question)">Oh! Don Pedro, why don&apos;t you get out of prison?
+        <p rend="class(answer)">Sting
+
+    <p rend="class(explanation)">Tinik means either a <corr sic=string>sting</corr> of an insect or the thorn of a plant. It is the sting or thorn which here is considered in prison and exhorted to escape.
+
+
+
+<pb id=pb78 n=78><div2>
+<head>Lamp.</head>
+
+
+<p rend="class(number)" id=r214>214.
+
+<p rend="class(question)" lang=pam n=214>Metung a butil a pale kitmu ne ing bale.
+        <p rend="class(answer)" lang=pam>(Pamp.) Sumbu
+
+<p rend="class(question)">A single grain of rice, filled the whole house.
+        <p rend="class(answer)">A lamp
+
+
+<p rend="class(number)" id=r215>215.
+
+<p rend="class(question)" lang=pam n=215>Memala ya ing labak meto ya ing tugak.
+        <p rend="class(answer)" lang=pam>(Pamp.) Sumbu
+
+<p rend="class(question)">The swamp dried up and the frog died.
+        <p rend="class(answer)">An oil lamp
+
+
+<p rend="class(number)" id=r216>216.
+
+<p rend="class(question)" lang=ilo n=216>Adda lognac quen adda met agtaytayab daytoy nga agtaytayab aggiyan ditoy nga lognac quet no mamamagaan daytoy nga lognaquen matay met datoy agtaytayaben.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Lamparaan
+
+<p rend="class(question)">There is a pond and a bird; this bird lives in the pond. When the pond dries up, the bird dies.
+        <p rend="class(answer)">Lamp
+
+
+
+<div2>
+<head>Love.</head>
+
+
+<p rend="class(number)" id=r217>217.
+
+<p rend="class(question)" lang=ilo n=217>Aniat casam itan ti nasamit?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Ayat
+
+<p rend="class(question)">What is the sweetest of the sweet?
+        <p rend="class(answer)">Love
+
+
+<pb id=pb79 n=79>
+<p rend="class(number)" id=r218>218.
+
+<p rend="class(question)" lang=ilo n=218>Ania ti ayat nga agmalmalem?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Ti apagcascasar
+
+<p rend="class(question)">What love lasts all day?
+        <p rend="class(answer)">Of those just married
+
+
+<p rend="class(number)" id=r219>219.
+
+<p rend="class(question)" lang=ilo n=219>Ramaycot panagaladco luac ti panagsibugco.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Panangasaoa
+
+<p rend="class(question)">I fence with my fingers; I water with my tears.
+        <p rend="class(answer)">To marry
+
+
+<p rend="class(number)" id=r220>220.
+
+<p rend="class(question)" lang=ilo n=220>Nag molaac iti masetas ditoy locong iti dacolapco iti pinag si bogco toy loac quet iti pinamorosco toy matac.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Nagayanayat
+
+<p rend="class(question)">I planted a plant in the midst of the palm of my hand, I watered it with my tears, I gathered it with my eyes.
+        <p rend="class(answer)">Loving each other
+
+
+<p rend="class(number)" id=r221>221.
+
+<p rend="class(question)" lang=tl n=221>Acoi nag tanim nang dayap sa gitna nang dagat marami ang nahanap, iisa ang naka palad.
+        <p rend="class(answer)" lang=tl>(Tag.,&mdash;also Iloc.) Dalaga
+
+<p rend="class(question)">I planted a lemon tree in the middle of the sea many sought it only one found it.
+        <p rend="class(answer)">Girl
+
+<pb id=pb80 n=80>
+
+
+<p rend="class(number)" id=r222>222.
+
+<p rend="class(question)" lang=pag n=222>Oalay saquey ya dalayap temmobod puegley na dayat amayamay ya manped peraod sac sacquey so acagaoat.
+        <p rend="class(answer)" lang=pag>(Pang.) Panangasasa
+
+<p rend="class(question)">There is a lemon-tree growing in the middle of the sea; many people desire to take it, but cannot; only one person can succeed.
+        <p rend="class(answer)">Your sister
+
+    <p rend="class(explanation)">To be married.
+
+
+<div2>
+<head>Mat.</head>
+
+
+<p rend="class(number)" id=r223>223.
+
+<p rend="class(question)" lang=pam n=223>Mig quera cu babo ebus, lalam sasa cu me tudtud.
+        <p rend="class(answer)" lang=pam>(Pamp.) Dase
+
+<p rend="class(question)">I lay down upon the buri, under the nipa I slept.
+        <p rend="class(answer)">Petate
+
+    <p rend="class(explanation)">The sleeping mat is laid down upon the floor (of <hi>buri</hi>); the roof is of <hi>nipa</hi>.
+
+
+<p rend="class(number)" id=r224>224.
+
+<p rend="class(question)" lang=tl n=224>Sa gabey dagat sa arao ay bumbong.
+        <p rend="class(answer)" lang=tl>(Tag.) Baneg
+
+<p rend="class(question)">At night it is a sea, in the day it is the bambu carry-tube.
+        <p rend="class(answer)">Petate
+
+    <p rend="class(explanation)">The <hi>petate</hi> is the sleeping mat of rushes; in the day-time it is rolled up and set away; at night it is unrolled and spread <pb id=pb81 n=81>upon the floor. The word sea is often used for any extended or flat surface.
+
+
+<p rend="class(number)" id=r225>225.
+
+<p rend="class(question)" lang=ilo n=225>No aldao tubong no rabii dadali.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Icamen
+
+<p rend="class(question)">If day a tube; if night a flounder.
+        <p rend="class(answer)">Sleeping mat=petate
+
+
+
+<div2>
+<head>Mirror.</head>
+
+
+<p rend="class(number)" id=r226>226.
+
+<p rend="class(question)" lang=ilo n=226>Quitquitaec quet quitaennac; no cataoaac cataoaan nac.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Espejo
+
+<p rend="class(question)">I am looking at it, and it looks at me; if I laugh, it laughs.
+        <p rend="class(answer)">Mirror
+
+
+
+<div2>
+<head>Musical Instruments.</head>
+
+
+<p rend="class(number)" id=r227>227.
+
+<p rend="class(question)" lang=ilo n=227>Guerret nga agpucpuc-cao, agpucpuc-cao a guerret.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Tambor
+
+<p rend="class(question)"><hi>Guerret</hi> crying, crying <hi>guerret</hi>.
+        <p rend="class(answer)">Drum
+
+    <p rend="class(explanation)"><hi>Guerret</hi> is a section cut transversely from a fish. It has somewhat the shape of a drum.
+
+
+<p rend="class(number)" id=r228>228.
+
+<p rend="class(question)" lang=ilo n=228>Ania ti pinarsua ni Apo Dios nga iti ngioat na adda ti tian-na maymaysa taequiag na, quen ti ramay na adda ti bocot ti dacolapna, quen naquinruar ti baguisna.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Guitarra
+
+<pb id=pb82 n=82>
+<p rend="class(question)">There is a creature made by Lord God whose mouth is in his belly; he has one arm and his fingers are in his back; and his intestines are outside.
+        <p rend="class(answer)">Guitar
+
+
+<p rend="class(number)" id=r229>229.
+
+<p rend="class(question)" lang=pam n=229>Secal que batal legari que atian, ginulisac yang masican.
+        <p rend="class(answer)" lang=pam>(Pamp.) Dibil
+
+<p rend="class(question)">I choked him, I sawed him across the belly, he screamed furiously.
+        <p rend="class(answer)">Violin
+
+
+<div2>
+<head>Nature Elements.</head>
+
+
+<p rend="class(number)" id=r230>230.
+
+<p rend="class(question)" lang=tl n=230>Bibingca nang hari, hindi mo mahati.
+        <p rend="class(answer)" lang=tl>(Tag.) Tubig
+
+<p rend="class(question)">The king&apos;s cake, you cannot divide it.
+        <p rend="class(answer)">Water
+
+<p rend="class(number)" id=r231>231.
+
+<p rend="class(question)" lang=ilo n=231>No tinagbat, nagpiglat.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Danom
+
+<p rend="class(question)">If you chop it, it heals at once.
+        <p rend="class(answer)">Water
+
+
+<p rend="class(number)" id=r232>232.
+
+<p rend="class(question)" lang=pam n=232>Ing inda maging anak ya, ing anak maging inda ya.
+        <p rend="class(answer)" lang=pam>(Pamp.) Yelo
+
+<p rend="class(question)">The mother becomes the daughter and the daughter becomes the mother.
+        <p rend="class(answer)">Water, ice
+
+<pb id=pb83 n=83>
+
+
+<p rend="class(number)" id=r233>233.
+
+<p rend="class(question)" lang=ilo n=233>Siac nacaquitaac iti siam abilit quet pinaltogac iti lima mano iti natedda?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Lima
+
+<p rend="class(question)">I saw nine birds; I shot five of them; how many were left?
+        <p rend="class(answer)">Five
+
+    <p rend="class(explanation)">The dead ones: the rest flew away.
+
+
+<div2>
+<head>Occupations.</head>
+
+
+<p rend="class(number)" id=r234>234.
+
+<p rend="class(question)" lang=bis n=234>Ang madamu guina dugangan, pero ang diotay guina buhinan.
+        <p rend="class(answer)" lang=bis>(Bis.) Ang pag limas sang tubi sa sulod sang sacayan.
+
+<p rend="class(question)">The greater is increased, the smaller is diminished.
+        <p rend="class(answer)">When water is pumped out of a boat.
+
+
+<p rend="class(number)" id=r235>235.
+
+<p rend="class(question)" lang=bis n=235>Ang iya olo sapat, ang iya lanao cahoy cag ang iya icog tauo.
+        <p rend="class(answer)" lang=bis>(Bis.) Carabao arado cog tauo.
+
+<p rend="class(question)">His head is an animal, his body is wood and his tail is man.
+        <p rend="class(answer)">Plowing
+
+
+<p rend="class(number)" id=r236>236.
+
+<p rend="class(question)" lang=ilo n=236>Adda tallo nga caquita; dadiay immona magmagna nga aoan tagarina; <pb id=pb84 n=84>dadiay maicadua mangmangan quet; dadiay maicatlo magmagna nga tomanagari.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Agarado
+
+<p rend="class(question)">There are three things; the first is walking without talking; the second is eating; the third is walking and talking.
+        <p rend="class(answer)">Plowing
+
+    <p rend="class(explanation)">The carabao, the plow, and the man.
+
+
+<p rend="class(number)" id=r237>237.
+
+<p rend="class(question)" lang=tl n=237>Manoc cong pute, nag talon sa pusale.
+        <p rend="class(answer)" lang=tl>(Tag.) Hugas bigas
+
+<p rend="class(question)">My white chicken jumped into the puddle.
+        <p rend="class(answer)">Rice-washing
+
+    <p rend="class(explanation)">The water that runs from rice washing is white; it falls from the kitchen down into the accumulated water under the house.
+
+
+<p rend="class(number)" id=r238>238.
+
+<p rend="class(question)" lang=ilo n=238>Ania ti aramid ti babay a dina malpas?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Abel
+
+<p rend="class(question)">What woman&apos;s work is never finished?
+        <p rend="class(answer)">Weaving
+
+    <p rend="class(explanation)">There is always a lower edge which cannot be woven.
+
+
+<pb id=pb85 n=85>
+<div2>
+<head>Persons.</head>
+
+
+
+<p rend="class(number)" id=r239>239.
+
+<p rend="class(question)" lang=tl n=239>Acoi nag tanem nang sile sa tabe nang catre, ang idinileg coi, <corr sic=pure>puro</corr> ang ibinungay diamante.
+        <p rend="class(answer)" lang=tl>(Tag.) Bata
+
+<p rend="class(question)">I planted a pepper near a bed, I watered it with honor, it yielded a precious jewel.
+        <p rend="class(answer)">Baby
+
+
+<p rend="class(number)" id=r240>240.
+
+<p rend="class(question)" lang=bis n=240>Con mag atubang si tatay; apang con mag talicud si nanay.
+        <p rend="class(answer)" lang=bis>(Bis.) Insik
+
+<p rend="class(question)">If it faces you it is your father; but if it turns its back it is your mother.
+        <p rend="class(answer)">Chinaman
+
+    <p rend="class(explanation)">Seen from before the general appearance is that of a man; from behind, a woman.
+
+
+<p rend="class(number)" id=r241>241.
+
+<p rend="class(question)" lang=pam n=241>Taung inucul dang loco, dapot ing dapat na mibulalag quing yatu.
+        <p rend="class(answer)" lang=pam>(Pamp.) Cristobal Colon
+
+<p rend="class(question)">One whom they thought a fool, his work became world-known.
+        <p rend="class(answer)">Columbus
+
+
+<p rend="class(number)" id=r242>242.
+
+<p rend="class(question)" lang=tl n=242>Nag habla ang may sala nag tago ang justicia.
+        <p rend="class(answer)" lang=tl>(Tag.) <sic>Nagevemupisal</sic>
+
+<pb id=pb86 n=86>
+<p rend="class(question)">The culprit appears in court, the justice is hidden.
+        <p rend="class(answer)">The Confessional
+
+    <p rend="class(explanation)">The person confessing is plainly seen; the priest receiving the confession is out of sight.
+
+
+<p rend="class(number)" id=r243>243.
+
+<p rend="class(question)" lang=ilo n=243>Nagmolaac iti pipino idiay arisadsad ti convento dimet nagbunga ti pipino no di Sto. Cristo.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Natay
+
+<p rend="class(question)">I planted a pip near the convent but it did not produce a squash but Sto. Cristo.
+        <p rend="class(answer)">A dead person
+
+
+<p rend="class(number)" id=r244>244.
+
+<p rend="class(question)" lang=ilo n=244>Ania ti ringgor nga saan nga agtaud ti dila?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Umel
+
+<p rend="class(question)">What quarrel is not made with the tongue?
+        <p rend="class(answer)">A dumb man&apos;s
+
+
+<p rend="class(number)" id=r245>245.
+
+<p rend="class(question)" lang=bis n=245>Sin-o ang napatay nga guin lubung sa tiyan sang iya nanay?
+        <p rend="class(answer)" lang=bis>(Bis.) Pari
+
+<p rend="class(question)">Who died, who was buried in his mother&apos;s bosom?
+        <p rend="class(answer)">Friar
+
+    <p rend="class(explanation)">He was buried in the church.
+
+
+<p rend="class(number)" id=r246>246.
+
+<p rend="class(question)" lang=bis n=246>Duro co nga dalagan pero ua-ay aco dinalaganan?
+        <p rend="class(answer)" lang=bis>(Bis.) Naga sacay sa duyan
+
+<pb id=pb87 n=87>
+<p rend="class(question)">Who was running fast but did not move from where he started?
+        <p rend="class(answer)">One in a hammock
+
+
+<p rend="class(number)" id=r247>247.
+
+<p rend="class(question)" lang=pam n=247>Ing makalub makalual ya, ing makalual makalub ya.
+        <p rend="class(answer)" lang=pam>(Pamp.) Ing inda ampo ing anak.
+
+<p rend="class(question)">What was exposed is inside, what was inside is exposed.
+        <p rend="class(answer)">Mother and babe, when the latter is baptized.
+
+    <p rend="class(explanation)">The mother stays at home in the house.
+
+
+<p rend="class(number)" id=r248>248.
+
+<p rend="class(question)" lang=ilo n=248>Pinonggosco a pinongos bino caycayan iti Dios.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Masicog
+
+<p rend="class(question)">I grasped and grasped and God loosed it.
+        <p rend="class(answer)">Pregnant woman
+
+
+<p rend="class(number)" id=r249>249.
+
+<p rend="class(question)" lang=ilo n=249>Ania ti anac a mangisquis quen mana.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Ti mangrarit ti piracna.
+
+<p rend="class(question)">What child shaves his mother?
+        <p rend="class(answer)">Who spends her money
+
+
+<p rend="class(number)" id=r250>250.
+
+<p rend="class(question)" lang=ilo n=250>Aniat baybay a di aglippias?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Ti Quinaquirmet
+
+<p rend="class(question)">What sea does not overflow?
+        <p rend="class(answer)">The stingy man
+
+<pb id=pb88 n=88>
+    <p rend="class(explanation)">Though he has abundance he gives out none.
+
+
+<p rend="class(number)" id=r251>251.
+
+<p rend="class(question)" lang=bis n=251>Con tulcon nimo uala sia pag pahuay sang lacat apang uala man sing limacatan.
+        <p rend="class(answer)" lang=bis>(Bis.) Manoghabol
+
+<p rend="class(question)">She appears to be always walking, but after all is still in her place as before.
+        <p rend="class(answer)">A weaver
+
+
+<div2>
+<head>Plants.</head>
+
+
+<p rend="class(number)" id=r252>252.
+
+<p rend="class(question)" lang=pam n=252>Deli queenteng kaballero rianu mang tiknang an nang palacio, agad yanag malaso.
+        <p rend="class(answer)" lang=pam>(Pamp.) Balite
+
+<p rend="class(question)">A gallant horseman causes any castle in which he is to crumble to pieces.
+        <p rend="class(answer)">The Balite
+
+    <p rend="class(explanation)">This is the great parasitic fig, which encloses other trees in its embrace.
+
+
+<p rend="class(number)" id=r253>253.
+
+<p rend="class(question)" lang=ilo n=253>Adda maysa nga cayo nga bulong nga bulong di met agsabong; sanga nga sanga dimet agbunga.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Caoayan
+
+<p rend="class(question)">There is a plant that produces leaves after leaves, but no flowers; branches after branches, but no fruit.
+        <p rend="class(answer)">Bambu
+
+
+<pb id=pb89 n=89>
+
+
+<p rend="class(number)" id=r254>254.
+
+<p rend="class(question)" lang=ilo n=254>Siroc iti balay ti bacnang di macaycayan.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Bulong ti caoayan
+
+<p rend="class(question)">Under the <hi>bacnang&apos;s</hi> house it cannot be clean.
+        <p rend="class(answer)">Bambu leaves
+
+
+<p rend="class(number)" id=r255>255.
+
+<p rend="class(question)" lang=gad n=255>Nab-barnasi sin accab-bing-nga udde sicuana.
+        <p rend="class(answer)" lang=gad>(Gad.,&mdash;also Iloc., Pang., Bis.) Ufud.
+
+<p rend="class(question)">When newly-born, well dressed, but when he gets old he is naked.
+        <p rend="class(answer)">Bambu shoot
+
+    <p rend="class(explanation)">The bud is covered with a down, which disappears.
+
+
+<p rend="class(number)" id=r256>256.
+
+<p rend="class(question)" lang=tl n=256>Nang munte ay may tapis, nang lumaki ay bulisles.
+        <p rend="class(answer)" lang=tl>(Tag.) Caoayan
+
+<p rend="class(question)">When young she wore a tapis; when grown she is unclad
+        <p rend="class(answer)">Bambu shoot
+
+    <p rend="class(explanation)">The <hi>tapis</hi> is the most characteristic part of the woman&apos;s dress. It is a wide band of dark cloth (black or brown) worn over the other clothing, around the whole middle part of the body.
+
+<pb id=pb90 n=90>
+
+
+<p rend="class(number)" id=r257>257.
+
+<p rend="class(question)" lang=tl n=257>Nanganak ang virgen itinapon ang lampen.
+        <p rend="class(answer)" lang=tl>(Tag.) Sagueng
+
+<p rend="class(question)">The virgin gave birth to a child and threw away the blanket.
+        <p rend="class(answer)">Banana
+
+
+<p rend="class(number)" id=r258>258.
+
+<p rend="class(question)" lang=tl n=258>Nanganak ang asuang sa tuktok nagdaan.
+        <p rend="class(answer)" lang=tl>(Tag.) Sagueng
+
+<p rend="class(question)">An asuang gave birth to a child from the top.
+        <p rend="class(answer)">Banana
+
+
+<p rend="class(number)" id=r259>259.
+
+<p rend="class(question)" lang=ilo n=259>Naguit-log ni cannaoay inocopan ni teg-gaac idi cuan guiaoen ni oac ti nagtaraquen.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Saba
+
+<p rend="class(question)">A stork laid an egg; the crane hatched a lark from it; the crow took care of the young.
+        <p rend="class(answer)">Banana
+
+
+<p rend="class(number)" id=r260>260.
+
+<p rend="class(question)" lang=ilo n=260>Sancadaoa sangalabba.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Sangcabulig a saba
+
+<p rend="class(question)">A seed-bearing stem; one fills a basket.
+        <p rend="class(answer)">Bunch of bananas
+
+
+<p rend="class(number)" id=r261>261.
+
+<p rend="class(question)" lang=tl n=261>Macagto sa simbahan si Mary, pito o <corr sic=valo>ualo</corr> ang iya saya.
+        <p rend="class(answer)" lang=tl>(Tag.) Puso
+
+<p rend="class(question)">Mary is going to church having seven or eight shirts.
+        <p rend="class(answer)">Banana bud
+
+<pb id=pb91 n=91>
+    <p rend="class(explanation)">The bud is wrapped or folded within a number of bracts.
+
+
+<p rend="class(number)" id=r262>262.
+
+<p rend="class(question)" lang=ilo n=262>Adda puso a maysa dagat nag apuanna alupasit naglasatanna.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Puso ti saba
+
+<p rend="class(question)">There is a heart that came from the earth and pushed up through <hi>alupasit.</hi>
+        <p rend="class(answer)">The heart of the banana
+
+    <p rend="class(explanation)"><hi>Alupasit</hi> is banana fibre.
+
+
+<p rend="class(number)" id=r263>263.
+
+<p rend="class(question)" lang=ilo n=263>Caballo moreno umosoc idiay ngato.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Sabonganay ti saba
+
+<p rend="class(question)">The red horse comes out upward.
+        <p rend="class(answer)">Banana flowers
+
+
+<p rend="class(number)" id=r264>264.
+
+<p rend="class(question)" lang=tl n=264><corr sic=Ista>Isda</corr> co sa Sapa-sapa sapin-sapin ang taba.
+        <p rend="class(answer)" lang=tl>(Tag.) Saha nang saguing
+
+<p rend="class(question)">My fish in Sapa-sapa has manifold layers of fat.
+        <p rend="class(answer)">Stem of banana
+
+    <p rend="class(explanation)">The stem of a banana cut through shows in wrapping layers, not unlike fat.
+
+
+<p rend="class(number)" id=r265>265.
+
+<p rend="class(question)" lang=pam n=265>Dasug ca kaka, libutad ya y inda.
+        <p rend="class(answer)" lang=pam>(Pamp.) Saging ampo ding sui na <!--CHECK-->
+
+<p rend="class(question)">Move on my brother, let mother be in the middle.
+        <p rend="class(answer)">A banana plant and its suckers
+
+<pb id=pb92 n=92>
+    <p rend="class(explanation)">The new ones displace the older ones, pushing them outward.
+
+
+<p rend="class(number)" id=r266>266.
+
+<p rend="class(question)" lang=bis n=266>Ang puno lubi; ang dahon espada; ang bunga bala.
+        <p rend="class(answer)" lang=bis>(Bis.) Cahoy ngaburi
+
+<p rend="class(question)">The trunk cocoanut; the leaves swords; the fruit bullets.
+        <p rend="class(answer)">Buri palm
+
+
+<p rend="class(number)" id=r267>267.
+
+<p rend="class(question)" lang=pag n=267>Angibitinac na liquen tangtanga yey mamasiquen.
+        <p rend="class(answer)" lang=pag>(Pang.) Camantilis
+
+<p rend="class(question)">I was hung by a potring; the old men looked up at me.
+        <p rend="class(answer)">Camachili
+
+    <p rend="class(explanation)">The pendent fruit suggests the riddle.
+
+
+<p rend="class(number)" id=r268>268.
+
+<p rend="class(question)" lang=bis n=268>Nano nga sapat nga ang iya palod hayang pero ang iya tudlo culub?
+        <p rend="class(answer)" lang=bis>(Bis.) Packing sang lubi
+
+<p rend="class(question)">What animal is it which has its palm upside up but its fingers upside down?
+        <p rend="class(answer)">Cocoanut leaves
+
+
+<p rend="class(number)" id=r269>269.
+
+<p rend="class(question)" lang=gad n=269>Payung y Santa Maria amena mabata.
+        <p rend="class(answer)" lang=gad>(Gad.) Tafal
+
+<p rend="class(question)">Saint Mary&apos;s umbrella cannot be wetted.
+        <p rend="class(answer)">Gabi
+
+<pb id=pb93 n=93>
+    <p rend="class(explanation)">This is the cultivated plant commonly known as <hi>taro</hi>. Its great leaf sheds water perfectly.
+
+
+<p rend="class(number)" id=r270>270.
+
+<p rend="class(question)" lang=ilo n=270>No malipatam maca-alaca; quet no malaguipmo dica maca-ala.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Poriquet=amorsico
+
+<p rend="class(question)">If you do not remember, you get; but if you do remember, you do not get.
+        <p rend="class(answer)">Grass-burs
+
+
+<p rend="class(number)" id=r271>271.
+
+<p rend="class(question)" lang=ilo n=271>Agsabong dina met bonga agsanga isut bongana.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Mais
+
+<p rend="class(question)">It produces a flower but it is not its fruit; it produces branches which are its fruit.
+        <p rend="class(answer)">Maize
+
+
+<p rend="class(number)" id=r272>272.
+
+<p rend="class(question)" lang=tl n=272>Nag tapis nang nag tapis nacalitao ang bulbolis.
+        <p rend="class(answer)" lang=tl>(Tag.) Mais
+
+<p rend="class(question)">She wore and wore her <hi>tapis</hi> yet her pubic hair was displayed.
+        <p rend="class(answer)">Maize
+
+    <p rend="class(explanation)">The green husks are considered the <hi>tapis</hi>, or wrap about the mid-body; the silk appearing from the husk wrapping is the pubic hair.
+
+
+<pb id=pb94 n=94>
+<p rend="class(number)" id=r273>273.
+
+<p rend="class(question)" lang=tl n=273><sic>Alo-divino</sic> de gracia malayo ang bulaklak sa bunga.
+        <p rend="class(answer)" lang=tl>(Tag.) Mais
+
+<p rend="class(question)">Of all divine gifts it is the only plant whose flower is far from the fruit.
+        <p rend="class(answer)">Maize
+
+
+<p rend="class(number)" id=r274>274.
+
+<p rend="class(question)" lang=tl n=274>Tite nang Ingles, puno nang gales.
+        <p rend="class(answer)" lang=tl>(Tag.) Mais
+
+<p rend="class(question)">The Englishman&apos;s <abbr expan=penis>&mdash;&mdash;</abbr> is full of pustules.
+        <p rend="class(answer)">Maize; ear
+
+
+<p rend="class(number)" id=r275>275.
+
+<p rend="class(question)" lang=ilo n=275>Siasino iti pinarsua ni Apo Dios nga umuna nga matay santo agbonga?
+        <p rend="class(answer)" lang=ilo>(Iloc.&mdash;also Pang.) Sarguelas
+
+<p rend="class(question)">What thing our Lord God made dies first and then fruits?
+        <p rend="class(answer)">Plum tree
+
+
+<p rend="class(number)" id=r276>276.
+
+<p rend="class(question)" lang=tl n=276>Uala sa langit, uala sa lupa, ang dahon ay sariwa?
+        <p rend="class(answer)" lang=tl>(Tag.) Quiapo
+
+<p rend="class(question)">It is not in heaven, it is not on earth, its leaves are fresh.
+        <p rend="class(answer)">Quiapo
+
+    <p rend="class(explanation)">The water-lettuce; it covers the surface of quiet spots in rivers.
+
+<pb id=pb95 n=95>
+
+
+<p rend="class(number)" id=r277>277.
+
+<p rend="class(question)" lang=tl n=277>Cung hindi lamang si tagabundok si tagalati ay mahuhulog.
+        <p rend="class(answer)" lang=tl>(Tag.) Iyantok at parvid
+
+<p rend="class(question)">But for the one living in the mountain the one living in the swamp would fall.
+        <p rend="class(answer)">Nipa and rattan
+
+    <p rend="class(explanation)">The rattan (growing in the mountain) is used to lash on the nipa (growing in the swamp) to the house framework.
+
+
+<p rend="class(number)" id=r278>278.
+
+<p rend="class(question)" lang=ilo n=278>No colditenca matayea quet no adayoanca mabiagea.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Bainbain
+
+<p rend="class(question)">If I touch you you will die; but if I get away from you you will live.
+        <p rend="class(answer)">Sensitive plant
+
+
+<p rend="class(number)" id=r279>279.
+
+<p rend="class(question)" lang=ilo n=279>Adda maysa a cayo idiay toctoc adda bobonco.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Silag
+
+<p rend="class(question)">There is a tree up there and I have a well on it.
+        <p rend="class(answer)">Silag
+
+    <p rend="class(explanation)">A sort of palm, the bud is cut out and a sweet sap secured.
+
+
+<p rend="class(number)" id=r280>280.
+
+<p rend="class(question)" lang=ilo n=280>Tagbatec ta sacam: inomec ta daram.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Unas
+
+<p rend="class(question)">I chop your feet; I drink your blood.
+        <p rend="class(answer)">Sugarcane
+
+
+<pb id=pb96 n=96>
+<p rend="class(number)" id=r281>281.
+
+<p rend="class(question)" lang=pam n=281>Lalabas cu, tindus dacn.
+        <p rend="class(answer)" lang=pam>(Pamp.) Sulput
+
+<p rend="class(question)">I was going out into the field, they pierced me.
+        <p rend="class(answer)">A grass with slender and sharp seeds.
+
+
+<p rend="class(number)" id=r282>282.
+
+<p rend="class(question)" lang=tl n=282>Pinagsakitan kong aking matuklasan ang bagay na isang ninais makamtan at nang sa pagkita <corr sic=y>ay</corr> hindi mapalaran tinaglay-taglay ko hangang kamatayan.
+        <p rend="class(answer)" lang=tl>(Tag.) Tinik
+
+<p rend="class(question)">I sought a thing I wished to get, and as I could not find it I kept it until my death.
+        <p rend="class(answer)">Spine
+
+
+<p rend="class(number)" id=r283>283.
+
+<p rend="class(question)" lang=ilo n=283>Adda tal-lo a Princesas sag-gaysa ti coartoda ngem saan da nga agquiquita.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Tagunbao
+
+<p rend="class(question)">There are three princesses; each has a separate room and they cannot see each other.
+        <p rend="class(answer)"><hi>Tagunboa</hi>
+
+    <p rend="class(explanation)">A shrub used for hedges, with a tripartite pod or capsule.
+
+
+<p rend="class(number)" id=r284>284.
+
+<p rend="class(question)" lang=ilo n=284>Ania iti mula a uray bolding mailasinna?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Siit
+
+<pb id=pb97 n=97>
+<p rend="class(question)">What thing is blind but can select?
+        <p rend="class(answer)">Thorn
+
+
+<div2>
+<head>Qualities.</head>
+
+
+<p rend="class(number)" id=r285>285.
+
+<p rend="class(question)" lang=ilo n=285>Aniat cala-adan ti bomaro atao?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Ti quinasuquer
+
+<p rend="class(question)">What is the worst disfigurement for a young man?
+        <p rend="class(answer)">Disobedience
+
+
+<div2>
+<head>Relationship.</head>
+
+
+<p rend="class(number)" id=r286>286.
+
+<p rend="class(question)" lang=tl n=286>Ano ang <corr sic="itat awag">itatawag</corr> mo sa <corr sic=biyanang>biyenang</corr> babayi nang asawa nang kapatid mo?
+        <p rend="class(answer)" lang=tl>(Tag.) Ina
+
+<p rend="class(question)">What will you call the mother-in-law of your sister&apos;s husband?
+        <p rend="class(answer)">Mother
+
+
+<p rend="class(number)" id=r287>287.
+
+<p rend="class(question)" lang=tl n=287>Ang amain kong buo ay <corr sic=mayr>may</corr> isang kapatid na babayi, ngunit siyai hindi ko naman <sic>ali</sic>. Sino <corr sic=suja>siya</corr>?
+        <p rend="class(answer)" lang=tl>(Tag.) Aking ina
+
+<p rend="class(question)">My uncle has a sister but she is not my aunt. Who is she?
+        <p rend="class(answer)">My mother
+
+
+<p rend="class(number)" id=r288>288.
+
+<p rend="class(question)" lang=tl n=288>Ang mga babaying A at B ay nakasalubong sa daan ng dalawang lalaki; at nagwika si A; naito na ang ating mga ama, mga <pb id=pb98 n=98>ama nang ating mga anak; at mga tunay nating.
+        <p rend="class(answer)" lang=tl>(Tag.) Ang ama ni A ay napakasal kay B at ang ama ni B ay napakasal kay A at nagkaroon sila nang tigisang anak.
+
+<p rend="class(question)">Ladies A and B met two men and said, &ldquo;There come our fathers, fathers of our sons and our own husbands.&rdquo;
+        <p rend="class(answer)">A&apos;s father married with B and B&apos;s father with A, and each of them had a child.
+
+
+<p rend="class(number)" id=r289>289.
+
+<p rend="class(question)" lang=tl n=289>Nang malapos nang madalao nang isang lalaki ang isang bilango ay tinanong nang bantay; ano mo ba ang tawong iyon? Kapatid mo ba o ano? Ang sagot nang bilango ay ito; <corr sic=akay>akoy</corr> ualang kapatid, ni pamangkin ni amain, ni nuno, ni apo, ni kahit kaibigan; ngungit ang ama nang tawong <corr sic=ujan>iyan</corr>, ay anak nang anak nang aking ama. Ano nang bilango ang tawong iyon.
+        <p rend="class(answer)" lang=tl>(Tag.) Anak
+
+<p rend="class(question)">After a man visited a prisoner, <pb id=pb99 n=99>the guard asked him&mdash;&ldquo;is that man your brother, or what?&rdquo; The prisoner&apos;s answer was, &ldquo;I have no brother, no uncle, no nephew, no grandfather, neither grandson nor friend; but that man&apos;s father is my father&apos;s son. &ldquo;Who was that man?
+        <p rend="class(answer)">Son
+
+
+<div2>
+<head>Religious.</head>
+
+
+<p rend="class(number)" id=r290>290.
+
+<p rend="class(question)" lang=pag n=290>Oalayan pinalsay Dios ya amayamay iran sanaagui et sacsaquey so pait da.
+        <p rend="class(answer)" lang=pag>(Pang.&mdash;also Bis.) Colintas
+
+<p rend="class(question)">Many of them, brothers&mdash;but they have only one bodytube.
+        <p rend="class(answer)">Beads
+
+
+<p rend="class(number)" id=r291>291.
+
+<p rend="class(question)" lang=ilo n=291>Adda tal-lo gasut a bacac maymaysat nanglidingac.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Cuentas
+
+<p rend="class(question)">I have three hundred cattle, with a single nose cord.
+        <p rend="class(answer)">Beads
+
+
+<p rend="class(number)" id=r292>292.
+
+<p rend="class(question)" lang=pag n=292>Nacno agapaldua.
+        <p rend="class(answer)" lang=pag>(Pang.) Simbaan
+
+<p rend="class(question)">Only half full.
+        <p rend="class(answer)">Church
+
+
+<p rend="class(number)" id=r293>293.
+
+<p rend="class(question)" lang=bis n=293>Napuno pero ua-ay mag tunga.
+        <p rend="class(answer)" lang=bis>(Bis.) Simbahan
+
+<p rend="class(question)">They said it was full but it was half-full.
+<p rend="class(question)">Church
+
+
+<pb id=pb100 n=100>
+<p rend="class(number)" id=r294>294.
+
+<p rend="class(question)" lang=ilo n=294>Idi nagcasar ni Ina quen ni Ama avanac pay a dara ngem idi nagbuniag ni Apo siac ti namadrino.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Cristo
+
+<p rend="class(question)">When my father and mother were married I was not yet in the womb, but when my grandfather was baptized I was his godfather.
+        <p rend="class(answer)">Christ
+
+
+<p rend="class(number)" id=r296>296.
+
+<p rend="class(question)" lang=ilo n=296>Dua ti taquiagna, maysat sacana, adda olo aoan matana.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Cruz
+
+<p rend="class(question)">Two arms, one leg and a head, but no eyes.
+        <p rend="class(answer)">Cross
+
+
+<p rend="class(number)" id=r297>297.
+
+<p rend="class(question)" lang=tl n=297>Tatlo ang botones, apat ang ohales.
+        <p rend="class(answer)" lang=tl>(Tag.,&mdash;also Bis.) Cristo
+
+<p rend="class(question)">Three buttons, four holes.
+        <p rend="class(answer)">Crucifix
+
+
+<p rend="class(number)" id=r298>298.
+
+<p rend="class(question)" lang=tl n=298>May isang batang lalaque, umakyat sa camachile nang hindi ma ca puede, likod ang idinale.
+        <p rend="class(answer)" lang=tl>(Tag.) Si Cristo
+
+<p rend="class(question)">There is a boy climbed up a <hi>camachili</hi> tree; when he could not stand it he climbed on his back.
+        <p rend="class(answer)">Crucifix
+
+
+<pb id=pb101 n=101>
+<p rend="class(number)" id=r299>299.
+
+<p rend="class(question)" lang=ilo n=299>Maysa a cayo nagango idiay poona nabasa idiay tingana, nagango met ti ngodona.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Sto Cristo
+
+<p rend="class(question)">A tree dry at the foot, wet in the middle, dry also above.
+        <p rend="class(answer)">Christ, i.e., crucifix
+
+
+<p rend="class(number)" id=r300>300.
+
+<p rend="class(question)" lang=ilo n=300>Aramid ti masirib canen ti nalaing. amin a macaquita pasig amin a logpi.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Ostia
+
+<p rend="class(question)">Work of a wise man, eaten by a wise man; all who see are lame.
+        <p rend="class(answer)">The host
+
+
+<p rend="class(number)" id=r301>301.
+
+<p rend="class(question)" lang=tl n=301>Akoi nag tanim nang sicolo sa gitna nang convento, ibinunga ay si Cristo.
+        <p rend="class(answer)" lang=tl>(Tag.) Hostia
+
+<p rend="class(question)">I planted a <hi>sicolo</hi> in the midst of the convent; it bore Christ for fruit.
+        <p rend="class(answer)">The host
+
+    <p rend="class(explanation)">A <hi>sicolo</hi> is a small piece of money; it here relates to the contribution made at communion service.
+
+
+<p rend="class(number)" id=r302>302.
+
+<p rend="class(question)" lang=tl n=302>Isang tubong sinanduyon, abut sa langit ang dahon.
+        <p rend="class(answer)" lang=tl>(Tag.) Panalangin
+
+<pb id=pb102 n=102>
+<p rend="class(question)">A sugarcane without joints, whose leaves reach heaven.
+        <p rend="class(answer)">Prayer
+
+
+<p rend="class(number)" id=r303>303.
+
+<p rend="class(question)" lang=tl n=303>Nang maitayo na yaong hangang baywang nagbitiu ng pawang kalunkut lunkutan.
+        <p rend="class(answer)" lang=tl>(Tag.) Ang pitong wikang iniaaral nang pari sa Viernes Santo.
+
+<p rend="class(question)">After he hid from his feet to his waist he gave very sad things.
+        <p rend="class(answer)">The preaching in the pulpit by a priest about the seven utterances of Christ on Good Friday.
+
+
+<p rend="class(number)" id=r304>304.
+
+<p rend="class(question)" lang=ilo n=304>Aquinngatot cadsaaran, aquinbabat bobengan.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Polpito
+
+<p rend="class(question)">The floor is higher, the roof lower.
+        <p rend="class(answer)">Pulpit
+
+    <p rend="class(explanation)">i.e. than that of the building in which it stands.
+
+
+<p rend="class(number)" id=r305>305.
+
+<p rend="class(question)" lang=tl n=305><sic>Sag</sic> magkakapatid na pitong sin liyag ako ang naunang nagkitang liwanag. At ako rin naman yaong nagkapalad na tawaging bunso sa kanilang lahat.
+        <p rend="class(answer)" lang=tl>(Tag.) Ang pitong linggo nang Cuaresma.
+
+<pb id=pb103 n=103>
+<p rend="class(question)">Seven brothers are we; the firstborn was I but I am the youngest of all.
+        <p rend="class(answer)">The seven weeks of Quaresma.
+
+
+<p rend="class(number)" id=r306>306.
+
+<p rend="class(question)" lang=ilo n=306>Asin ti yanti espiritu iti bagui?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Aquincatiquid nga abaga.
+
+<p rend="class(question)">Where is the spirit in the body?
+        <p rend="class(answer)">In the left shoulder
+
+    <p rend="class(explanation)">In making the sign of the cross the word spirit comes when the left shoulder is pointed to.
+
+
+<p rend="class(number)" id=r307>307.
+
+<p rend="class(question)" lang=ilo n=307>Adda pitu a botonisco; maymaysat pinat pategco.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Domingo
+
+<p rend="class(question)">I have seven buttons; I like one best.
+        <p rend="class(answer)">Sunday
+
+
+<p rend="class(number)" id=r308>308.
+
+<p rend="class(question)" lang=ilo n=308>Pitu casiglot maymaysat nairut.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Domingo
+
+<p rend="class(question)">Seven twined (&ldquo;twisted&rdquo;), only one tight.
+        <p rend="class(answer)">Sunday
+
+
+<p rend="class(number)" id=r309>309.
+
+<p rend="class(question)" lang=ilo n=309>Contirad contibong; bandera ti lobong.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Torre
+
+<p rend="class(question)">Sharp and long; flag of the world.
+        <p rend="class(answer)">Tower
+
+
+<pb id=pb104 n=104>
+<p rend="class(number)" id=r310>310.
+
+<p rend="class(question)" lang=pag n=310>Caoayan bayog ag nayogayog.
+        <p rend="class(answer)" lang=pag>(Pang.) Torre
+
+<p rend="class(question)"><hi>Caoayan bayog</hi><note n=1>A species of bambu; firm, slender and high.</note> you cannot shake it.
+        <p rend="class(answer)">Tower
+
+
+<p rend="class(number)" id=r311>311.
+
+<p rend="class(question)" lang=tl n=311>Mayroon akong pitong bunga nang kohol ibinigay co sa iyo ang anim at ang isang natira sa akin ay ibig mo pang kunin.
+        <p rend="class(answer)" lang=tl>(Tag.) Ang pitong arao nang isang linggo.
+
+<p rend="class(question)">I have seven oranges. I gave you six and you want to take the remaining one.
+        <p rend="class(answer)">The seven days of the week
+
+
+<p rend="class(number)" id=r312>312.
+
+<p rend="class(question)" lang=tl n=312>Minagaling pa ang basag cay sa baong ualang lamat.
+        <p rend="class(answer)" lang=tl>(Tag.) Ang sabi sa evangelio ni Cristo ay ganito. Hindi rao sia naparito o nanoag dito sa lupa para sacupin ang mga banal cung di ang macasalanan.
+
+<p rend="class(question)">Better the broken piece than the whole without crack.
+        <p rend="class(answer)">In the gospel Christ said that he did not <pb id=pb105 n=105>come upon earth for the righteous but for the sinner.
+
+
+<p rend="class(number)" id=r313>313.
+
+<p rend="class(question)" lang=tl n=313>Cung uala cay magbigay ca at cung meroon ay huagna.
+        <p rend="class(answer)" lang=tl>(Tag.) Nung ang nga fariseo ay nacahuli nang mangangaluniang <sic>babae</sic> ay i ni habla cay Cristo, at ang <corr sic=canilung>canilang</corr> sabi, Hindi po ba maestro na sabi sa ley ni Moises na sino mang mahuli sa pangangalunia ay pupuculin nang bato hangan sa mamatay. Ang isinagot ni Cristo; sino mang ualang sala ay cumuha nang bato at puclin na.
+
+<p rend="class(question)">Give if you have none; if you have don&apos;t give.
+        <p rend="class(answer)">When the Pharisees caught a woman in adultery, they took her before Christ. They said, &ldquo;what sentence do you give to those taken in adultery, since in the law of Moses it is commanded that the woman taken in adultery shall be stoned until she die.&rdquo; Christ answered, &ldquo;Let him which is without sin among you cast the first stone.&rdquo;
+
+
+<pb id=pb106 n=106>
+<p rend="class(number)" id=r314>314.
+
+<p rend="class(question)" lang=tl n=314>Humiling ang hari sa canyang alagad nang uala sa kanyat di pa natatangap, ang hiningan naman ay dagling nag-gaoad nang sa boong yatu&apos;y di pa natutuklas.
+        <p rend="class(answer)" lang=tl>(Tag.) Ang pagbibinyag ni San Juan Bautista cay Cristo.
+
+<p rend="class(question)">The King asked from his soldier what he had <hi>not</hi>, and the soldier gave him what was not in the world.
+        <p rend="class(answer)">The Baptism by St. John Baptist of Christ.
+
+
+<p rend="class(number)" id=r315>315.
+
+<p rend="class(question)" lang=tl n=315>Nang mabasag ang bote lalong na paka buti.
+        <p rend="class(answer)" lang=tl>(Tag.) Mahal na Virgen
+
+<p rend="class(question)">The bottle became better when broken.
+        <p rend="class(answer)">The Virgin Mary
+
+    <p rend="class(explanation)">&ldquo;When Mary was yet unmarried and Christ had not yet been born she was not considered very sacred; we say the bottle was not yet broken. When she was married to Joseph and Christ was born she became very sacred; so we say that when the bottle was broken the better it became.&rdquo;
+
+
+<pb id=pb107 n=107><p rend="class(number)" id=r316>316.
+
+<p rend="class(question)" lang=tl n=316>Nang pitasin ang hinog hilas ang siang nahulog.
+        <p rend="class(answer)" lang=tl>(Tag.) Noong magpapugot si Herodes nang mga bata dahilan sa gusto niang mapatay si Cristo. Napatay ang meroon 1000 bata data puat si Cristo hinde napatay. Sa <corr sic=nacatuid>macatuid</corr> napitas nia ang hilao at ang hinog ay hindi. Si Cristo sapagcat puno nang <corr sic=carumingan>carunungan</corr> ay ipinalagay na hinog at ang mga bata ay hilao sapagcat sila ualapang <corr sic=carumungan>carunungan</corr>.
+
+<p rend="class(question)">When he plucked the ripe, the unripe fell.
+        <p rend="class(answer)">When King Herod wanted to kill Christ, he ordered to kill all children; he thought that if all the children in his country were killed, Christ could not escape. But he did not know how powerful Christ was. So the children who knew nothing (were unripe) fell and Christ (ripe) because he knows everything escaped.
+
+
+<p rend="class(number)" id=r317>317.
+
+<p rend="class(question)" lang=tl n=317>Ipinalit ang guinto sa bibinga.
+        <p rend="class(answer)" lang=tl>(Tag.) <pb id=pb108 n=108>Ito i nauucol sa pagsacop ni Cristo sa ating casalanan na hindi cailangan sia mamatay masacop lamang ang ating casalanan na siang catulad ng bibinga at ang <corr sic="ca niang">caniang</corr> pagca Dios na catulad ang guinto.
+
+<p rend="class(question)">Sand is changed to gold.
+        <p rend="class(answer)">This applies to Christ, when he redeemed our sins. He did not value his life but gave it that we might be saved from our sins. His life is gold because he was full of knowledge; he died on account of our sins which are like sand.
+
+
+
+<div2>
+<head>Reptiles, etc.</head>
+
+
+<p rend="class(number)" id=r318>318.
+
+<p rend="class(question)" lang=tl n=318>Nang munti ay may buntot nang lumakiy napugot.
+        <p rend="class(answer)" lang=tl>(Tag.) Palaca
+
+<p rend="class(question)">When he was little he had a tail but when he was grown he had none.
+        <p rend="class(answer)">Frog
+
+
+<p rend="class(number)" id=r319>319.
+
+<p rend="class(question)" lang=ilo n=319>Adda maysa nga ubing nga adda idiay danum ngem di met uminom.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Tocak
+
+<p rend="class(question)">There is a boy living in the water who does not drink.
+        <p rend="class(answer)">Frog
+
+<pb id=pb109 n=109>
+<p rend="class(number)" id=r320>320.
+
+<p rend="class(question)" lang=ilo n=320>Baston ti bacnang saan mo nga maiganan.
+        <p rend="class(answer)" lang=ilo>(Iloc.,&mdash;also Pang.) Uleg
+
+<p rend="class(question)">The <hi>bacnang&apos;s</hi> cane, you cannot hold it.
+        <p rend="class(answer)">Snake
+
+    <p rend="class(explanation)"><hi>Bacnang</hi>, a man of wealth.
+
+
+<p rend="class(number)" id=r321>321.
+
+<p rend="class(question)" lang=ilo n=321>No nacariing nacamulagat; no nacaturog nacamuldagat.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Uleg
+
+<p rend="class(question)">If awake, his eyes wide open; if asleep, his eyes wide open.
+        <p rend="class(answer)">Snake
+
+
+<p rend="class(number)" id=r322>322.
+
+<p rend="class(question)" lang=bis n=322>Anano nga sapat nga con maglacat, dala nia ang iya balay?
+        <p rend="class(answer)" lang=bis>(Bis.,&mdash;also Pang.) Ba-o
+
+<p rend="class(question)">What animal carries his house wherever he goes?
+        <p rend="class(answer)">Turtle
+
+
+<p rend="class(number)" id=r323>323.
+
+<p rend="class(question)" lang=gad n=323>Tata a tolay icacangcalinna na balena.
+        <p rend="class(answer)" lang=gad>(Gad.) Dagga
+
+<p rend="class(question)">A man who always carries his house along with him.
+        <p rend="class(answer)">Turtle
+
+
+<p rend="class(number)" id=r324>324.
+
+<p rend="class(question)" lang=ilo n=324>Magmagna itugtogotnat balayna.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Pag-ong
+
+<p rend="class(question)">Walking and walking and carrying his own house.
+        <p rend="class(answer)">Turtle
+
+
+<pb id=pb110 n=110>
+<p rend="class(number)" id=r325>325.
+
+<p rend="class(question)" lang=tl n=325>Eto na si caca may sunong na dampa.
+        <p rend="class(answer)" lang=tl>(Tag.) Pagong
+
+<p rend="class(question)">Here comes brother with a house over his head.
+        <p rend="class(answer)">Turtle
+
+
+<p rend="class(number)" id=r326>326.
+
+<p rend="class(question)" lang=ilo n=326>Magma nagcal-logong no maibagam pag-ong.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Pag-ong
+
+<p rend="class(question)">Walking, wearing his hat.
+        <p rend="class(answer)">Turtle
+
+
+<div2>
+<head>Road.</head>
+
+
+<p rend="class(number)" id=r327>327.
+
+<p rend="class(question)" lang=ilo n=327>Bulong ti saba umac-acaba; bulong ti niog umat-atid-dog.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Calzada
+
+<p rend="class(question)">Leaf of a banana become wider; leaf of a cocoanut become longer.
+        <p rend="class(answer)">Road
+
+
+<p rend="class(number)" id=r328>328.
+
+<p rend="class(question)" lang=ilo n=328>Nagmolaac iti carabosa iti santac na macada non idiay Manila.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Calzada
+
+<p rend="class(question)">I planted a calabash; its branches can reach to Manila.
+        <p rend="class(answer)">Road
+
+    <p rend="class(explanation)">Also has for answer, telegraph line.
+
+
+<p rend="class(number)" id=r329>329.
+
+<p rend="class(question)" lang=pag n=329>Nan ta ne mac na laver ed Dagupan angad diay lanioto.
+        <p rend="class(answer)" lang=pag>(Pang.) Calzada
+
+<pb id=pb111 n=111>
+<p rend="class(question)">I have planted a betel-tree in Dagupan but its roots reach to here.
+        <p rend="class(answer)">Road
+
+
+<div2>
+<head>Shade, Shadow, etc.</head>
+
+
+<p rend="class(number)" id=r330>330.
+
+<p rend="class(question)" lang=ilo n=330>No aoan sapolsapolen ngem no adda saan mo met nga alaen.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Linong
+
+<p rend="class(question)">If there is none you are seeking it; if there is some you do not take it.
+        <p rend="class(answer)">Shade
+
+
+<p rend="class(number)" id=r331>331.
+
+<p rend="class(question)" lang=ilo n=331>Ania ti umona nga aramiden diay vaca no lumgac ti in it?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Quitaenna diay anninioanna
+
+<p rend="class(question)">What is the first thing the cow does when the sun rises?
+        <p rend="class(answer)">Looks at its shadow
+
+
+<p rend="class(number)" id=r332>332.
+
+<p rend="class(question)" lang=ilo n=332>No magnaac iti nasipnget aoan caduac quet no magnaac iti nalaoag adda caduac.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Anninioan
+
+<p rend="class(question)">If I walk in the dark I have no companion; if I walk in the light I have one.
+        <p rend="class(answer)">Shadow
+
+
+<p rend="class(number)" id=r333>333.
+
+<p rend="class(question)" lang=ilo n=333>No tilioec tilioennac; no itarayac camatennac.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Aninioan
+
+<pb id=pb112 n=112>
+<p rend="class(question)">If I catch, it catches; if I run away it chases me.
+        <p rend="class(answer)">Shadow
+
+
+<p rend="class(number)" id=r334>334.
+
+<p rend="class(question)" lang=pag n=334>Diad ogtoy agueo oalay mapalit con anapuen no na anap co agco alaen.
+        <p rend="class(answer)" lang=pag>(Pang.) Serom
+
+<p rend="class(question)">At noon I must depart to find; if I can find it, I will not take.
+        <p rend="class(answer)">Shadow
+
+
+<p rend="class(number)" id=r335>335.
+
+<p rend="class(question)" lang=pam n=335>Milub yang alang liban, linual yang alang liualan.
+        <p rend="class(answer)" lang=pam>(Pamp.) Anina tamu a mayayaquit quing salamin.
+
+<p rend="class(question)">He came in through no door and went out through no door.
+        <p rend="class(answer)">Reflection in a mirror
+
+
+<div2>
+<head>Smoking.</head>
+
+
+<p rend="class(number)" id=r336>336.
+
+<p rend="class(question)" lang=tl n=336>San Fernando at Bakulod sabay na nasunog.
+        <p rend="class(answer)" lang=tl>(Tag.) Cigarillo
+
+<p rend="class(question)">San Fernando and Bacolor were burned at the same time.
+        <p rend="class(answer)">Cigarette
+
+    <p rend="class(explanation)">The paper and the tobacco are consumed together.
+
+<pb id=pb113 n=113>
+
+<div2>
+<head>Storm, Sky, etc.</head>
+
+
+<p rend="class(number)" id=r337>337.
+
+<p rend="class(question)" lang=tl n=337>Daluang dahon nang pinda-pinda, sing lalapad sing gaganda.
+        <p rend="class(answer)" lang=tl>(Tag.) Langit at lupa
+
+<p rend="class(question)">Two leaves of pinda-pinda equal in width and beauty.
+        <p rend="class(answer)">Sky and earth
+
+
+<p rend="class(number)" id=r338>338.
+
+<p rend="class(question)" lang=ilo n=338>Quinosicus a barraas; no maib-agam cucuanac.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Quimat
+
+<p rend="class(question)">Twisted like a <hi>barraas</hi>; tell it and I am yours.
+        <p rend="class(answer)">Lightning
+
+    <p rend="class(explanation)">The word <hi>barraas</hi> is local. Perhaps the name of some vine.
+
+
+<p rend="class(number)" id=r339>339.
+
+<p rend="class(question)" lang=bis n=339>Baston ni San Josep indi ma isip.
+        <p rend="class(answer)" lang=bis>(Bis.) Ulan
+
+<p rend="class(question)">Saint Joseph&apos;s canes cannot be counted.
+        <p rend="class(answer)">Rain
+
+    <p rend="class(explanation)">Drops of rain in a tropical storm may well suggest rods or staves.
+
+
+<p rend="class(number)" id=r340>340.
+
+<p rend="class(question)" lang=tl n=340>Buhoc ni Adan, hindi mabilang.
+        <p rend="class(answer)" lang=tl>(Tag.) Ulan
+
+<p rend="class(question)">Adam&apos;s hair cannot be counted.
+        <p rend="class(answer)">Rain
+
+
+<pb id=pb114 n=114>
+<p rend="class(number)" id=r341>341.
+
+<p rend="class(question)" lang=ilo n=341>Isbu ti guelang-guelang di mabilang.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Todo
+
+<p rend="class(question)">Guelang-guelang&apos;s piss, you cannot count.
+        <p rend="class(answer)">Rain
+
+
+<p rend="class(number)" id=r342>342.
+
+<p rend="class(question)" lang=tl n=342>Vaca co sa Maynila, hangang ditoi, dinig ang unga.
+        <p rend="class(answer)" lang=tl>(Tag.) Culog
+
+<p rend="class(question)">My cow in Manila, whose mooing is heard here.
+        <p rend="class(answer)">Thunder
+
+
+<p rend="class(number)" id=r343>343.
+
+<p rend="class(question)" lang=ilo n=343>Aniat magna a saan a maquita?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Angin
+
+<p rend="class(question)">What walks that cannot be seen?
+        <p rend="class(answer)">Wind
+
+
+<p rend="class(number)" id=r344>344.
+
+<p rend="class(question)" lang=tl n=344>Etuna-etuna hindi mo pa naqui-quita.
+        <p rend="class(answer)" lang=tl>(Tag.) Hangin
+
+<p rend="class(question)">Here it comes, yet you do not see it.
+        <p rend="class(answer)">Wind
+
+
+<p rend="class(number)" id=r345>345.
+
+<p rend="class(question)" lang=pam n=345>Picabaluan de ding malda alang maca ibic uaga.
+        <p rend="class(answer)" lang=pam>(Pamp.) Angin
+
+<p rend="class(question)">He is known everywhere but no one can explain what he is.
+        <p rend="class(answer)">Wind
+
+
+<div2>
+<head>Stove.</head>
+
+
+<p rend="class(number)" id=r346>346.
+
+<p rend="class(question)" lang=ilo n=346>Tal-lo a pugot natured ti pudut.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Dalican
+
+<pb id=pb115 n=115>
+<p rend="class(question)">Three ghosts endure much heat.
+        <p rend="class(answer)">Stove
+
+    <p rend="class(explanation)">The three supports for the pot are meant. It seems that the <hi>pugot</hi> (ghost) is black.
+
+
+<p rend="class(number)" id=r347>347.
+
+<p rend="class(question)" lang=tl n=347>Tatlong magkakapatid <corr sic=nagtiliis>nagtitiis</corr> sa init.
+        <p rend="class(answer)" lang=tl>(Tag.) Tungko nang calang
+
+<p rend="class(question)">Three brothers suffering from the heat.
+        <p rend="class(answer)">Pot rests
+
+
+<p rend="class(number)" id=r348>348.
+
+<p rend="class(question)" lang=tl n=348>Tatlong mag kakapitid sing pupute nang dibdib.
+        <p rend="class(answer)" lang=tl>(Tag.) Calan
+
+<p rend="class(question)">Three sisters with equally white breasts.
+        <p rend="class(answer)">Stove
+
+    <p rend="class(explanation)">They are equally white&mdash;i.e. they are all three black from the fire.
+
+
+<p rend="class(number)" id=r349>349.
+
+<p rend="class(question)" lang=ilo n=349>Nagcal-logong nag pica nagcaballo tallot sacana.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Dalican
+
+<p rend="class(question)">It has a hat and a spear, a horse and three feet.
+        <p rend="class(answer)">Stove
+
+
+<p rend="class(number)" id=r350>350.
+
+<p rend="class(question)" lang=tl n=350>Malaki ang namahay cay sa bahay.
+        <p rend="class(answer)" lang=tl>(Tag.) Calang at ang bahay nang Calang.
+
+<p rend="class(question)">The inhabitant is larger than the <pb id=pb116 n=116>house.
+        <p rend="class(answer)">Stove and its lower part (called its house.)
+
+
+<p rend="class(number)" id=r351>351.
+
+<p rend="class(question)" lang=tl n=351>Na upo si ca Item, sinulot nica Pula.
+        <p rend="class(answer)" lang=tl>(Tag.) Pallot at apoy
+
+<p rend="class(question)">Compadre &ldquo;Item&rdquo; (black) sat down, Compadre &ldquo;Pula&rdquo; (red) poked him.
+        <p rend="class(answer)">Pot and flame
+
+
+<p rend="class(number)" id=r352>352.
+
+<p rend="class(question)" lang=pam n=352>Ing caballero cung negro makasake yang attung cabayu dapat kikiak yang anting loco.
+        <p rend="class(answer)" lang=pam>(Pamp.) Balanga ampong nasi.
+
+<p rend="class(question)">My black horseman rides three horses but he is crying like a fool.
+        <p rend="class(answer)">A pot of cooking rice
+
+    <p rend="class(explanation)">The three horses are the firestones or the three supports of the pot in the pottery stove; the bubbling is the crying.
+
+
+<div2>
+<head>Time.</head>
+
+
+<p rend="class(number)" id=r353>353.
+
+<p rend="class(question)" lang=ilo n=353>Ania nga aldao ti caatid-dagan?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Ti aldao a saan a panangan.
+
+<p rend="class(question)">What day is the longest?
+        <p rend="class(answer)">The day on which you do not eat
+
+
+<pb id=pb117 n=117>
+<p rend="class(number)" id=r354>354.
+
+<p rend="class(question)" lang=tl n=354>Nag daan si Cabo negro, namatay na lahat ang tao.
+        <p rend="class(answer)" lang=tl>(Tag.) Gabi
+
+<p rend="class(question)">The black Corporal passed, all the people died.
+        <p rend="class(answer)">Night
+
+    <p rend="class(explanation)">Died, here, is slept.
+
+
+<div2>
+<head>Tools.</head>
+
+
+<p rend="class(number)" id=r355>355.
+
+<p rend="class(question)" lang=pam n=355>Nung eminuna ing malati, ing maragul emituqui.
+        <p rend="class(answer)" lang=pam>(Pamp.) Barrenang espiral
+
+<p rend="class(question)">If not preceded by the smaller the larger one will not go.
+        <p rend="class(answer)">Auger
+
+
+<p rend="class(number)" id=r356>356.
+
+<p rend="class(question)" lang=ilo n=356>Adda pinarsua iti Dios natanquen ti pammaguina madi a mangan no di matoen ti olona.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Paet
+
+<p rend="class(question)">There is a creature of God whose body is hard; it does not wish to eat unless you strike its head.
+        <p rend="class(answer)">Chisel
+
+
+<p rend="class(number)" id=r357>357.
+
+<p rend="class(question)" lang=ilo n=357>Adda babay a labang di mangan no diai paculan.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Paet
+
+<p rend="class(question)">There is a woman who does not eat unless you strike her.
+        <p rend="class(answer)">Chisel
+
+
+<pb id=pb118 n=118>
+<p rend="class(number)" id=r358>358.
+
+<p rend="class(question)" lang=pam n=358>Ing damulag cung dapa, quing gulut ya ta tacla.
+        <p rend="class(answer)" lang=pam>(Pamp.) Catam
+
+<p rend="class(question)">My crawling carabao excretes its feces upward.
+        <p rend="class(answer)">Plane
+
+
+<p rend="class(number)" id=r359>359.
+
+<p rend="class(question)" lang=ilo n=359>Taot ngato, taot baba, cayot tingana.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Ragadi
+
+<p rend="class(question)">Man above, man below, wood in middle.
+        <p rend="class(answer)">Saw
+
+    <p rend="class(explanation)">Below the horizontally placed timber to be sawed a pit is dug; one sawyer is below in the pit, the other above, each holds a handle of the great saw, which works up and down.
+
+
+<div2>
+<head>Toy.</head>
+
+
+<p rend="class(number)" id=r360>360.
+
+<p rend="class(question)" lang=pag n=360>Enbontayog coy ecnol quinmocaoc ya tampol.
+        <p rend="class(answer)" lang=pag>(Pang.) Bibintarol
+
+<p rend="class(question)">I throw the eggs; they crow immediately.
+        <p rend="class(answer)">Firecracker
+
+
+<p rend="class(number)" id=r361>361.
+
+<p rend="class(question)" lang=ilo n=361>Adda abalbalayco a sinam granada rineppetco a binastabasta imbarsacco diay daga nasay sayaat ti cancionna,
+        <p rend="class(answer)" lang=ilo>(Iloc.) Sunay
+<pb id=pb119 n=119>
+
+<p rend="class(question)">I have a toy like a granada; I tied it around and around and threw it on the ground and it sang sweetly.
+        <p rend="class(answer)">Top
+
+
+<div2>
+<head>Trunk.</head>
+
+
+<p rend="class(number)" id=r362>362.
+
+<p rend="class(question)" lang=ilo n=362>Pusipusec ta pusegmo ta iruarco ta quinnanmo.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Lacaza
+
+<p rend="class(question)">I turn your navel to take out what you have eaten.
+        <p rend="class(answer)">Trunk
+
+
+<p rend="class(number)" id=r363>363.
+
+<p rend="class(question)" lang=ilo n=363>Adda pay maysa nga quita diay balay a naaramid iti cayo quet adda met uppat nga sacana nga babasit quet adda met innem nga acaba quencuana rupano quet agngiao saan nga magna.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Baol
+
+<p rend="class(question)">I have something in my house made of wood; it has four short legs and six flat faces; it squeaks, but cannot walk.
+        <p rend="class(answer)">Trunk
+
+
+<div2>
+<head>Umbrella.</head>
+
+
+<p rend="class(number)" id=r364>364.
+
+<p rend="class(question)" lang=ilo n=364>No umulog ti se&ntilde;ora augucrad ti sampaga.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Payong
+
+<pb id=pb120 n=120>
+<p rend="class(question)">When the lady comes down the <hi>sampaga</hi><note n=1>a flower.</note> opens.
+        <p rend="class(answer)">Umbrella
+
+
+<p rend="class(number)" id=r365>365.
+
+<p rend="class(question)" lang=bis n=365>Con butongon pasoc; con induso payog.
+        <p rend="class(answer)" lang=bis>(Bis.) Payong
+
+<p rend="class(question)">When pulled it is a cane; when pushed a tent.
+        <p rend="class(answer)">Umbrella
+
+
+<div2>
+<head>Utensils, etc.</head>
+
+
+<p rend="class(number)" id=r366>366.
+
+<p rend="class(question)" lang=tl n=366>Hindi tayop, hindi tao, apat ang suso.
+        <p rend="class(answer)" lang=tl>(Tag.,&mdash;also Pang.) Buslo
+
+<p rend="class(question)">Not animal, not man. She has four breasts.
+        <p rend="class(answer)">Basket
+
+
+<p rend="class(number)" id=r367>367.
+
+<p rend="class(question)" lang=tl n=367>Hindi hare, hinde pare, nag dadamet nang sari-sari.
+        <p rend="class(answer)" lang=tl>(Tag.) Sampayan
+
+<p rend="class(question)">Not king, not <hi>padre</hi>, it wears many kinds of clothes.
+        <p rend="class(answer)">Clothes-line
+
+
+<p rend="class(number)" id=r368>368.
+
+<p rend="class(question)" lang=ilo n=368>Adda maysa nga ubing a natured ti lammin.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Sudo
+
+<p rend="class(question)">There is a boy, who does not shiver with the cold.
+        <p rend="class(answer)">Dipper
+
+    <p rend="class(explanation)">This dipper is made from the half of a polished cocoanut shell.
+
+
+<pb id=pb121 n=121>
+<p rend="class(number)" id=r369>369.
+
+<p rend="class(question)" lang=tl n=369>Nang isoot coi, tuyo, nang bunuten coi natulo.
+        <p rend="class(answer)" lang=tl>(Tag.) Tabo
+
+<p rend="class(question)">When I plunged it in it was dry; when I drew it out it was dripping.
+        <p rend="class(answer)">Dipper
+
+
+<p rend="class(number)" id=r370>370.
+
+<p rend="class(question)" lang=bis n=370>Sacay sino balay ina nga puno sang ventana?
+        <p rend="class(answer)" lang=bis>(Bis.) Puluguan
+
+<p rend="class(question)">Whose house is that, which is full of windows?
+        <p rend="class(answer)">The hen house
+
+
+<p rend="class(number)" id=r371>371.
+
+<p rend="class(question)" lang=ilo n=371>No adda ti lenong agcalcal logong.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Caramba
+
+<p rend="class(question)">If it is in the shade it wears its hat.
+        <p rend="class(answer)">A jar full of water
+
+
+<p rend="class(number)" id=r372>372.
+
+<p rend="class(question)" lang=ilo n=372>Aniat aramid a nagbaticuling ti sabut.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Pagbagasan
+
+<p rend="class(question)">What work has a gizzard like a <hi lang=ilo>sabut</hi>?
+        <p rend="class(answer)">Storage jar for rice
+
+    <p rend="class(explanation)">The <hi lang=ilo>sabut</hi> is the cocoanut cup or bowl: in the <hi>pagbagasan</hi>, there is always a <hi>ganta</hi> for measuring rice. This <hi>ganta</hi> is the gizzard here meant.
+
+<pb id=pb122 n=122>
+
+
+<p rend="class(number)" id=r373>373.
+
+<p rend="class(question)" lang=ilo n=373>Pusepusec ti bato tumbog carayan Veto.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Gilingan
+
+<p rend="class(question)">I turn the stone and there flows out like the Veto river.
+        <p rend="class(answer)">Mill
+
+
+<p rend="class(number)" id=r374>374.
+
+<p rend="class(question)" lang=tl n=374>Hiniguit co ang yantok, nag bibiling ang bundoc.
+        <p rend="class(answer)" lang=tl>(Tag.) Guilingan
+
+<p rend="class(question)">I pulled the rope and the mountain turned.
+        <p rend="class(answer)">Mill
+
+
+<p rend="class(number)" id=r375>375.
+
+<p rend="class(question)" lang=tl n=375>Hiniguit co ang Caguin, nag kakara ang maching.
+        <p rend="class(answer)" lang=tl>(Tag.) Guilingan
+
+<p rend="class(question)">I pulled the rope and the monkey began to howl.
+        <p rend="class(answer)">Mill <!-- Added JH -->
+
+    <p rend="class(explanation)">Refers to the creaking of the mill, when grinding.
+
+
+<p rend="class(number)" id=r376>376.
+
+<p rend="class(question)" lang=tl n=376>Isang malaking babai, sa likuran tumatae.
+        <p rend="class(answer)" lang=tl>(Tag.) Guilingan
+
+<p rend="class(question)">A big woman, who excretes at the back.
+        <p rend="class(answer)">Mill
+
+    <p rend="class(explanation)">The meal is here considered as excreted.
+
+
+<p rend="class(number)" id=r377>377.
+
+<p rend="class(question)" lang=tl n=377>Dinalas nang dinalas mapute ang lumabas.
+        <p rend="class(answer)" lang=tl>(Tag.) Guilingan
+
+<pb id=pb123 n=123>
+<p rend="class(question)">Somebody got busy and something white appeared.
+        <p rend="class(answer)">Mill
+
+    <p rend="class(explanation)">The ground rice pours out from the mill as a white meal.
+
+
+<p rend="class(number)" id=r378>378.
+
+<p rend="class(question)" lang=pam n=378>Aldo at bengi macanganga ya, manena ya yang parusa.
+        <p rend="class(answer)" lang=pam>(Pamp.) Asung
+
+<p rend="class(question)">It gapes day and night awaiting punishment.
+        <p rend="class(answer)">Mortar
+
+
+<p rend="class(number)" id=r379>379.
+
+<p rend="class(question)" lang=bis n=379>Isa lamang ang sapin, duha ang batiis apat ang pa-a, isa ang lauas, isa ang baba apang uala sing olo.
+        <p rend="class(answer)" lang=bis>(Bis.) Luzong
+
+<p rend="class(question)">He has but one shoe, two shins, four legs, one body, one mouth, but no head.
+        <p rend="class(answer)">Mortar
+
+
+<p rend="class(number)" id=r380>380.
+
+<p rend="class(question)" lang=ilo n=380>No igamac ta siquet mo lagtoca a lagto.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Al-o
+
+<p rend="class(question)">If I hold your waist you jump and jump.
+        <p rend="class(answer)">Pestle
+
+    <p rend="class(explanation)">In pounding rice, the great wooden pestle is taken by the middle, which is more slender than the pounding ends.
+
+
+<p rend="class(number)" id=r381>381.
+
+<p rend="class(question)" lang=ilo n=381>No magna ni arodoc agparintomeng amin a root.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Arado
+
+<pb id=pb124 n=124>
+<p rend="class(question)">When the creeper passes all the grass kneels.
+        <p rend="class(answer)">Plow
+
+
+<p rend="class(number)" id=r382>382.
+
+<p rend="class(question)" lang=ilo n=382>Cobbo ni amam quiad ni inam sica nga anacda daramodum ca.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Arado
+
+<p rend="class(question)">The father is bent over, the mother is bent back and the son is bent forward.
+        <p rend="class(answer)">Plow
+
+    <p rend="class(explanation)">This has reference to the different sticks, or pieces, of which the plow is composed.
+
+
+<p rend="class(number)" id=r383>383.
+
+<p rend="class(question)" lang=tl n=383>Sa palacol nabuhay
+<lb>at sa untog namatay.
+        <p rend="class(answer)" lang=tl>(Tag.) Palayoc
+
+<p rend="class(question)">Produced by hammering but destroyed by a jar.
+        <p rend="class(answer)">Pot
+
+    <p rend="class(explanation)">Clay for pottery is prepared by pounding it with a light hammer; it is also beaten into shape in the process of giving it form.
+
+
+<p rend="class(number)" id=r384>384.
+
+<p rend="class(question)" lang=pag n=384>Pegarenco abot pegarenco abot.
+        <p rend="class(answer)" lang=pag>(Pang.) Liquen
+
+<p rend="class(question)">I turn over completely, I turn over completely.
+        <p rend="class(answer)">Pot ring support
+
+
+<p rend="class(number)" id=r385>385.
+
+<p rend="class(question)" lang=ilo n=385>Adda abal-balayco a pusipusac a pusipus mabalbal-cut.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Pudonan
+<pb id=pb125 n=125>
+
+<p rend="class(question)">I have a thing, which I twine and twine and it is covered.
+        <p rend="class(answer)">Weaving spool
+
+
+<p rend="class(number)" id=r386>386.
+
+<p rend="class(question)" lang=bis n=386>Nano nga sapat nga baba ang naga caon, mata ang nga pamus-on?
+        <p rend="class(answer)" lang=bis>(Bis.) Ayagan
+
+<p rend="class(question)">What animal is it, which takes its food through its mouth and excretes it through its eyes?
+        <p rend="class(answer)">Sieve
+
+
+<p rend="class(number)" id=r387>387.
+
+<p rend="class(question)" lang=tl n=387>Bahay ni Guiring-guiring butas-butas ang sinding.
+        <p rend="class(answer)" lang=tl>(Tag.) Bithay
+
+<p rend="class(question)">&ldquo;Guiring-guiring&apos;s&rdquo; house is full of holes.
+        <p rend="class(answer)">Sieve
+
+
+<p rend="class(number)" id=r388>388.
+
+<p rend="class(question)" lang=ilo n=388>Adda maysa a caballo; tal-lot sacana; no dica sacayan di magna.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Egad
+
+<p rend="class(question)">There is a horse; he has three legs; if you do not ride on him, he never walks.
+        <p rend="class(answer)">Copra shredder
+
+
+<p rend="class(number)" id=r389>389.
+
+<p rend="class(question)" lang=pag n=389>Limma ac ed Dagupan dugduaray bacatco.
+        <p rend="class(answer)" lang=pag>(Pang.) Sali
+
+<p rend="class(question)">I went to Dagupan but I left only two footprints.
+        <p rend="class(answer)">Sled
+
+
+<p rend="class(number)" id=r390>390.
+
+<p rend="class(question)" lang=ilo n=390>Aniat aramid a duduat tugaona <pb id=pb126 n=126>inganat panacaparsuana?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Pasagad
+
+<p rend="class(question)">What work has two seats since its creation?
+        <p rend="class(answer)">Sled
+
+
+<p rend="class(number)" id=r391>391.
+
+<p rend="class(question)" lang=ilo n=391>Ania ti uppat ti sacana dudua ti tugotna?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Pasagad
+
+<p rend="class(question)">What has four feet but only two foot-prints?
+        <p rend="class(answer)">Rice-sled
+
+    <p rend="class(explanation)">The sled for hauling rice has four supports or legs, which end in two runners.
+
+
+<p rend="class(number)" id=r392>392.
+
+<p rend="class(question)" lang=ilo n=392>Pusepusec ti pengan tum-bog carayan Vigan.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Dadapilan
+
+<p rend="class(question)">I turn the plate and water flows out like the Vigan River.
+        <p rend="class(answer)">Sugarmill
+
+
+<p rend="class(number)" id=r393>393.
+
+<p rend="class(question)" lang=pag n=393>Oalay baboy con baleg son laben nga libngaleb.
+        <p rend="class(answer)" lang=pag>(Pang.) Darapitan
+
+<p rend="class(question)">I have a large pig; during the night he grunts.
+        <p rend="class(answer)">Sugarmill
+
+
+<div2>
+<head>Vegetables.</head>
+
+
+<p rend="class(number)" id=r394>394.
+
+<p rend="class(question)" lang=tl n=394>Tite nang ama mo, isinubsob co sa abo.
+        <p rend="class(answer)" lang=tl>(Tag.) Camote
+
+<p rend="class(question)">Your father&apos;s <abbr expan=penis>&mdash;&mdash;</abbr> I place in the ashes.
+        <p rend="class(answer)">Camote
+
+<pb id=pb127 n=127>
+    <p rend="class(explanation)">The <hi>camote</hi> is a sort of sweet potato; it may be baked in the ashes.
+
+
+<p rend="class(number)" id=r395>395.
+
+<p rend="class(question)" lang=ilo n=395>Nagsabong ti sinan malucong nagbunga uneg ti daga.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Camote
+
+<p rend="class(question)">It produces a flower like a cup; fruit underground.
+        <p rend="class(answer)">Camote
+
+
+<p rend="class(number)" id=r396>396.
+
+<p rend="class(question)" lang=pag n=396>Sirad <hi>mirabilis</hi> oalad dalem so sicsic.
+        <p rend="class(answer)" lang=pag>(Pang.) Cete
+
+<p rend="class(question)">The <hi>mirabilis</hi> (fish) has his scales inside.
+        <p rend="class(answer)"><hi>Cete</hi>
+
+    <p rend="class(explanation)">The <hi>cete</hi> (&ldquo;<hi>piquante</hi>&rdquo;) is the pepper.
+
+
+<p rend="class(number)" id=r397>397.
+
+<p rend="class(question)" lang=pag n=397>Otin nen laquic Duardo batil ya anga ed ngoro.
+        <p rend="class(answer)" lang=pag>(Pang.) Palia
+
+<p rend="class(question)">My grandfather Eduardo&apos;s <abbr expan=penis>&mdash;&mdash;</abbr> is covered with pimples.
+        <p rend="class(answer)">Cucumber
+
+
+<p rend="class(number)" id=r398>398.
+
+<p rend="class(question)" lang=ilo n=398>Oquis nan bagasnan.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Lasona
+
+<p rend="class(question)">Its bark is its seed.
+        <p rend="class(answer)">Onion
+
+
+<p rend="class(number)" id=r399>399.
+
+<p rend="class(question)" lang=tl n=399>Binili ang isang minithi kong bagay at ang hinahangad ay pakina-bangan, pagdating sa amin ang pinangyarihan, nang gagamitin luha koy bumakal.
+        <p rend="class(answer)" lang=tl>(Tag.) Sibuyas
+
+<pb id=pb128 n=128>
+<p rend="class(question)">I bought a thing I wished to use; when I tried to use it my tears fell.
+        <p rend="class(answer)">Onion
+
+
+<p rend="class(number)" id=r400>400.
+
+<p rend="class(question)" lang=tl n=400><corr sic=Ista>Isda</corr> co sa Mariveles sapin-sapin ang caliskis.
+        <p rend="class(answer)" lang=tl>(Tag.) Sile
+
+<p rend="class(question)">My fish in Mariveles has manifold scales.
+        <p rend="class(answer)">Pepper
+
+    <p rend="class(explanation)">Scales laid upon one another; the seeds of the pepper are flat and stacked against one another.
+
+
+<p rend="class(number)" id=r401>401.
+
+<p rend="class(question)" lang=tl n=401>Mahanghang hindi naman paminta; maputi hindi naman papel; verde hindi naman suha; turang mong bigla.
+        <p rend="class(answer)" lang=tl>(Tag.) Rabanos
+
+<p rend="class(question)">It is sharp but not pepper; white but not paper; green but not shaddock; guess what that is.
+        <p rend="class(answer)">Radish
+
+
+<p rend="class(number)" id=r402>402.
+
+<p rend="class(question)" lang=bis n=402>Ang iloy naga camang ang bata naga pungco.
+        <p rend="class(answer)" lang=bis>(Bis.) Calabaza
+
+<p rend="class(question)">The mother creeps, and the son sits.
+        <p rend="class(answer)">Squash
+
+    <p rend="class(explanation)">The mother is the vine; the child is the fruit. The riddle gains point, by suggesting <pb id=pb129 n=129>a reversal of the natural conditions.
+
+
+<p rend="class(number)" id=r403>403.
+
+<p rend="class(question)" lang=ilo n=403>Ania iti parsua ni Apo Dios nga aoan ti matana aoan ti ngioatna quen aoan ti obetna quet mangan ti ladoc-ladoc?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Tabungao
+
+<p rend="class(question)">What creature of Lord God has no eyes, no mouth, no anus&mdash;and eats <hi>ladoc-ladoc</hi>?
+        <p rend="class(answer)">A white squash
+
+    <p rend="class(explanation)"><hi>Ladoc-ladoc</hi> is rice flattened in the mortar by the blows of the pounder. The seeds of the <hi>tabungao</hi> resemble it.
+
+
+<p rend="class(number)" id=r404>404.
+
+<p rend="class(question)" lang=pam n=404>Berdi ya balat, malutu ya laman anti mo ing pacuan.
+        <p rend="class(answer)" lang=pam>(Pamp.) Pacuan
+
+<p rend="class(question)">Its skin is green and its flesh is like a watermelon.
+        <p rend="class(answer)">Watermelon
+
+    <p rend="class(explanation)">The riddle is poor, in that it introduces the answer as a term of comparison, in a way to mislead. Similar cases occur in other lands.
+
+
+<p rend="class(number)" id=r405>405.
+
+<p rend="class(question)" lang=tl n=405>Verde ang balat pula ang laman espectorante cung turan.
+        <p rend="class(answer)" lang=tl>(Tag.) Pacuan
+
+<p rend="class(question)">Green skin, red meat, <hi>espectorante</hi> they call it.
+        <p rend="class(answer)">Watermelon
+
+
+<pb id=pb130 n=130>
+<div2>
+<head>Vision.</head>
+
+
+<p rend="class(number)" id=r406>406.
+
+<p rend="class(question)" lang=pag n=406>Limocsoac alabasco agco asabi.
+        <p rend="class(answer)" lang=pag>(Pang.) Pacanengneng
+
+<p rend="class(question)">I jumped further but I did not reach.
+        <p rend="class(answer)">To see
+
+
+<div2>
+<head>Waves.</head>
+
+
+<p rend="class(number)" id=r407>407.
+
+<p rend="class(question)" lang=bis n=407>Naga dalagan nga ua-ay sing ti-il cog naga ngurub nga ua-ay sing baba.
+        <p rend="class(answer)" lang=bis>(Bis.) Balod
+
+<p rend="class(question)">It runs having no feet and it roars having no mouth.
+        <p rend="class(answer)">Waves
+
+
+<div2>
+<head>Word plays.</head>
+
+
+<p rend="class(number)" id=r408>408.
+
+<p rend="class(question)" lang=ilo n=408>Ania iti mainaganan ari ditoy bagui?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Aripoyot
+
+<p rend="class(question)">What king (<hi>ari</hi>) do you name in your body?
+        <p rend="class(answer)"><hi>Ari</hi>poyot
+
+    <p rend="class(explanation)">This is the great inner muscle of the upper leg.
+
+
+<p rend="class(number)" id=r409>409.
+
+<p rend="class(question)" lang=tl n=409>Cung hindi lamang ang tatlong letra t, o, at s ay kinakain sana siya.
+        <p rend="class(answer)" lang=tl>(Tag.) Asintos
+
+<p rend="class(question)">But for the letters t o s we would be eating it.
+        <p rend="class(answer)">(String)
+
+    <p rend="class(explanation)">The word <hi lang=tl>asintos</hi> means string; dropping <pb id=pb131 n=131>the letters <hi>tos</hi> we have <hi lang=tl>asin</hi> left, meaning salt.
+
+
+<p rend="class(number)" id=r410>410.
+
+<p rend="class(question)" lang=tl n=410>Bugtong pasmiasa, puno at duloi may bunga.
+        <p rend="class(answer)" lang=tl>(Tag.) Calamias
+
+<p rend="class(question)">Bugtong pas&ldquo;mias&rdquo;a, whose trunk and branches have fruit.
+        <p rend="class(answer)">Calamias
+
+    <p rend="class(explanation)">Bugtong is a riddle: the word pas&ldquo;mias&rdquo;a has no meaning. There is here a mere play on the sound of words. <corr sic="&ldquo;"></corr>Pas&ldquo;mias&rdquo;a suggests the answer.
+
+
+<p rend="class(number)" id=r411>411.
+
+<p rend="class(question)" lang=ilo n=411>Casano iti panangtiliu iti ugsa a di masapul iti silo, aso, gayang, oen no a aniaman a paniliu?
+        <p rend="class(answer)" lang=ilo>(Iloc.) Urayec a maloto
+
+<p rend="class(question)">How do you take a deer without net, dogs, spear, or other things for catching?
+        <p rend="class(answer)">Cooked
+
+
+<p rend="class(number)" id=r412>412.
+
+<p rend="class(question)" lang=pam n=412>Laguiung tao, laguiung manuc, delana ning me tung a yayup.
+        <p rend="class(answer)" lang=pam>(Pamp.) Culassisi
+
+<p rend="class(question)">The name of a man, the name of a chicken, were carried by a bird.
+
+    <p rend="class(explanation)"><hi>Culas</hi> is a man&apos;s name; <hi>sisi</hi> the name of a chicken. Combined they make a bird&apos;s name.
+
+
+<pb id=pb132 n=132><p rend="class(number)" id=r413>413.
+
+<p rend="class(question)" lang=bis n=413>Indi sapat indi man tano apang, ang ngalan nia si &ldquo;esco.&rdquo;
+        <p rend="class(answer)" lang=bis>(Bis.,&mdash;also Tag.) Escopidor, Escopeta.
+
+<p rend="class(question)">Neither animal nor man but its name is &ldquo;esco.&rdquo;
+        <p rend="class(answer)">Escopidor, Escopeta
+
+    <p rend="class(explanation)">A mere play on the words. <hi>Esco</hi> is a nickname for Francisco. The <hi>escupidor</hi> is a cuspidor, the <hi>escopeta</hi> a broom. The meaning of the words goes for nothing. The words are both of Spanish origin.
+
+
+<p rend="class(number)" id=r414>414.
+
+<p rend="class(question)" lang=ilo n=414>Macatu ti poonna, rugac iti ngo-duna.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Macaturugac
+
+    <p rend="class(explanation)">Macatu = cloth
+    <p rend="class(explanation)">Rugac = old, rotten clothing
+
+<p rend="class(question)">Cloth is the beginning; tatters the ending.
+    <p rend="class(explanation)">i.e. <hi>Macatu</hi> is the beginning, <hi>rugac</hi> the ending. The whole word means I am sleeping.
+
+
+<p rend="class(number)" id=r415>415.
+
+<p rend="class(question)" lang=ilo n=415>Salapi iti poona; ngao ti ngodona.
+        <p rend="class(answer)" lang=ilo>(Iloc.) Salapingao
+
+<p rend="class(question)">(Fifty cents) <hi>Salapi</hi> is the beginning; (&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;) <hi>ngao</hi> the end.
+
+    <pb id=pb133 n=133><p rend="class(explanation)">The <hi>Salapingao</hi> is a bird &ldquo;like a swallow.&rdquo;
+
+
+<p rend="class(number)" id=r416>416.
+
+<p rend="class(question)" lang=tl n=416>Sinampal co bago inaloc.
+        <p rend="class(answer)" lang=tl>(Tag.) Sampaloc
+
+<p rend="class(question)">I slapped before I offered.
+        <p rend="class(answer)">Sampaloc
+
+    <p rend="class(explanation)">There is simple word play here; the beginning and end of the riddle give the word S(in)ampal-oc. The Sampaloc is a fruit tree.
+
+
+</body>
+<back id=backmatter>
+
+
+<divGen type=Colophon>
+
+
+</back>
+</text>
+</TEI.2>

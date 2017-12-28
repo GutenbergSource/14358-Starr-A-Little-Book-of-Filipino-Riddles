@@ -1,0 +1,25 @@
+
+p.number
+{
+    font-weight:bold;
+}
+
+p.question
+{
+    margin-bottom:0;
+    text-align:left;
+}
+
+p.answer
+{
+    color:#999999;
+    margin-top:0;
+    text-align:right;
+}
+
+p.explanation
+{
+    font-size:smaller;
+    margin-left:0.9em;
+    margin-right:0.9em;
+}
